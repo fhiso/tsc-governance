@@ -1,9 +1,11 @@
-DIRECTIVES of the CORE CONCEPTS EXPLORATORY GROUP
-of the FAMILY HISTORY INFORMATION STANDARDS ORGANISATION, INC.
+Directives of the Core Concepts Exploratory Group
+=================================================
 
+*Approved by the Technical Standing Committee and published on 23
+September 2014.*
 
-1.  Mission
-===========
+1\.  Mission
+------------
 
 The Core Concepts Exploratory Group (CCEG) of the Family History
 Information Standards Organisation, Inc. (FHISO) is tasked with carrying
@@ -42,8 +44,8 @@ serialisation formats or data formalisms that may be adopted by the
 FHISO.
 
 
-2. Operation
-============
+2\. Operation
+-------------
 
 The CCEG shall ordinarily conduct its business on the public
 core-concepts@fhiso.org mailing list.  The CCEG may after consultation
@@ -74,28 +76,28 @@ All deliverables produced by the CCEG shall comply with the policies
 given in section 5 of the O&PM, and which any style guides that in the
 future be approved by the TSC or by FHISO's Executive Committee.  The
 TSC shall maintain as annex A.3 to these Directives a record of all
-deliverables produce by the CCEG.
+deliverables produced by the CCEG.
 
-The CCEG Coordinator shall keep concise minutes of the decision made by
+The CCEG Coordinator shall keep concise minutes of the decisions made by
 the CCEG, and other events deemed worthy of record.  The CCEG
 Coordinator should liaise with the TSC to ensure these are made public
 no more than a month after the events being minuted.  This task may be
 delegated to a Recorder appointed by the CCEG Coordinator.
 
 
-3. Governance
-=============
+3\. Governance
+--------------
 
 The work of the CCEG shall be supervised by the TSC and is governed by
 the policies given in sections 2 and 3 of the O&PM, and section 4 of the
-TSC Charter.  The TSC shall appoint an Coordinator for the CCEG, and who
+TSC Charter.  The TSC shall appoint an Coordinator for the CCEG, who
 shall be identified in annex A.1 of these Directives.
 
 The TSC shall maintain as annex A.1 of these Directives a list of
 members of the CCEG, which shall distinguish associate and transitional
 members.  The TSC shall inform the CCEG Coordinator of changes to this
 list.  The CCEG Coordinator is responsible for informing the TSC if in
-the CCEG Coordinators opinion a member lapses into or reverts from
+the CCEG Coordinator's opinion a member lapses into or reverts from
 transitional status.  If other formal roles are established in the CCEG,
 these shall be communicated to the TSC and identified in annex A.1.
 

@@ -65,9 +65,9 @@ All deliverables produced by the LexEG shall comply with the policies
 given in section 5 of the O&PM, and with any style guides that in the
 future be approved by the TSC or by FHISO's Executive Committee.  The
 TSC shall maintain as annex A.3 to these Directives a record of all
-deliverables produce by the LexEG.
+deliverables produced by the LexEG.
 
-The LexEG Coordinator shall keep concise minutes of the decision made by
+The LexEG Coordinator shall keep concise minutes of the decisions made by
 the LexEG, and other events deemed worthy of record.  The LexEG
 Coordinator should liaise with the TSC to ensure these are made public
 no more than a month after the events being minuted.  This task may be
@@ -79,14 +79,14 @@ delegated to a Recorder appointed by the LexEG Coordinator.
 
 The work of the LexEG shall be supervised by the TSC and is governed by
 the policies given in sections 2 and 3 of the O&PM, and section 4 of the
-TSC Charter.  The TSC shall appoint an Coordinator for the LexEG, and
+TSC Charter.  The TSC shall appoint an Coordinator for the LexEG, 
 who shall be identified in annex A.1 of these Directives.
 
 The TSC shall maintain as annex A.1 of these Directives a list of
 members of the LexEG, which shall distinguish associate and transitional
 members.  The TSC shall inform the LexEG Coordinator of changes to this
 list.  The LexEG Coordinator is responsible for informing the TSC if in
-the LexEG Coordinators opinion a member lapses into or reverts from
+the LexEG Coordinator's opinion a member lapses into or reverts from
 transitional status.  If other formal roles are established in the
 LexEG, these shall be communicated to the TSC and identified in annex
 A.1.
@@ -103,8 +103,8 @@ At the time the LexEG was organised, its mission was primarily documenting
 current practice and no need for a voted-on standard was anticipated.
 
 If, however, the LexEG determines that a formal standard lexicon is warranted
-they may produce a Project Proposal outlining the rationale for such a 
-standards-producing effort together with the scope and directives to which 
+they may produce a Project Proposal outlining the rationale for such a
+standards-producing effort together with the scope and directives to which
 the proposed Project Team(s) would be subject.
 
 

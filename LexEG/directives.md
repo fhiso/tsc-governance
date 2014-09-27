@@ -1,9 +1,10 @@
-DIRECTIVES of the LEXICON EXPLORATORY GROUP
-of the FAMILY HISTORY INFORMATION STANDARDS ORGANISATION, INC.
+Directives of the Lexicon Exploratory Group
+===========================================
 
+*Draft produced on 27 September 2014.*
 
 1\.  Mission
-============
+------------
 
 The Lexicon Exploratory Group (LexEG) of the Family History Information
 Standards Organisation, Inc. (FHISO) is tasked with carrying out
@@ -41,7 +42,7 @@ published in accordance with section 1.6 of the O&PM.
 
 
 2\. Operation
-=============
+-------------
 
 The LexEG shall ordinarily conduct its business on the public
 lexicon@fhiso.org mailing list.  The LexEG may, after consultation with
@@ -75,7 +76,7 @@ delegated to a Recorder appointed by the LexEG Coordinator.
 
 
 3\. Governance
-==============
+--------------
 
 The work of the LexEG shall be supervised by the TSC and is governed by
 the policies given in sections 2 and 3 of the O&PM, and section 4 of the
@@ -95,7 +96,7 @@ All members of the LexEG must abide by FHISO's Code of Conduct.
 
 
 4\. Potential for a Project Team
-================================
+--------------------------------
 
 The LexEG is an exploratory group and as such does not produce documents
 which are intended to be accepted by the vote of the full membership of FHISO.

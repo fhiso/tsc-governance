@@ -1,9 +1,9 @@
 Directives of the Lexicon Exploratory Group
 ===========================================
 
-*Draft produced on 27 September 2014.*
+*Approved by the Technical Standing Committee and published on 2 October 2014.*
 
-1\.  Mission
+1\.  Mission							{#mission}
 ------------
 
 The Lexicon Exploratory Group (LexEG) of the Family History Information
@@ -41,7 +41,7 @@ is final until it has been used in a FHISO standard that has been
 published in accordance with section 1.6 of the O&PM.
 
 
-2\. Operation
+2\. Operation							{#operation}
 -------------
 
 The LexEG shall ordinarily conduct its business on the public
@@ -75,7 +75,7 @@ no more than a month after the events being minuted.  This task may be
 delegated to a Recorder appointed by the LexEG Coordinator.
 
 
-3\. Governance
+3\. Governance							{#governance}
 --------------
 
 The work of the LexEG shall be supervised by the TSC and is governed by
@@ -95,7 +95,7 @@ A.1.
 All members of the LexEG must abide by FHISO's Code of Conduct.
 
 
-4\. Potential for a Project Team
+4\. Potential for a Project Team				{#project-team}
 --------------------------------
 
 The LexEG is an exploratory group and as such does not produce documents
@@ -111,26 +111,26 @@ the proposed Project Team(s) would be subject.
 
 
 
-Annex A
+Annex A								{#annex}
 =======
 
 This annex contains supplementary information that is not formally part
 of the LexEG Directives but is appended to them for convenience.  
 
-A.1.  Members
+A.1.  Members							{#members}
 -------------
 
 * John Tracy Cunningham (initial member)
 * Elizabeth Shown Mills (initial member)
-* Tony Proctor (initial member)
+* Tony Proctor (initial member & coordinator)
 
-A.2.  Assigned CFPSs
+A.2.  Assigned CFPSs						{#cfps}
 --------------------
 
 * CFPS 23. Tony Proctor, "Proposal to Defining a Preferred Vocabulary".
 * CFPS 73. Luther Tychonievich, "Family History Lexicon".
 
-A.3.  Deliverables produced
+A.3.  Deliverables produced					{#deliverables}
 ---------------------------
 
 The LexEG has not yet produced any deliverables.

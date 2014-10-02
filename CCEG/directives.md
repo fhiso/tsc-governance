@@ -4,7 +4,7 @@ Directives of the Core Concepts Exploratory Group
 *Approved by the Technical Standing Committee and published on 23
 September 2014.*
 
-1\.  Mission
+1\.  Mission							{#mission}
 ------------
 
 The Core Concepts Exploratory Group (CCEG) of the Family History
@@ -44,7 +44,7 @@ serialisation formats or data formalisms that may be adopted by the
 FHISO.
 
 
-2\. Operation
+2\. Operation							{#operation}
 -------------
 
 The CCEG shall ordinarily conduct its business on the public
@@ -85,7 +85,7 @@ no more than a month after the events being minuted.  This task may be
 delegated to a Recorder appointed by the CCEG Coordinator.
 
 
-3\. Governance
+3\. Governance							{#governance}
 --------------
 
 The work of the CCEG shall be supervised by the TSC and is governed by
@@ -104,13 +104,13 @@ these shall be communicated to the TSC and identified in annex A.1.
 All members of the CCEG must abide by FHISO's Code of Conduct.
 
 
-Annex A
+Annex A								{#annex}
 =======
 
 This annex contains supplementary information that is not formally part
 of the CCEG Directives but is appended to them for convenience.  
 
-A.1.  Members
+A.1.  Members							{#members}
 -------------
 
 * Constance Horne (initial associate member)
@@ -119,12 +119,12 @@ A.1.  Members
 * Thomas Wetmore (former initial member)
 * Justin York (initial member & coordinator)
 
-A.2.  Assigned CFPSs
+A.2.  Assigned CFPSs						{#cfps}
 --------------------
 
 The CCEG has not yet been assigned CFPSs.
 
-A.3.  Deliverables produced
+A.3.  Deliverables produced					{#deliverables}
 ---------------------------
 
 The CCEG has not yet produced any deliverables.

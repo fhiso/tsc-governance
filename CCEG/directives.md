@@ -116,6 +116,7 @@ A.1.  Members							{#members}
 * Constance Horne (initial associate member)
 * Nick Matthews (initial member)
 * Jan Murphy (initial member)
+* Richard Tallent (transitional associate member joined 2014-10-08)
 * Thomas Wetmore (former initial member)
 * Justin York (initial member & coordinator)
 

@@ -1,5 +1,5 @@
-SOURCES := charter.md opm.md style.md \
-	CCEG/directives.md LexEG/directives.md
+SOURCES := charter.md opm.md style.md roadmap.md \
+	CCEG/directives.md LexEG/directives.md S&CEG/directives.md
 
 all:	$(SOURCES:%.md=%.html)
 

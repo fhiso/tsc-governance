@@ -1,9 +1,10 @@
-DIRECTIVES of the SOURCES AND CITATIONS EXPLORATORY GROUP
-of the FAMILY HISTORY INFORMATION STANDARDS ORGANISATION, INC.
+Directives of the Sources & Citations Exploratory Group
+=======================================================
 
+*Draft. 19 February 2015.*
 
-1.  Mission
-===========
+1\.  Mission							{#mission}
+------------
 
 The Sources and Citations Exploratory Group (S&CEG) of the Family History
 Information Standards Organisation, Inc. (FHISO) is tasked with carrying
@@ -43,8 +44,8 @@ serialisation formats or data formalisms that may be adopted by the
 FHISO.
 
 
-2. Operation
-============
+2\. Operation							{#operation}
+-------------
 
 The S&CEG shall ordinarily conduct its business on the public
 sources-citations@fhiso.org mailing list.  The S&CEG may after consultation
@@ -84,8 +85,8 @@ no more than a month after the events being minuted.  This task may be
 delegated to a Recorder appointed by the S&CEG Coordinator.
 
 
-3. Governance
-=============
+3\. Governance							{#governance}
+--------------
 
 The work of the S&CEG shall be supervised by the TSC and is governed by
 the policies given in sections 2 and 3 of the O&PM, and section 4 of the
@@ -103,13 +104,13 @@ these shall be communicated to the TSC and identified in annex A.1.
 All members of the S&CEG must abide by FHISO's Code of Conduct.
 
 
-Annex A
+Annex A								{#annex}
 =======
 
 This annex contains supplementary information that is not formally part
 of the S&CEG Directives but is appended to them for convenience.
 
-A.1.  Members
+A.1.  Members							{#members}
 -------------
 
 * Susan Adams (initial member and coordinator)
@@ -117,7 +118,7 @@ A.1.  Members
 * M. Diane Rogers (initial member)
 * Richard Tallent (initial member)
 
-A.2.  Assigned CFPSs
+A.2.  Assigned CFPSs						{#cfps}
 --------------------
 
 The S&CEG has been assigned the following CFPS:
@@ -131,8 +132,7 @@ Other CFPS may be relevant in whole or in part to the work of the S&CEG;
 the S&CEG is encouraged to consult such papers and respond as they deem
 appropriate.
 
-
-A.3.  Deliverables produced
+A.3.  Deliverables produced					{#deliverables}
 ---------------------------
 
 The S&CEG has not yet produced any deliverables.

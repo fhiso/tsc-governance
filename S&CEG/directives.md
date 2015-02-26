@@ -113,7 +113,7 @@ of the S&CEG Directives but is appended to them for convenience.
 A.1.  Members							{#members}
 -------------
 
-* Susan Adams (initial member and coordinator)
+* Sue Adams (initial member and coordinator)
 * Nick Hall (initial associate member)
 * M. Diane Rogers (initial member)
 * Richard Tallent (initial member)

@@ -1,6 +1,6 @@
 This is an interim style guide approved by the [Technical Standing 
-Committee](http://fhiso.org/tsc), as allowed by §4 of the [TSC 
-charter](http://fhiso.org/tsc-charter).  In due course it may be 
+Committee](http://tech.fhiso.org/), as allowed by §4 of the [TSC 
+charter](http://tech.fhiso.org/charter).  In due course it may be 
 expanded.
 
 *Approved by the TSC on 9 September 2014.*

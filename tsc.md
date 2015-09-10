@@ -30,12 +30,11 @@ by the TSC.
 
 ### Submit papers
 
-The FHISO is operating a [**call for
-papers**](http://fhiso.org/call-for-papers). This is our preferred means
-of receiving technical proposals, suggestions for
-functional requirements, or other detailed comment of the technical work
-of the TSC. In due course we aim to consider all the suggestions made in
-these papers and respond to them, but this will take time.
+The FHISO is operating a [**call for papers**](cfps). This is our preferred
+means of receiving technical proposals, suggestions for functional
+requirements, or other detailed comment of the technical work of the TSC. In
+due course we aim to consider all the suggestions made in these papers and
+respond to them, but this will take time.
 
 ### Join a working group
 
@@ -50,10 +49,8 @@ to supporting the proposed new groups.
 
 The [**tsc-public** mailing list](tsc-public) exists for all technical
 discussion on all matters not assigned to a specific exploratory group.
-Comments on [paper
-submissions](http://fhiso.org/call-for-papers-submissions), the work of
-the TSC, and the creation of future technical groups are all welcome
-here.
+Comments on [paper submissions](cfps/papers), the work of the TSC, and the
+creation of future technical groups are all welcome here.
 
 ### Contribute to our bibliography
 

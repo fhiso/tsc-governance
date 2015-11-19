@@ -190,8 +190,7 @@ standard without requiring a vote of the full FHISO membership:
     also contain prominent links to the original standard and to the set
     of errata that it has applied.
 
-1.8. Follow Up Work
--------------------
+## 1.8. Follow Up Work
 
 FHISO may establish additional activities that take place after a
 standard has been published. These might include efforts to promote and

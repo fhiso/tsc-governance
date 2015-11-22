@@ -216,10 +216,7 @@ section 4 of the TSC Charter. In particular,
     including policies governing appeals, meetings, and document style.
 
 The TSC may appoint a Coordinator for each TG who shall chair TG
-meetings. In the absence of an appointed Coordinator, the TSC shall 
-collectively assume the Coordinator's role.
-
-The working language in all TG meetings and documents will be
+meetings.  The working language in all TG meetings and documents will be
 English.
 
 Appeal should rarely be needed by a TG. If frequent appeals are made
@@ -243,6 +240,9 @@ member in question is the TG Coordinator). The TG Coordinator may inform
 other TG members as deemed appropriate by the TG Coordinator. A member
 with a declared interest is not barred from participating in consensus
 building or from voting on any matter under consideration.
+
+In the absence of an appointed Coordinator, the TSC shall 
+collectively assume the Coordinator's role.
 
 3. Policies for Exploratory Groups
 ==================================
@@ -376,11 +376,10 @@ regarding how those problems might be addressed. The TSC may merge
 several project proposals into a single proposal or split a proposal
 into several separate ones.
 
-The proposal may be published to the FHISO membership at least 11 days
-before the TSC approves the proposal. During this period members may
-comment on the proposal and may notify their intent to participate in
-the PT to the TSC or an appointed member of the EG, unless the TSC has
-decided to limit participation and to appoint all members of the PT.
+Members may comment on the proposal and may notify their intent to
+participate in the PT to the TSC or an appointed member of the EG,
+unless the TSC has decided to limit participation and to appoint all
+members of the PT.
 
 A simple majority vote of the TSC voting members is required to approve
 the creation of projects working on standards. If the TSC rejects a

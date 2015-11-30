@@ -26,7 +26,9 @@ Where possible,
 
 - The scheme should be `http` or `https`
 
-- The URI should be a URL which, when visited, provides a human-readable description of the meaning of the vocabulary term.  The data delivered when visiting such a URL should have a `text/plain` or `text/html` content-type and should use a UCS encoding such as `UTF-8`.
+- The URI should be a URL which, when visited, provides a human-readable description of the meaning of the vocabulary term.  The data delivered when visiting such a URL should have a `text/plain` or `text/html` content-type and should explicitly use a UCS encoding such as `UTF-8`.
+    
+    > (Luther 2015-11-30) should we include the defacto MIME type `text/markdown; charset=UTF-8`?  Or the [draft IETF proposal](https://datatracker.ietf.org/doc/draft-ietf-appsawg-text-markdown/?include_text=1) `text/markdown; charset=UTF-8; variant=Original`?
 
 - Terms defined in FHISO standards and proposed standards should use the following URI patterns:
 

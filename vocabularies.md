@@ -44,6 +44,6 @@ Where possible,
     
     For example, we might have a URI like `http://fhiso.org/term/meta/v0/vocabulary` to define a versioned pre-release definition of the term "vocabulary", part of FHISO's "meta" vocabulary.
 
-> (Luther 2015-11-30) The above describes the version-before-term scheme used by GEDCOM-X, suggesting that the version belongs to the vocabulary, not to the terms it contains.  An alternative would be to have the version come after a term, perhaps as the query or fragment, suggesting that terms are versioned independently.  If versions are queries or fragments, we'd need to consider what a term with several versions means if no version is specified.
+    > (Luther 2015-11-30) The above describes the version-before-term scheme used by GEDCOM-X, suggesting that the version belongs to the vocabulary, not to the terms it contains.  An alternative would be to have the version come after a term, perhaps as the query or fragment, suggesting that terms are versioned independently.  If versions are queries or fragments, we'd need to consider what a term with several versions means if no version is specified.
 
 

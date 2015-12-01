@@ -489,7 +489,7 @@ If documents submitted for publication are discovered to violate any of
 these criteria before they are published, they should be returned to the
 submitter for revision.
 
-6. Characteristics of Standards and the Standardisation process
+6. Characteristics of Standards and the Standardisation process {#openness}
 ===============================================================
 
 All technical work conducted by the Family History Information Standards

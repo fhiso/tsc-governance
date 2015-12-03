@@ -1,9 +1,9 @@
-This document is a pre-alpha draft that has not been reviewed internally or approved by any group
+This document is a pre-alpha draft posted for internal comment only.
 
 
 # Preferred nature of vocabularies
 
-This draft is in response to the recommendation from the FHISO Board meeting 2015-11-27; as noted in [the minutes](/minutes), the board and TSC recommended 
+This draft is in response to the recommendation from the FHISO Board meeting 2015-11-27; as noted in [the minutes](http://tech.fhiso.org/minutes), the board and TSC recommended 
 
 > that the TSC should draft a general policy on the preferred nature of vocabularies, such as the use of URIs.
 
@@ -18,7 +18,7 @@ Any FHISO technical document or data in FHISO-approved format that contains a *t
 
 > (Luther 2015-11-30) Should we pick URI ([IETF RFC 3986](http://tools.ietf.org/html/rfc3986) or IRI ([IETF RFC 3987](http://tools.ietf.org/html/rfc3987))?  The latter allows UCS, which is international-friendly, but the former (restricted to ASCII) may be both (a) sufficient for the task at hand and (b) easier to implement
 
-As outlined in [CFPS 37](/cfps/files/cfps37.pdf), the form of the *term* used in a document or data stream need not be the full URI, provided there is a well-defined unambiguous process for translating to the URI form.  This process should not depend on anything external to the document and/or data.  The use of namespace URIs is recommended as the preferred way to shorten URIs.
+As outlined in [CFPS 37](http://tech.fhiso.org/cfps/files/cfps37.pdf), the form of the *term* used in a document or data stream need not be the full URI, provided there is a well-defined unambiguous process for translating to the URI form.  This process should not depend on anything external to the document and/or data.  The use of namespace URIs is recommended as the preferred way to shorten URIs.
 
 ## Guidelines for selecting URIs for *term*s
 
@@ -27,7 +27,7 @@ third-party standards.
 
 Where possible all *terms* used in FHISO standards should:
 
-- be defined in an [open standard](/opm#openness);
+- be defined in an [open standard](http://tech.fhiso.org/opm#openness);
 
 - have a scheme of `http` or `https`; and
 
@@ -80,7 +80,7 @@ content-type and should explicitly use a UCS encoding such as UTF-8.
 
 > (Richard 2015-12-01) Should we allow the `ASCII` encoding?  Should we
 > disallow UCS encodings other than `UTF-8`?  Should we just reference
-> our [style guide](/style)?
+> our [style guide](http://tech.fhiso.org/style)?
 
 Future FHISO policy may permit [HTTP content
 negotiation](http://tools.ietf.org/html/rfc7231#section-5.3) to be used

@@ -47,7 +47,7 @@ following URI patterns:
     1. the literal string `term`;
     2. optionally, the name of a vocabulary, such as `sc`;
     3. a version identifier, either `draft` or a version string matching
-       the regular expression `v[0-9]+([.][0-9]+(.[0-9]+)?)?`;
+       the regular expression `v[0-9]+([.][0-9]+([.][0-9]+)?)?`;
     4. the name of the *term* being defined, which shall match the
        [NCName production](http://www.w3.org/TR/xml-names/#NT-NCName) in
        the "Namespaces in XML 1.0" specification. 
@@ -75,8 +75,14 @@ For example, we might have a URI like `http://fhiso.org/term/meta/v0/vocabulary`
 > vocabulary for types of events and a separate vocabulary for roles in
 > events.  Should they both be in `http://fhiso.org/term/events/`?  
 
+> (Luther 2015-12-07)  Multiple vocabularies is just one example of the ever-present problem of trying to fit a world of messy cross-links into a simple hierarchy.  We could go flat (i.e., all FHISO terms fit into one vocabulary), single-level bucketing described above (there may be an `events` vocabulary and a `roles` vocabulary but not an `events/roles` vocabulary), or arbitrary nesting (essentially allowing sub-vocabularies like `events/roles`).  I'd rather err on the side of fewer vocabulary buckets provided we can do so without namespace collisions.
+
+
 > (Richard 2015-12-06)  Is `sc` (for sources & citations) overly
 > abbreviated?
+
+> (Luther 2015-12-07)  I assume picking a name for a vocabulary would be part of the standarisation process.  I don't know that we need a level-of-abbreviation guideline.
+
 
 Draft terms (i.e. those with a version of `draft`) may change without
 notice; other versions should only be change in a backs-compatible way

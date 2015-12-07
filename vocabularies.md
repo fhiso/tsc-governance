@@ -105,7 +105,7 @@ content-type and should explicitly use a UCS encoding such as UTF-8.
 
 > (Richard 2015-12-01) Should we allow the `ASCII` encoding?  Should we
 > disallow UCS encodings other than `UTF-8`?  Should we just reference
-> our [style guide](/style)?
+> our [style guide](style)?
 
 Future FHISO policy may permit [HTTP content
 negotiation](http://tools.ietf.org/html/rfc7231#section-5.3) to be used

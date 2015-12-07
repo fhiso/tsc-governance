@@ -1,13 +1,22 @@
 Minutes of the Technical Standing Committee
 ===========================================
 
-**2015-11-27** Noted that the Board, in consultation with the TSC, have
-recommended that the TSC should produce a short high-level strategy
-paper; that technical work should focus on narrow citations standards
-covering vocabularies for textual citation elements and, less
-pressingly, describing source derivation; and that the TSC should draft
+**2015-12-07** Published a draft policy on the [prefered use of
+vocabularies](/policies/vocabularies), and amended the [style
+guide](/policies/style) to say that "FHISO standards will normally be
+made available in both HTML and PDF formats".
+
+**2015-11-27** Noted that the [27 November Board
+meeting](/aboutfhiso/fhiso-board/minutes/2015-11-27/), in consultation
+with the TSC, recommended: that the TSC should produce a short high-level
+strategy paper; that technical work should focus on narrow citations
+standards covering vocabularies for textual citation elements and, less
+pressingly, describing source derivation; that the TSC should draft
 a general policy on the preferred nature of vocabularies, such as the
-use of URIs.
+use of URIs; and that these TSC minutes should be made public.
+
+**2015-11-22** Deployed the new [technical
+website](http://tech.fhiso.org/).
 
 **2015-11-21** Thanked the Board for approving the updated [Operations &
 Policy Manual](/opm).

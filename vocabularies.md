@@ -85,7 +85,7 @@ For example, we might have a URI like `http://fhiso.org/term/meta/v0/vocabulary`
 
 
 Draft terms (i.e. those with a version of `draft`) may change without
-notice; other versions should only be change in a backs-compatible way
+notice; other versions should only be change in a backwards-compatible way
 once posted.  
 
 

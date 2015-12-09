@@ -1,7 +1,8 @@
 Directives of the Sources & Citations Exploratory Group
 =======================================================
 
-*Draft. 19 February 2015.*
+*Approved by the Technical Standing Committee and published on 10 April
+2015.*
 
 1\.  Mission							{#mission}
 ------------

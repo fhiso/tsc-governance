@@ -1,5 +1,8 @@
-This document is intended to provide the current vision of the Technical Standing Committee regarding the immediate priorities of technical work.
+*This document is a pre-alpha draft posted for internal comment only.*
+
+This document is intended to summarize the current vision of the Technical Standing Committee regarding the immediate priorities of technical work.
 It may be updated and changed from time to time as resources, opportunities, perspective, and personnel change.
+It is in many respects a summary of the larger [TSC strategy document](/policies/strategy.md).
 
 # Scope vs. Priority
 
@@ -13,8 +16,10 @@ Interest and resources becoming available will generally cause a new topic to be
 
 The following have been identified by the TSC as the current priorities
 
-1. The establishment of a [vocabulary](/policies/vocabulary) for the description of family history and genealogical sources.
+1. Consensus on the nature of vocabularies within future FHISO standards.  A [draft](/policies/vocabulary) of such a policy is available.
 
-2. The establishment of a source derivation [vocabulary](/policies/vocabulary).
+2. The establishment of a vocabulary for the description of family history and genealogical sources, suitable for the algorithmic construction of citations in various formats.
+
+3. The establishment of a source derivation vocabulary.
 
 

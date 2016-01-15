@@ -47,7 +47,7 @@ narrow area.  Over time, these will fit together to form FHISO's new
 data model, but at first they are likely to be used in existing data
 models, in particular [GEDCOM](https://en.wikipedia.org/wiki/GEDCOM) and
 [GEDCOM X](http://gedcomx.org/), which the FHISO Board have identified
-as the two dominant data models at present.  
+as the two dominant non-proprietary data models at present.  
 
 ## First steps
 
@@ -66,7 +66,7 @@ an important niche in today's standards, while the source derivation
 vocabulary fills a small but significant gap identified by our
 [exploratory work into sources & citations](/egs/sceg).  These two
 vocabularies are not intended to be all of FHISO's work on sources and
-citations &mash; just the first priorities.
+citations &mdash; just the first priorities.
 
 ### Vocabularies
 
@@ -77,13 +77,15 @@ is desirable so that all FHISO vocabularies share a common style, and
 that this is not simply based on the requirements of the first
 vocabulary to be designed.  This policy is based on ideas discussed by
 the [Sources & Citations Explorary Group](/egs/sceg) as well as industry
-best practice.  The TSC would welcome feedback on it, and suggest that
+best practice.  
+
+The TSC welcome feedback on this draft policy, and suggest that
 such discussion is best directed to the [`tsc-public` mailing
 list](/tsc-public).
 
 ### Citation Elements Vocabulary
 
-For the purpose of this standard, a citation element is a piece of data
+For the purpose of this standard-development activity, a citation element is a piece of data
 about a source that might reasonably be included in a formatted
 citation.  Examples might include the author and title of a book, page
 numbers, the name and address of an archive, the date an online source
@@ -110,11 +112,11 @@ elements do these citations contain?
 
 Identifying the citations elements required is just part of the problem.
 Terms needs careful definition to remove ambiguity over their use.  The
-standard should also identify what the element's value is expected to
-be: perhaps an integer, a date or an unstructured piece of text.
-Perhaps some element will have a value that is term from another
+standard should identify what range of values an element is expected to
+have: perhaps an integer, a date, or an unstructured piece of text.
+Perhaps some element will have a value that is a term from another
 vocabulary.  In other cases, a lightweight microformat may be required,
-or convention on field's use.
+or a suggested convention on field's use.
 
 The aim is that applications should be able to produce properly-formed
 citations in the vendor's preferred style using the data found in
@@ -133,6 +135,10 @@ implementation.  Citation elements may not contain sub-elements, nor may
 they be pointers or references to other structures; and meaning should only
 sparingly be associated with the order of elements.
 
+> (Luther 2016-01-14) I am unsure that sub-elements are actually out of the question.  The reference collection tools that I have used regularly permit some sub-elements, for example with structured name objects in a list as the value of an author field.
+
+> (Luther 2016-01-15) Is "sparingly" allowing ordering the right idea?  Either order can be handled by a citation text producer or it cannot.  If it can, why be sparing in its use?  If it cannot, why allow it at all?
+
 ### Source Derivation Vocabulary
 
 Our [Sources & Citations Exploratory Group](/egs/sceg) (S&CEG) spent a
@@ -141,7 +147,7 @@ citations](/egs/lexeg/snapshot#layered citation.md) &mdash; citations of
 sources which are derivatives of another source, for example a
 transcription made from a microfilm of a parish register.  Such
 derivation information is beyond the initial scope of our citation
-element vocabulary, but only because we plan to progress it separately.  
+element vocabulary, but we do plan to address it separately.  
 
 The S&CEG identified several forms of derivation with different degrees
 of faithfulness, ranging from high-quality photographic reproductions

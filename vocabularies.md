@@ -150,7 +150,7 @@ value is an enumerated type `http://fhiso.org/term/indi/v1/GenderType`
 with defined enumerated values `http://fhiso.org/term/indi/v1/Male` and
 `http://fhiso.org/term/indi/v1/Female`.
 
-< (Tony 2016-01-20) One minor niggle over the "Gender" terminology: The correct term is 'sex' (male/female) rather than 'gender' (masculine/feminine). This is a potential pitfall as there are several subdivisions of each, and some should be modelled via events rather than birth attributes: <http://parallax-viewpoint.blogspot.com/2014/05/no-sex-please-were-genealogists.html>.
+> (Tony 2016-01-20) One minor niggle over the "Gender" terminology: The correct term is 'sex' (male/female) rather than 'gender' (masculine/feminine). This is a potential pitfall as there are several subdivisions of each, and some should be modelled via events rather than birth attributes: <http://parallax-viewpoint.blogspot.com/2014/05/no-sex-please-were-genealogists.html>.
 
 
 > (Richard 2015-12-06)  Are we content with this nomenclature?  Formal
@@ -161,7 +161,7 @@ with defined enumerated values `http://fhiso.org/term/indi/v1/Male` and
 > few well-known values, from those (e.g. `Individual`) with a vast
 > number of locally defined instances.
 
-> (Tony 2016-01-20) I have to disagree with Richard over the 'enumeration' nomenclature. I use this approach extensively in STEMMA, and hence the application of namespaces to both values and to tags.
+> (Tony 2016-01-20) I have to disagree with Richard over the 'enumeration' nomenclature. I use this approach extensively in STEMMA, and hence the application of namespaces both to values and to tags.
 
 A FHISO standard that defines an *enumerated type* shall state whether
 or not it is extensible: that is, whether or not third parties should be

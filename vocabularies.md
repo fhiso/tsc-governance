@@ -11,6 +11,8 @@ This draft is in response to the recommendation from the FHISO Board meeting 201
 
 To this end, we define **vocabulary** be a set of *term*s paired with their well-defined meanings, and a **term** to be one such element of a vocabulary.  These words are intended to evoke the idea of [controlled vocablary](https://en.wikipedia.org/wiki/Controlled_vocabulary) without specifying a closed or controlled character.
 
+> (Tony 2016-01-20) This introduction specifically talks about 'Controlled Vocabularies' but fails to mention the important notion of 'Partially Controlled Vocabularies' (i.e. extensible sets). Not all vocabularies will be extensible (same in STEMMA) but some absolutely must be. Maybe I read this section incorrectly but I would certainly want assurance, as a potential user of the standard, that extensibility of vocabularies is designed for.
+
 We recommend the following as pertains to *term*s.
 
 
@@ -83,6 +85,7 @@ For example, we might have a URI like `http://fhiso.org/term/meta/v0/vocabulary`
 
 > (Luther 2015-12-07)  I assume picking a name for a vocabulary would be part of the standarisation process.  I don't know that we need a level-of-abbreviation guideline.
 
+> (Tony 2016-01-20) While I agree that FHISO-defined vocabularies should follow specific patterns, such as using a scheme of http:, I would hope that the actual usage of namespaces would be more open where vocabularies are partially controlled, such as allowing other schemes, or fragments. 
 
 Draft terms (i.e. those with a version of `draft`) may change without
 notice; other versions should only be change in a backwards-compatible way
@@ -147,6 +150,9 @@ value is an enumerated type `http://fhiso.org/term/indi/v1/GenderType`
 with defined enumerated values `http://fhiso.org/term/indi/v1/Male` and
 `http://fhiso.org/term/indi/v1/Female`.
 
+< (Tony 2016-01-20) One minor niggle over the "Gender" terminology: The correct term is 'sex' (male/female) rather than 'gender' (masculine/feminine). This is a potential pitfall as there are several subdivisions of each, and some should be modelled via events rather than birth attributes: <http://parallax-viewpoint.blogspot.com/2014/05/no-sex-please-were-genealogists.html>.
+
+
 > (Richard 2015-12-06)  Are we content with this nomenclature?  Formal
 > treatments of data models rarely have the notion of an enumeration,
 > and would simply say that `Male` is an object which is an
@@ -154,6 +160,8 @@ with defined enumerated values `http://fhiso.org/term/indi/v1/Male` and
 > informally, to distinguish types (e.g. `GenderType`) that will have a
 > few well-known values, from those (e.g. `Individual`) with a vast
 > number of locally defined instances.
+
+> (Tony 2016-01-20) I have to disagree with Richard over the 'enumeration' nomenclature. I use this approach extensively in STEMMA, and hence the application of namespaces to both values and to tags.
 
 A FHISO standard that defines an *enumerated type* shall state whether
 or not it is extensible: that is, whether or not third parties should be

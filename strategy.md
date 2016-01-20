@@ -104,7 +104,7 @@ information about if and how one source derives from another.
 
 In producing this standard vocabulary, we will need to seek out examples
 of citations in different styles and languages.  Most of all, we need
-citations to wide range of sources types: not just the usual censuses
+citations to a wide range of sources types: not just the usual censuses
 and parish registers, but also books, journals and manuscripts,
 paintings and photographs, monuments, statues and stained-glass windows,
 websites and television programmes.  How are they cited?  And what
@@ -123,7 +123,7 @@ citations in the vendor's preferred style using the data found in
 the citation elements.  Ideally this should be possible using standard
 templating technology such as [XSLT](http://www.w3.org/Style/XSL/) or
 [BibTeX](https://www.ctan.org/pkg/bibtex?lang=en).  It is not FHISO's
-job to produce such an formatter, but as the standard develops, we
+job to produce such a formatter, but as the standard develops, we
 should be considering whether data in the citation elements can be
 converted algorithmically to forms used in real-world citations.  For
 example, some citation styles for books put the author's surname first,
@@ -138,6 +138,8 @@ sparingly be associated with the order of elements.
 > (Luther 2016-01-14) I am unsure that sub-elements are actually out of the question.  The reference collection tools that I have used regularly permit some sub-elements, for example with structured name objects in a list as the value of an author field.
 
 > (Luther 2016-01-15) Is "sparingly" allowing ordering the right idea?  Either order can be handled by a citation text producer or it cannot.  If it can, why be sparing in its use?  If it cannot, why allow it at all?
+
+> (Tony 2016-01-20) Citation elements may not contain sub-elements, or pointers, but what about multi-valued data (e.g. a string of page references) or typed data (as in a date that must be formatted differently for different end-users)? I know this isn't a design document but I wanted to make sure that the current categorical exclusions weren't exclusing these too.
 
 ### Source Derivation Vocabulary
 

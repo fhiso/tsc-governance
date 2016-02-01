@@ -13,6 +13,8 @@ To this end, we define **vocabulary** be a set of *term*s paired with their well
 
 > (Tony 2016-01-20) This introduction specifically talks about 'Controlled Vocabularies' but fails to mention the important notion of 'Partially Controlled Vocabularies' (i.e. extensible sets). Not all vocabularies will be extensible (same in STEMMA) but some absolutely must be. Maybe I read this section incorrectly but I would certainly want assurance, as a potential user of the standard, that extensibility of vocabularies is designed for.
 
+> (Luther 2016-02-01) The intent of the phrase "without specifying a closed or controlled character" was to imply that the vocabularies are not closed (i.e., are extensible).  We should look for better wording if that message was not clear.  On a related note, is there a case where we want a closed-set vocabulary?  I had assumed all vocabularies would be only partially closed...
+
 We recommend the following as pertains to *term*s.
 
 
@@ -86,6 +88,8 @@ For example, we might have a URI like `http://fhiso.org/term/meta/v0/vocabulary`
 > (Luther 2015-12-07)  I assume picking a name for a vocabulary would be part of the standarisation process.  I don't know that we need a level-of-abbreviation guideline.
 
 > (Tony 2016-01-20) While I agree that FHISO-defined vocabularies should follow specific patterns, such as using a scheme of http:, I would hope that the actual usage of namespaces would be more open where vocabularies are partially controlled, such as allowing other schemes, or fragments. 
+
+> (Luther 2016-02-01)  I agree, Tony; that was the intent of having two sections, one about all terms and the other about FHISO-defined terms.
 
 Draft terms (i.e. those with a version of `draft`) may change without
 notice; other versions should only be change in a backwards-compatible way

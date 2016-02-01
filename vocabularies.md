@@ -1,6 +1,5 @@
 *This document is a pre-alpha draft posted for internal comment only.
-<!--Comments should be directed to the [tsc-public mailing
-list](/tsc-public).-->*
+Comments should be directed to the [tsc-public mailing list](/tsc-public).*
 
 
 # Preferred nature of vocabularies
@@ -13,7 +12,7 @@ To this end, we define **vocabulary** be a set of *term*s paired with their well
 
 > (Tony 2016-01-20) This introduction specifically talks about 'Controlled Vocabularies' but fails to mention the important notion of 'Partially Controlled Vocabularies' (i.e. extensible sets). Not all vocabularies will be extensible (same in STEMMA) but some absolutely must be. Maybe I read this section incorrectly but I would certainly want assurance, as a potential user of the standard, that extensibility of vocabularies is designed for.
 
-> (Luther 2016-02-01) The intent of the phrase "without specifying a closed or controlled character" was to imply that the vocabularies are not closed (i.e., are extensible).  We should look for better wording if that message was not clear.  On a related note, is there a case where we want a closed-set vocabulary?  I had assumed all vocabularies would be only partially closed...
+> (Luther 2016-02-01) The intent of the phrase "without specifying a closed or controlled character" was to imply that the vocabularies are not closed (i.e., are extensible).  We should look for better wording if that message was not clear.  On a related note, is there a case where we want a closed-set vocabulary?  I had assumed all vocabularies would be only partially specified...
 
 We recommend the following as pertains to *term*s.
 

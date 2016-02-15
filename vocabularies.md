@@ -14,6 +14,13 @@ To this end, we define **vocabulary** be a set of *term*s paired with their well
 
 > (Luther 2016-02-01) The intent of the phrase "without specifying a closed or controlled character" was to imply that the vocabularies are not closed (i.e., are extensible).  We should look for better wording if that message was not clear.  On a related note, is there a case where we want a closed-set vocabulary?  I had assumed all vocabularies would be only partially specified...
 
+> (Richard 2016-02-15) I with Tony that it is important to include
+> partially controlled vocabularies, but agree with Luther that the
+> current wording does so, and later when discussing enumerations we say
+> so explicitly.  I would be content to assume unless and until a
+> good counterexample comes along that all vocabularies will be
+> extensible.
+
 We recommend the following as pertains to *term*s.
 
 
@@ -148,13 +155,17 @@ When the value of a property is another *term*, a *term* shall be
 provided to serve as the name of the class of acceptable values.  Such a
 *term* is known as an **enumerated type**, and the valid values for the
 property are known as its **enumerated values**.  For example, standard
-might define a `http://fhiso.org/term/indi/v1/gender` property whose
-value is an enumerated type `http://fhiso.org/term/indi/v1/GenderType`
-with defined enumerated values `http://fhiso.org/term/indi/v1/Male` and
+might define a `http://fhiso.org/term/indi/v1/sex` property whose
+value is an enumerated type `http://fhiso.org/term/indi/v1/Sex`
+with defined enumerated values that include
+`http://fhiso.org/term/indi/v1/Male` and
 `http://fhiso.org/term/indi/v1/Female`.
 
 > (Tony 2016-01-20) One minor niggle over the "Gender" terminology: The correct term is 'sex' (male/female) rather than 'gender' (masculine/feminine). This is a potential pitfall as there are several subdivisions of each, and some should be modelled via events rather than birth attributes: <http://parallax-viewpoint.blogspot.com/2014/05/no-sex-please-were-genealogists.html>.
 
+> (Richard 2016-02-15) I agree and have replaced 'gender' with 'sex',
+> and have made it clearer that male and female may not be exhaustive.
+> It wasn't my intention to get into a detailed discussion of that here.
 
 > (Richard 2015-12-06)  Are we content with this nomenclature?  Formal
 > treatments of data models rarely have the notion of an enumeration,
@@ -165,6 +176,11 @@ with defined enumerated values `http://fhiso.org/term/indi/v1/Male` and
 > number of locally defined instances.
 
 > (Tony 2016-01-20) I have to disagree with Richard over the 'enumeration' nomenclature. I use this approach extensively in STEMMA, and hence the application of namespaces both to values and to tags.
+
+> (Richard 2016-02-15)  Can you elborate what it is you disagree with,
+> Tony?  If your objection is simply to the word "enumerated", e.g.
+> because you think that implies not being extensible, I'm happy to drop
+> the word and leave the above as a definition of the word *type*.
 
 A FHISO standard that defines an *enumerated type* shall state whether
 or not it is extensible: that is, whether or not third parties should be

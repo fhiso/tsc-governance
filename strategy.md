@@ -153,14 +153,6 @@ be acceptable to use the order of several 'author' elements to denote
 the order in which the authors are conventionally listed.  No meaning
 should be associated with the order of different types of elements.
 
-> (Luther 2016-01-14) I am unsure that sub-elements are actually out of the question.  The reference collection tools that I have used regularly permit some sub-elements, for example with structured name objects in a list as the value of an author field.
-
-> (Luther 2016-01-15) Is "sparingly" allowing ordering the right idea?  Either order can be handled by a citation text producer or it cannot.  If it can, why be sparing in its use?  If it cannot, why allow it at all?
-
-> (Tony 2016-01-20) Citation elements may not contain sub-elements, or pointers, but what about multi-valued data (e.g. a string of page references) or typed data (as in a date that must be formatted differently for different end-users)? I know this isn't a design document but I wanted to make sure that the current categorical exclusions weren't exclusing these too.
-
-> (Richard 2016-02-15) I've tried to reword to clarify these points.
-
 ### Source Derivation Vocabulary
 
 Our [Sources & Citations Exploratory Group](/egs/sceg) (S&CEG) spent a

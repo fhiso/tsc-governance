@@ -1,6 +1,11 @@
 Minutes of the Technical Standing Committee
 ===========================================
 
+**2016-02-16** Approved our [priorities](/priorities) and [technical
+strategy](/strategy) documents as non-binding statements of TSC guidance.
+Approved [vocabularies policy](/policies/vocabularies) as a draft for 
+wider comment on tsc-public.
+
 **2016-01-19** Presented our draft [priorities](/priorities), [technical
 strategy](/strategy), and [vocabularies policy](/policies/vocabularies)
 at the 19 January Board meeting.

@@ -8,7 +8,7 @@ This draft is in response to the recommendation from the FHISO Board meeting 201
 
 > that the TSC should draft a general policy on the preferred nature of vocabularies, such as the use of URIs.
 
-To this end, we define **vocabulary** be a set of *term*s paired with their well-defined meanings, and a **term** to be one such element of a vocabulary.  These words are intended to evoke the idea of [controlled vocablary](https://en.wikipedia.org/wiki/Controlled_vocabulary) without specifying a closed or controlled character.
+To this end, we define **vocabulary** be a set of *term*s paired with their well-defined meanings, and a **term** to be one such element of a vocabulary.  These words are intended to evoke the idea of [controlled vocabulary](https://en.wikipedia.org/wiki/Controlled_vocabulary) without specifying a closed or controlled character.
 
 > (Tony 2016-01-20) This introduction specifically talks about 'Controlled Vocabularies' but fails to mention the important notion of 'Partially Controlled Vocabularies' (i.e. extensible sets). Not all vocabularies will be extensible (same in STEMMA) but some absolutely must be. Maybe I read this section incorrectly but I would certainly want assurance, as a potential user of the standard, that extensibility of vocabularies is designed for.
 
@@ -161,17 +161,11 @@ with defined enumerated values that include
 `http://fhiso.org/term/indi/v1/Male` and
 `http://fhiso.org/term/indi/v1/Female`.
 
-> (Tony 2016-01-20) One minor niggle over the "Gender" terminology: The correct term is 'sex' (male/female) rather than 'gender' (masculine/feminine). This is a potential pitfall as there are several subdivisions of each, and some should be modelled via events rather than birth attributes: <http://parallax-viewpoint.blogspot.com/2014/05/no-sex-please-were-genealogists.html>.
-
-> (Richard 2016-02-15) I agree and have replaced 'gender' with 'sex',
-> and have made it clearer that male and female may not be exhaustive.
-> It wasn't my intention to get into a detailed discussion of that here.
-
 > (Richard 2015-12-06)  Are we content with this nomenclature?  Formal
 > treatments of data models rarely have the notion of an enumeration,
 > and would simply say that `Male` is an object which is an
-> instance of the `GenderType` class.  However it seems useful, at least
-> informally, to distinguish types (e.g. `GenderType`) that will have a
+> instance of the `Sex` class.  However it seems useful, at least
+> informally, to distinguish types (e.g. `Sex`) that will have a
 > few well-known values, from those (e.g. `Individual`) with a vast
 > number of locally defined instances.
 

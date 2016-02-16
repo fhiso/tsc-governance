@@ -14,12 +14,15 @@ Interest and resources becoming available will generally cause a new topic to be
 
 # Current priorities
 
-The following have been identified by the TSC as the current priorities
+The following have been identified by the TSC as the current priorities:
 
-1. Consensus on the nature of vocabularies within future FHISO standards.  A [draft](/policies/vocabulary) of such a policy is available.
+1. Build consensus on the nature of vocabularies within future FHISO
+standards.  A [draft](/policies/vocabulary) of such a policy is
+available.
 
-2. The establishment of a vocabulary for the description of family history and genealogical sources, suitable for the algorithmic construction of citations in various formats.
+2. Produce a citation element vocabulary identifying the various
+descriptive elements that might reasonably be needed in the algorithmic
+construction of citations to family history or genealogical sources.
 
-3. The establishment of a source derivation vocabulary.
-
+3. Produce a source derivation vocabulary.
 

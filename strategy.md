@@ -113,10 +113,13 @@ elements do these citations contain?
 Identifying the citations elements required is just part of the problem.
 Terms needs careful definition to remove ambiguity over their use.  The
 standard should identify what range of values an element is expected to
-have: perhaps an integer, a date, or an unstructured piece of text.
-Perhaps some element will have a value that is a term from another
-vocabulary.  In other cases, a lightweight microformat may be required,
-or a suggested convention on field's use.
+have: perhaps the value will be a term from another vocabulary; or
+perhaps it will be a boolean, an integer, a date, or an unstructured
+piece of text.  If the element is a date, what requirements are placed
+on the date format used?  Designing a date format is not part of this
+project, and it is possible that this vocabulary will be used in
+multiple data models with distinct date types; but any essential
+requirements for the particular use should be noted.
 
 The aim is that applications should be able to produce properly-formed
 citations in the vendor's preferred style using the data found in
@@ -130,16 +133,33 @@ example, some citation styles for books put the author's surname first,
 followed by first names or initials; other styles put the name in its
 conventional order.  How should this be supported?
 
-This conceptual requirement places more tangible restrictions on the
-implementation.  Citation elements may not contain sub-elements, nor may
-they be pointers or references to other structures; and meaning should only
-sparingly be associated with the order of elements.
+Full systems for representing names and addresses are outwith the scope
+of this project.  But it may be that a lightweight microformat may be
+appropriate, such as GEDCOM's use of `/`s to delimit surnames.  In other
+cases it may be useful to document a convention on a field's use, for
+example that addresses components are separated by commas and written
+from the smallest to the largest unit.
+
+The conceptual requirement for algorithmic formatting of citations with
+standard templating technology places more tangible restrictions on the
+implementation.  Citation elements may not contain sub-elements, though
+they may still have structure in the form of typed data or through a
+microformats; nor may they be pointers or references to other
+structures.  Elements may be multi-valued where appropriate: that is, a
+source may have multiple citation elements of the same type.  Meaning
+should only be associated with the order of values if it is tolerable
+for the information encoded by the order to lost.  For example it might
+be acceptable to use the order of several 'author' elements to denote
+the order in which the authors are conventionally listed.  No meaning
+should be associated with the order of different types of elements.
 
 > (Luther 2016-01-14) I am unsure that sub-elements are actually out of the question.  The reference collection tools that I have used regularly permit some sub-elements, for example with structured name objects in a list as the value of an author field.
 
 > (Luther 2016-01-15) Is "sparingly" allowing ordering the right idea?  Either order can be handled by a citation text producer or it cannot.  If it can, why be sparing in its use?  If it cannot, why allow it at all?
 
 > (Tony 2016-01-20) Citation elements may not contain sub-elements, or pointers, but what about multi-valued data (e.g. a string of page references) or typed data (as in a date that must be formatted differently for different end-users)? I know this isn't a design document but I wanted to make sure that the current categorical exclusions weren't exclusing these too.
+
+> (Richard 2016-02-15) I've tried to reword to clarify these points.
 
 ### Source Derivation Vocabulary
 

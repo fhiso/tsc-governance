@@ -1,6 +1,14 @@
 Minutes of the Technical Standing Committee
 ===========================================
 
+**2016-01-19** Presented our draft [priorities](/priorities), [technical
+strategy](/strategy), and [vocabularies policy](/policies/vocabularies)
+at the 19 January Board meeting.
+
+**2016-01-07** Produced a short draft document listing [our immediate
+priorities](/priorities), and a longer draft [technical strategy
+paper](/strategy).
+
 **2015-12-07** Published a draft policy on the [prefered use of
 vocabularies](/policies/vocabularies), and amended the [style
 guide](/policies/style) to say that "FHISO standards will normally be

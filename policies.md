@@ -18,14 +18,6 @@ Description
 Status
 :   Pre-alpha draft for internal comment.
 
-## [Strategy](strategy)
-Description
-:   An overview of how the TSC envisages technical work progressing, both in
-    the short-term, and how that short-term work fits into the longer-term
-    vision
-Status
-:   Pre-alpha draft for internal comment.
-
 The TSC normally publish policies in draft form on the [tsc-public
 mailing list](/tsc-public) before approving them to get feedback from
 members.  This mailing list is also the best place to discuss

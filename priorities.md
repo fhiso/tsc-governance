@@ -2,7 +2,7 @@
 
 This document is intended to summarize the current vision of the Technical Standing Committee regarding the immediate priorities of technical work.
 It may be updated and changed from time to time as resources, opportunities, perspective, and personnel change.
-It is in many respects a summary of the larger [TSC strategy document](/policies/strategy.md).
+It is in many respects a summary of the larger [TSC strategy document](/strategy.md).
 
 # Scope vs. Priority
 

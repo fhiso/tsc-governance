@@ -135,7 +135,7 @@ conventional order.  How should this be supported?
 
 Full systems for representing names and addresses are outwith the scope
 of this project.  But it may be that a lightweight microformat may be
-appropriate, such as GEDCOM's use of `/`s to delimit surnames.  In other
+appropriate, such as GEDCOM's use of `/` to delimit surnames.  In other
 cases it may be useful to document a convention on a field's use, for
 example that addresses components are separated by commas and written
 from the smallest to the largest unit.

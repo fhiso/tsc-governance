@@ -135,15 +135,15 @@ of an entity which has an associated value.  Some examples of
 
 Any FHISO standard that defines a *property* should also define:
 
-- the context in which it is to be used, perhaps by specifying the
-  *class* of entity on which it may be use; 
+- its **domain** &mdash; the context in which it is to be used,
+  perhaps by specifying the *class* of entity on which it may be use; 
 
-- whether it can appear multiple times on the same entity, and if so
-  whether any meaning is ascribed to their order; and
+- its **cardinality** &mash; whether it can appear multiple times on the same
+  entity, and if so whether any meaning is ascribed to their order; and
   
-- the expected form the *property*'s value, such as whether it is
-  free-form text, an integer or date, another *term* (of a particular
-  *class*), or another entity of some form.
+- its **domain** &mdash; the expected form the *property*'s value, such as
+  whether it is free-form text, an integer or date, another *term* (of a
+  particular *class*), or another entity of some form.
 
 > (Richard 2015-12-06)  Should we allow meaning to be ascribed to the
 > order of multiple properties of the same name?  Several significant
@@ -155,8 +155,7 @@ assumed from the absence of a *property*.
 
 When the expected value of a *property* is another *term*, a *class*
 shall be given which identifies the *terms* that are acceptable values
-for the property.  This *class* is known as the **range** of the
-*property*.  For example, a standard might define a
+for the property.  For example, a standard might define a
 `http://fhiso.org/term/indi/v1/sex` *property* whose *range* is the
 `http://fhiso.org/term/indi/v1/Sex`, which *class* might include the
 *terms* `http://fhiso.org/term/indi/v1/Male` and

@@ -4,22 +4,17 @@ Comments should be directed to the [tsc-public mailing list](/tsc-public).*
 
 # Preferred nature of vocabularies
 
-This draft is in response to the recommendation from the FHISO Board meeting 2015-11-27; as noted in [the minutes](/minutes), the board and TSC recommended 
+This draft is in response to the resolution at the [FHISO Board meeting
+2015-11-27](//fhiso.org/aboutfhiso/fhiso-board/minutes/2015-11-27/) 
 
-> that the TSC should draft a general policy on the preferred nature of vocabularies, such as the use of URIs.
+> the TSC will draft and release &hellip; a general policy on
+> vocabularies.
 
 To this end, we define **vocabulary** be a set of *term*s paired with their well-defined meanings, and a **term** to be one such element of a vocabulary.  These words are intended to evoke the idea of [controlled vocabulary](https://en.wikipedia.org/wiki/Controlled_vocabulary) without specifying a closed or controlled character.
 
 > (Tony 2016-01-20) This introduction specifically talks about 'Controlled Vocabularies' but fails to mention the important notion of 'Partially Controlled Vocabularies' (i.e. extensible sets). Not all vocabularies will be extensible (same in STEMMA) but some absolutely must be. Maybe I read this section incorrectly but I would certainly want assurance, as a potential user of the standard, that extensibility of vocabularies is designed for.
 
 > (Luther 2016-02-01) The intent of the phrase "without specifying a closed or controlled character" was to imply that the vocabularies are not closed (i.e., are extensible).  We should look for better wording if that message was not clear.  On a related note, is there a case where we want a closed-set vocabulary?  I had assumed all vocabularies would be only partially specified...
-
-> (Richard 2016-02-15) I with Tony that it is important to include
-> partially controlled vocabularies, but agree with Luther that the
-> current wording does so, and later when discussing enumerations we say
-> so explicitly.  I would be content to assume unless and until a
-> good counterexample comes along that all vocabularies will be
-> extensible.
 
 We recommend the following as pertains to *term*s.
 
@@ -128,58 +123,53 @@ correct usage.
 
 ## Uses of *terms*
 
-One use of a *term* is as the name of a property of some entity, to
-which a value is assigned; such *terms* are known as **property names**.
-Any FHISO standard that defines a *property name* should also define:
+A **class** is a *term* used to denote the set of values or entities
+that may be used in some particular context.  Example *classes* might
+be `http://fhiso.org/term/indi/v1/Individual` or
+`http://fhiso.org/term/indi/v1/EventType`.
 
-- the context in which it is to be used, perhaps by specifying the type
-  of entity or entities on which it is to be used; 
+A **property** is a *term* used to identify a particular attribute
+of an entity which has an associated value.  Some examples of
+*properties* might be `http://fhiso.org/term/indi/v1/occupation` or
+`http://fhiso.org/term/indi/v1/religion`.
 
-- whether it is valid for an entity to have multiple properties with the
-  same *property name*, and if so whether any meaning is ascribed to
-  their order; and
+Any FHISO standard that defines a *property* should also define:
+
+- the context in which it is to be used, perhaps by specifying the
+  *class* of entity on which it may be use; 
+
+- whether it can appear multiple times on the same entity, and if so
+  whether any meaning is ascribed to their order; and
   
-- the expected form the property's value, such as whether it is
-  free-form text, an integer or date, another *term*, or another entity
-  of some form.
+- the expected form the *property*'s value, such as whether it is
+  free-form text, an integer or date, another *term* (of a particular
+  *class*), or another entity of some form.
 
 > (Richard 2015-12-06)  Should we allow meaning to be ascribed to the
 > order of multiple properties of the same name?  Several significant
 > data models models (e.g. [RDF](http://www.w3.org/RDF/) graphs or XML
 > attributes) do not necessarily preserve order.
 
-Properties shall not have default values, and no information shall be
-assumed from the absence of a property.
+*Properties* shall not have default values, and no information shall be
+assumed from the absence of a *property*.
 
-When the value of a property is another *term*, a *term* shall be
-provided to serve as the name of the class of acceptable values.  Such a
-*term* is known as an **enumerated type**, and the valid values for the
-property are known as its **enumerated values**.  For example, standard
-might define a `http://fhiso.org/term/indi/v1/sex` property whose
-value is an enumerated type `http://fhiso.org/term/indi/v1/Sex`
-with defined enumerated values that include
-`http://fhiso.org/term/indi/v1/Male` and
+When the expected value of a *property* is another *term*, a *class*
+shall be given which identifies the *terms* that are acceptable values
+for the property.  This *class* is known as the **range** of the
+*property*.  For example, a standard might define a
+`http://fhiso.org/term/indi/v1/sex` *property* whose *range* is the
+`http://fhiso.org/term/indi/v1/Sex`, which *class* might include the
+*terms* `http://fhiso.org/term/indi/v1/Male` and
 `http://fhiso.org/term/indi/v1/Female`.
-
-> (Richard 2015-12-06)  Are we content with this nomenclature?  Formal
-> treatments of data models rarely have the notion of an enumeration,
-> and would simply say that `Male` is an object which is an
-> instance of the `Sex` class.  However it seems useful, at least
-> informally, to distinguish types (e.g. `Sex`) that will have a
-> few well-known values, from those (e.g. `Individual`) with a vast
-> number of locally defined instances.
 
 > (Tony 2016-01-20) I have to disagree with Richard over the 'enumeration' nomenclature. I use this approach extensively in STEMMA, and hence the application of namespaces both to values and to tags.
 
-> (Richard 2016-02-15)  Can you elborate what it is you disagree with,
-> Tony?  If your objection is simply to the word "enumerated", e.g.
-> because you think that implies not being extensible, I'm happy to drop
-> the word and leave the above as a definition of the word *type*.
+> (Richard 2016-02-17)  I have removed the word 'enumeration'.
 
-A FHISO standard that defines an *enumerated type* shall state whether
+A FHISO standard that defines a *class* of *terms* shall state whether
 or not it is extensible: that is, whether or not third parties should be
-permitted to define additional *enumerated values* of that type.  Due to
-the widely variable nature of genealogical data, the default should be
-to make enumerated types extensibile unless there are specific
-compelling reasons to the contrary.
+permitted to define additional *terms* of that *class*.  Due to the
+widely variable nature of genealogical data, the default should be to
+make *classes* extensibile unless there are compelling reasons to
+the contrary.
 

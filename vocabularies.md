@@ -137,7 +137,7 @@ Any FHISO standard that defines a *property* should also define:
 - its **cardinality** &mdash; whether it can appear multiple times on the same
   entity, and if so whether any meaning is ascribed to their order; and
   
-- its **domain** &mdash; the expected form of the *property*'s value, such as
+- its **range** &mdash; the expected form of the *property*'s value, such as
   whether it is free-form text, an integer or date, another *term* (of a
   particular *class*), or another entity of some form.
 

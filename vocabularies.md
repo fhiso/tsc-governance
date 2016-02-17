@@ -50,7 +50,8 @@ following URI patterns:
 - A path constructed from the following slash-separated path segments
   in order: 
     1. the literal string `term`;
-    2. optionally, the name of a vocabulary, such as `sc`;
+    2. optionally, the name of a vocabulary, such as `sc`
+       (for 'sources and citations', for example);
     3. a version identifier, either `draft` or a version string matching
        the regular expression `v[0-9]+([.][0-9]+([.][0-9]+)?)?`;
     4. the name of the *term* being defined, which shall match the

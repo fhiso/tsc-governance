@@ -7,8 +7,9 @@ consensus-based, collaborative standards process, much of which will be
 conducted by a number of technical groups each working on specific
 topics.
 
-Per [the announcement in **tsc-public** on 2016-02-17](//fhiso.org/pipermail/tsc-public_fhiso.org/2016-February/002113.html), much of the structure
-described by the [TSC charter](/charter/) and
+Per [the announcement](//fhiso.org/pipermail/tsc-public_fhiso.org/2016-February/002113.html)
+on the [**tsc-public** mailing list](/tsc-public) on 2016-02-17, 
+much of the structure described by the [TSC charter](/charter/) and
 [operations & policy manual](/opm/) have been suspended. 
 Technical work is proceeding as a committee of the whole supervised by the TSC.
 Details are given on our [governance page](/governance/).

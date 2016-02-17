@@ -1,6 +1,10 @@
 Minutes of the Technical Standing Committee
 ===========================================
 
+**2016-02-17** [Announced](//fhiso.org/pipermail/tsc-public_fhiso.org/2016-February/002113.html) 
+our [interim governance structure](/governance) which will apply as 
+we work towards our new [priorities](/priorities).
+
 **2016-02-16** Approved our [priorities](/priorities) and [technical
 strategy](/strategy) documents as non-binding statements of TSC guidance.
 Approved [vocabularies policy](/policies/vocabularies) as a draft for 

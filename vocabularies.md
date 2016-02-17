@@ -157,11 +157,21 @@ for the property.  For example, a standard might define a
 *terms* `http://fhiso.org/term/indi/v1/Male` and
 `http://fhiso.org/term/indi/v1/Female`.
 
-> (Tony 2016-01-20) I have to disagree with Richard over the 'enumeration' nomenclature. I use this approach extensively in STEMMA, and hence the application of namespaces both to values and to tags.
-
-> (Richard 2016-02-17)  I have removed the word 'enumeration'.
-
-> (Luther 2016-02-17) About the example (not the concept): I'd prefer not having capitalisation be the only difference between the URI of a *property* and its value's *class* (I'd prefer something like `http://fhiso.org/class/v1/Sex`).
+> (From conversation between Tony, Richard, and Luther 2016-02-17) 
+>
+> Q: Does a vocabulary or a class correspond to a namespace?
+>
+> A: Neither.  A vocabulary is a set of terms, which (if namespace is taken to mean the pre-term-name part of a URI) may be from one or several namespaces.
+>
+> Q: How are vocabulary and class different?
+>
+> A: Vocabulary = set of terms.  Class = term that defines a a datatype.
+> Some datatypes have, as their set of values, the elements of a vocabulary
+> so it is possible that a class could be a vocabulary (e.g., the class Sex), 
+> but not not all classes will be vocabularies (e.g., the class Integer).
+>
+> Some other specifications call classes that are also vocabularies *enumerations*.
+> We have avoided that terminology because enumeration has several other meanings as well.
 
 A FHISO standard that defines a *class* of *terms* shall state whether
 or not it is **extensible**: that is, whether or not third parties should be

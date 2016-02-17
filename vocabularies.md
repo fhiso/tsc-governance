@@ -1,6 +1,6 @@
-*This document is a pre-alpha draft posted for internal comment only.
-Comments should be directed to the [tsc-public mailing list](/tsc-public).*
-
+*This document is a draft approved by the TSC for wider comment on 
+16 February 2016.  Comments should be directed to the 
+[tsc-public mailing list](/tsc-public).*
 
 # Preferred nature of vocabularies
 

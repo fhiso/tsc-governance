@@ -7,11 +7,11 @@ consensus-based, collaborative standards process, much of which will be
 conducted by a number of technical groups each working on specific
 topics.
 
-Per the announcement in **tsc-public** on 2106-02-16, much of the structure
+Per the announcement in **tsc-public** on 2106-02-XX, much of the structure
 described by the [TSC charter](/charter/) and
 [operations & policy manual](/opm/) have been suspended. 
 Technical work is proceeding as a committee of the whole supervised by the TSC.
-See [Interim Structure](/interim-structure/) for more.
+Details are given on our [governance page](/governance/).
 
 At present the TSC has two members: Luther Tychonievich is the TSC Coordinator, 
 and Richard Smith is TSC Co-Coordinator.
@@ -48,7 +48,7 @@ Current priorities for technical work are outlined in [the priorities document](
 and discussed in detail in [the strategy document](/strategy).  Both
 documents are subject to change as opportunities, resources, and member interest change.
 
-Per our [interim structure](/interim-structure/), technical work is proceeding 
+Per our [interim structure](/governance/), technical work is proceeding 
 as a committee of the whole.  The [**tsc-public** mailing list](tsc-public) 
 is the primary means for communicating in this work.
 

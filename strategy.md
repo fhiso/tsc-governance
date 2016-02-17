@@ -1,4 +1,4 @@
-*This document is a pre-alpha draft posted for internal comment only.*
+*Approved by the TSC on 16 February 2016.*
 
 # Technical Strategy
 

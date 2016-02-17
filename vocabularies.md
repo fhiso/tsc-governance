@@ -166,9 +166,9 @@ for the property.  For example, a standard might define a
 > (Richard 2016-02-17)  I have removed the word 'enumeration'.
 
 A FHISO standard that defines a *class* of *terms* shall state whether
-or not it is extensible: that is, whether or not third parties should be
+or not it is **extensible**: that is, whether or not third parties should be
 permitted to define additional *terms* of that *class*.  Due to the
 widely variable nature of genealogical data, the default should be to
-make *classes* extensibile unless there are compelling reasons to
+make *classes* extensible unless there are compelling reasons to
 the contrary.
 

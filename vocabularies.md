@@ -1,6 +1,7 @@
-*This document is a pre-alpha draft posted for internal comment only.
+*This document is an alpha draft posted for internal comment only.
 Comments should be directed to the [tsc-public mailing list](/tsc-public).*
 
+**About examples**  The examples presented in this draft are intended to illustrate their immediate topics only; this document does not define any actual *vocabularies*.  As actual *vocablaries* are defined the examples herein may be updated to reflect them.
 
 # Preferred nature of vocabularies
 
@@ -50,8 +51,7 @@ following URI patterns:
 - A path constructed from the following slash-separated path segments
   in order: 
     1. the literal string `term`;
-    2. optionally, the name of a vocabulary, such as `sc`
-       (for 'sources and citations', for example);
+    2. optionally, the name of a vocabulary, such as `sources`;
     3. a version identifier, either `draft` or a version string matching
        the regular expression `v[0-9]+([.][0-9]+([.][0-9]+)?)?`;
     4. the name of the *term* being defined, which shall match the
@@ -82,12 +82,6 @@ For example, we might have a URI like `http://fhiso.org/term/meta/v0/vocabulary`
 > events.  Should they both be in `http://fhiso.org/term/events/`?  
 
 > (Luther 2015-12-07)  Multiple vocabularies is just one example of the ever-present problem of trying to fit a world of messy cross-links into a simple hierarchy.  We could go flat (i.e., all FHISO terms fit into one vocabulary), single-level bucketing described above (there may be an `events` vocabulary and a `roles` vocabulary but not an `events/roles` vocabulary), or arbitrary nesting (essentially allowing sub-vocabularies like `events/roles`).  I'd rather err on the side of fewer vocabulary buckets provided we can do so without namespace collisions.
-
-
-> (Richard 2015-12-06)  Is `sc` (for sources & citations) overly
-> abbreviated?
-
-> (Luther 2015-12-07)  I assume picking a name for a vocabulary would be part of the standarisation process.  I don't know that we need a level-of-abbreviation guideline.
 
 > (Tony 2016-01-20) While I agree that FHISO-defined vocabularies should follow specific patterns, such as using a scheme of http:, I would hope that the actual usage of namespaces would be more open where vocabularies are partially controlled, such as allowing other schemes, or fragments. 
 
@@ -165,6 +159,8 @@ for the property.  For example, a standard might define a
 > (Tony 2016-01-20) I have to disagree with Richard over the 'enumeration' nomenclature. I use this approach extensively in STEMMA, and hence the application of namespaces both to values and to tags.
 
 > (Richard 2016-02-17)  I have removed the word 'enumeration'.
+
+> (Luther 2016-02-17) About the example (not the concept): I'd prefer not having capitalisation be the only difference between the URI of a *property* and its value's *class* (I'd prefer something like `http://fhiso.org/class/v1/Sex`).
 
 A FHISO standard that defines a *class* of *terms* shall state whether
 or not it is **extensible**: that is, whether or not third parties should be

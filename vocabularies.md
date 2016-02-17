@@ -1,5 +1,6 @@
-*This document is an alpha draft posted for internal comment only.
-Comments should be directed to the [tsc-public mailing list](/tsc-public).*
+*This document is a draft approved by the TSC for wider comment on 
+16 February 2016.  Comments should be directed to the 
+[tsc-public mailing list](/tsc-public).*
 
 **About examples**  The examples presented in this draft are intended to illustrate their immediate topics only; this document does not define any actual *vocabularies*.  As actual *vocablaries* are defined the examples herein may be updated to reflect them.
 

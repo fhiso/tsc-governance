@@ -53,23 +53,13 @@ following URI patterns:
   in order: 
     1. the literal string `term`;
     2. optionally, the name of a vocabulary, such as `sources`;
-    3. a version identifier, either `draft` or a version string matching
-       the regular expression `v[0-9]+([.][0-9]+([.][0-9]+)?)?`;
-    4. the name of the *term* being defined, which shall match the
+    3. the name of the *term* being defined, which shall match the
        [NCName production](http://www.w3.org/TR/xml-names/#NT-NCName) in
        the "Namespaces in XML 1.0" specification. 
 - No query.
 - No fragment.
     
-For example, we might have a URI like `http://fhiso.org/term/meta/v0/vocabulary` to define a versioned pre-release definition of the term "vocabulary", part of FHISO's "meta" vocabulary.
-
-> (Luther 2015-11-30) The above describes the version-before-term scheme used by GEDCOM-X, suggesting that the version belongs to the vocabulary, not to the terms it contains.  An alternative would be to have the version come after a term, perhaps as the query or fragment, suggesting that terms are versioned independently.  If versions are queries or fragments, we'd need to consider what a term with several versions means if no version is specified.
-
-> (Richard 2015-12-01) Should we allow versioning at all?  Many
-> vocabularies in common use have frozen with a version of `1.0` (or
-> worse, a pre-release version number), despite being considerably more
-> mature.  They have been unable to update the version number without
-> major disruption to data consumers and providers.
+For example, we might have a URI like `http://fhiso.org/term/meta/vocabulary` to define the term "vocabulary", part of FHISO's "meta" vocabulary.
 
 > (Richard 2015-12-01) The use of [slash URIs instead of hash
 > URIs](http://www.w3.org/wiki/HashVsSlash) gives greater flexibility
@@ -88,9 +78,8 @@ For example, we might have a URI like `http://fhiso.org/term/meta/v0/vocabulary`
 
 > (Luther 2016-02-01)  I agree, Tony; that was the intent of having two sections, one about all terms and the other about FHISO-defined terms.
 
-Draft terms (i.e. those with a version of `draft`) may change without
-notice; other versions should only be change in a backwards-compatible way
-once posted.  
+Once standardised, the definitions of terms should only be change in a
+backwards-compatible.  
 
 
 ## URI resolution
@@ -121,13 +110,13 @@ correct usage.
 
 A **class** is a *term* used to denote the set of values or entities
 that may be used in some particular context.  Example *classes* might
-be `http://fhiso.org/term/indi/v1/Individual` or
-`http://fhiso.org/term/indi/v1/EventType`.
+be `http://fhiso.org/term/indi/Individual` or
+`http://fhiso.org/term/indi/EventType`.
 
 A **property** is a *term* used to identify a particular attribute
 of an entity which has an associated value.  Some examples of
-*properties* might be `http://fhiso.org/term/indi/v1/occupation` or
-`http://fhiso.org/term/indi/v1/religion`.
+*properties* might be `http://fhiso.org/term/indi/occupation` or
+`http://fhiso.org/term/indi/religion`.
 
 Any FHISO standard that defines a *property* should also define:
 
@@ -152,10 +141,10 @@ assumed from the absence of a *property*.
 When the expected value of a *property* is another *term*, a *class*
 shall be given which identifies the *terms* that are acceptable values
 for the property.  For example, a standard might define a
-`http://fhiso.org/term/indi/v1/sex` *property* whose *range* is the
-`http://fhiso.org/term/indi/v1/Sex`, which *class* might include the
-*terms* `http://fhiso.org/term/indi/v1/Male` and
-`http://fhiso.org/term/indi/v1/Female`.
+`http://fhiso.org/term/indi/sex` *property* whose *range* is the
+`http://fhiso.org/term/indi/Sex`, which *class* might include the
+*terms* `http://fhiso.org/term/indi/Male` and
+`http://fhiso.org/term/indi/Female`.
 
 > (From conversation between Tony, Richard, and Luther 2016-02-17) 
 >

@@ -79,7 +79,7 @@ For example, we might have a URI like `http://fhiso.org/term/meta/vocabulary` to
 > (Luther 2016-02-01)  I agree, Tony; that was the intent of having two sections, one about all terms and the other about FHISO-defined terms.
 
 Once standardised, the definitions of terms should only be change in a
-backwards-compatible.  
+backwards-compatible way.  
 
 
 ## URI resolution

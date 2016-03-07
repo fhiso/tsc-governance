@@ -14,7 +14,7 @@ into the longer-term vision.  It is not intended to be binding, and the
 TSC may publish future versions of this roadmap that differ from this
 one, perhaps substantially.
 
-## Background
+## Background {#background}
 
 According to [by-law](/by-laws) 3.3,
 
@@ -49,7 +49,7 @@ models, in particular [GEDCOM](https://en.wikipedia.org/wiki/GEDCOM) and
 [GEDCOM X](http://gedcomx.org/), which the FHISO Board have identified
 as the two dominant non-proprietary data models at present.  
 
-## First steps
+## First steps {#first}
 
 The FHISO Board, on the TSC's recommendation, [have
 decided](/aboutfhiso/fhiso-board/minutes/2015-11-27/) that FHISO should
@@ -68,7 +68,7 @@ vocabulary fills a small but significant gap identified by our
 vocabularies are not intended to be all of FHISO's work on sources and
 citations &mdash; just the first priorities.
 
-### Vocabularies
+### Vocabularies {#vocab}
 
 As our two first projects involve designing vocabularies, at the Board's
 request the TSC have drafted a [policy on the preferred nature of
@@ -83,7 +83,7 @@ The TSC welcome feedback on this draft policy, and suggest that
 such discussion is best directed to the [`tsc-public` mailing
 list](/tsc-public).
 
-### Citation Elements Vocabulary
+### Citation Elements Vocabulary {#cev}
 
 For the purpose of this standard-development activity, a citation element is a piece of data
 about a source that might reasonably be included in a formatted
@@ -153,7 +153,7 @@ be acceptable to use the order of several 'author' elements to denote
 the order in which the authors are conventionally listed.  No meaning
 should be associated with the order of different types of elements.
 
-### Source Derivation Vocabulary
+### Source Derivation Vocabulary {#cdv}
 
 Our [Sources & Citations Exploratory Group](/egs/sceg) (S&CEG) spent a
 considerable time looking at [layered
@@ -178,7 +178,7 @@ how to describe the combination of several derivations; if the
 derivation types can be ordered by faithfulness, this may be as simple
 as selecting the least faithful step.
 
-## Follow-up citations work
+## Follow-up citations work {#followup}
 
 When these two vocabularies are complete, there are several options for
 related follow-up work.  

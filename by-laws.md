@@ -1,10 +1,15 @@
-*The official version of FHISO's by-laws are on the [FHISO
-website](http://fhiso.org/by-laws/).  This unofficial version is
-provided for convenience in those circumstances in which a
-[markdown](https://daringfireball.net/projects/markdown/) version is
-useful.*
+---
+title: Bylaws of Family History Information Standards Organisation, Inc.
+date: 6 March 2016
+...
+Bylaws of Family History Information Standards Organisation, Inc.
+=================================================================
 
-*Enacted on 1 September 2013, as updated on 6 March 2016.*
+*The official version of FHISO's bylaws are on the [FHISO
+website](http://fhiso.org/by-laws/).  This unofficial version exists
+so that versions can be produced in other formats.*
+
+*Enacted on 1 September 2013, and last updated on 6 March 2016.*
 
 Article 1: Name
 ---------------
@@ -72,9 +77,6 @@ marital status, sexual orientation or military status, in any of its
 activities or operations.  These activities include, but are not limited
 to, dealing with the public, selection of volunteers and vendors, hiring
 and firing of staff, and provision of services.
-
-**TODO:** *Need to check the wording of the first sentence is what was 
-agreed on 6 March 2015.*
 
 Article 4: Membership
 ---------------------

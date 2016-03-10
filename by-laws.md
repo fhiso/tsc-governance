@@ -642,14 +642,8 @@ Committee, together with rules for operation and guidance (collectively,
 Charters are filed with the Secretary, and become part of the FHISO
 Manual.
 
-Article 11: [Deleted]
----------------------
-
-Article 12: [Deleted]
----------------------
-
-Article 13: [Deleted]
----------------------
+Articles 11–13: [Deleted]
+-------------------------
 
 Article 14: Nominating Committee
 --------------------------------

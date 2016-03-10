@@ -23,3 +23,7 @@ PDF_OPTS=--variable=documentclass=book \
 
 clean:
 	rm -f $(SOURCES:%.md="%.html")
+
+# We use this to avoid duplicating the markdown dialect between repositories
+.dialect:
+	@echo -n "$(MD_DIALECT)" > $@

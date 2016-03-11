@@ -184,7 +184,12 @@ $endif$
 \fancyhf{}
 \chead{\includegraphics[scale=1]{logo.png}}
 }
-% 
+% end FHISO customisations
+% FHISO customisations:
+\usepackage{enumitem}
+\setlist[itemize]{noitemsep, topsep=0pt, label=---}
+\setlist[enumerate]{noitemsep, topsep=0pt}
+% end FHISO customisations
 $for(header-includes)$
 $header-includes$
 $endfor$

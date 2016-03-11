@@ -1,127 +1,257 @@
-*This document is a draft approved by the TSC for wider comment on 
-16 February 2016.  Comments should be directed to the 
-[tsc-public mailing list](/tsc-public).*
-
-**About examples**  The examples presented in this draft are intended to illustrate their immediate topics only; this document does not define any actual *vocabularies*.  As actual *vocablaries* are defined the examples herein may be updated to reflect them.
-
+---
+title: Preferred nature of vocabularies
+date: 11 March 2016
+...
 # Preferred nature of vocabularies
 
-This draft is in response to the resolution at the [FHISO Board meeting
-2015-11-27](//fhiso.org/aboutfhiso/fhiso-board/minutes/2015-11-27/) 
+This is a draft FHISO policy written after the [November 2015 Board
+meeting](/aboutfhiso/fhiso-board/minutes/2015-11-27/) resolved that "the
+TSC will draft and release &hellip; a general policy on vocabularies".
+It was released by the TSC for wider comment on the [tsc-public mailing
+list](/tsc-public) and has been updated to reflect the consensus
+reached on that list.
 
-> the TSC will draft and release &hellip; a general policy on
-> vocabularies.
+Although neither absolutely binding nor completely immutable, future
+FHISO standards and other technical documents should follow this FHISO
+policy insofar as it applies, unless there are exceptional circumstances
+not to do so.
 
-To this end, we define **vocabulary** be a set of *term*s paired with their well-defined meanings, and a **term** to be one such element of a vocabulary.  These words are intended to evoke the idea of [controlled vocabulary](https://en.wikipedia.org/wiki/Controlled_vocabulary) without specifying a closed or controlled character.
+The key words *must*, *must not*, *required*, *shall*, *shall not*,
+*should*, *should not*, *recommended*,  *may*, and *optional* in this
+document are to be interpreted as described in [RFC
+2119](http://tools.ietf.org/html/rfc2119).
 
-> (Tony 2016-01-20) This introduction specifically talks about 'Controlled Vocabularies' but fails to mention the important notion of 'Partially Controlled Vocabularies' (i.e. extensible sets). Not all vocabularies will be extensible (same in STEMMA) but some absolutely must be. Maybe I read this section incorrectly but I would certainly want assurance, as a potential user of the standard, that extensibility of vocabularies is designed for.
+The examples given in this documented are intended as illustration only.
+This document does not define any actual *vocabularies*.  As actual
+*vocablaries* are defined, the examples herein may be updated to reflect
+them.
 
-> (Luther 2016-02-01) The intent of the phrase "without specifying a closed or controlled character" was to imply that the vocabularies are not closed (i.e., are extensible).  We should look for better wording if that message was not clear.  On a related note, is there a case where we want a closed-set vocabulary?  I had assumed all vocabularies would be only partially specified...
+## Vocabularies and terms
 
-We recommend the following as pertains to *term*s.
+The World Wide Web Consortium (W3C) answers the question "[What is a
+vocabulary?](https://www.w3.org/standards/semanticweb/ontology#summary)"
+as follows:
 
+> Vocabularies define the concepts and relationships (also referred to
+> as "terms") used to describe and represent an area of concern.
+> Vocabularies are used to classify the terms that can be used in a
+> particular application, characterize possible relationships, and
+> define possible constraints on using those terms. In practice,
+> vocabularies can be very complex (with several thousands of terms) or
+> very simple (describing one or two concepts only).
 
-## Official definition as URI
+A **vocabulary** is defined to be a set of related *terms*, where each
+*term* identifies some specific concept, idea or relationship.  How the
+*terms* in a *vocabulary* are related to each other is not specified,
+and in particular there is no assumption that they can be used in the
+same context, for example as possible values of some field.  A
+*vocabulary* is simply a collection of *terms* that might usefully be
+discussed together, for example, all the *terms* defined in a particular
+standard or section of a standard.  Given this rather nebulous
+definition, the word *should* be avoided in FHISO standards and other
+technical documents if a more precisely-defined word or phrase is
+available.
 
-Any FHISO technical document or data in FHISO-approved format that contains a *term* should provide unambiguous definition of how each such *term* can be resolved to a valid URI.
+A **term** consists of a unique, machine-readable identifier, known as
+the *term name*, paired with a clearly-defined meaning for the
+concept or idea that it represents.  This meaning *shall* be written in
+a natural language (such as English), though aspects of the definition
+*may* also be available in machine-parsable form.
 
-> (Luther 2015-11-30) Should we pick URI ([IETF RFC 3986](http://tools.ietf.org/html/rfc3986)) or IRI ([IETF RFC 3987](http://tools.ietf.org/html/rfc3987))?  The latter allows UCS, which is international-friendly, but the former (restricted to ASCII) may be both (a) sufficient for the task at hand and (b) easier to implement
+## Term names
 
-As outlined in [CFPS 37](/cfps/files/cfps37.pdf), the form of the *term* used in a document or data stream need not be the full URI, provided there is a well-defined unambiguous process for translating to the URI form.  This process should not depend on anything external to the document and/or data.  The use of namespace URIs is recommended as the preferred way to shorten URIs.
+A **term name** *shall* canonically be an IRI matching the `IRI`
+production in §2.2 of [RFC 3987](http://tools.ietf.org/html/rfc3987).
+IRIs have been chosen in preference to URIs because it is recognised
+that certain culture-specific genealogical concepts may not have English
+names, and in such cases the human-legibility of IRIs is advantageous.
 
-## Guidelines for selecting URIs for *term*s
-
-FHISO standards may define new *terms*, and may use *terms* defined in
-third-party standards.
-
-Where possible all *terms* used in FHISO standards should:
+FHISO standards *may* define new *terms*, and *may* use *terms* defined in
+third-party standards.  Where possible all *terms* used in FHISO
+standards *should*:
 
 - be defined in an [open standard](/opm#openness);
-
-- have a scheme of `http` or `https`; and
-
-- be a URL which, when visited, provides a human- or machine-readable
+- have a scheme of `http` or `https`; 
+- be defined on a domain under the control of the standard's authors; and
+- be a IRI which, when visited, provides a human- or machine-readable
   description of the meaning of the vocabulary *term* in a common, open
   format.
 
-Terms defined in FHISO standards and proposed standards should use the
-following URI patterns:
+In additional, *terms* defined in FHISO standards *shall* use the
+following IRI patterns:
 
 - A scheme of `http`.
 - An authority with just the host `fhiso.org`.
-- A path constructed from the following slash-separated path segments
-  in order: 
+- A path constructed from the following slash-separated path segments, 
+  each of which *should* match the `NCName` production in the [XML
+  Namespaces](https://www.w3.org/TR/REC-xml-names/) specification:
     1. the literal string `term`;
-    2. optionally, the name of a vocabulary, such as `sources`;
-    3. the name of the *term* being defined, which shall match the
-       [NCName production](http://www.w3.org/TR/xml-names/#NT-NCName) in
-       the "Namespaces in XML 1.0" specification. 
-- No query.
-- No fragment.
-    
-For example, we might have a URI like `http://fhiso.org/term/meta/vocabulary` to define the term "vocabulary", part of FHISO's "meta" vocabulary.
+    2. zero or more short names used to name of the *vocabulary*
+       (or the literal string `type` &mdash; see below in the section on
+       *classes*); 
+    3. a short name for the *term*.
+- No query or fragment.
 
-> (Richard 2015-12-01) The use of [slash URIs instead of hash
-> URIs](http://www.w3.org/wiki/HashVsSlash) gives greater flexibility
-> for redirecting several terms to a single document of definitions or
-> serving separate definitions as is convenient.  But is this sufficient
-> reason to prohibit hash URIs?
+Although this permits an arbitrary number of path segments between the
+literal `term` and the name of the *term*, exactly one path segment
+*should* normally be used.  For example, a *term* named "birth" in some
+future FHISO "events" vocabulary might have the *term name*
+`http://fhiso.org/term/events/birth`.
 
-> (Richard 2015-12-06)  A standard might define several vocabularies:
-> as a hypothetical example, an events standard might define a
-> vocabulary for types of events and a separate vocabulary for roles in
-> events.  Should they both be in `http://fhiso.org/term/events/`?  
+The use of additional segments to partition a *vocabulary* into parts is
+permitted but *not recommended* in normal circumstances.  It is also
+permitted but *not recommended* to have zero path segments between the
+literal `term` and the name of the *term*; this should only be done if a
+term has sufficiently wide applicability that it is not naturally part
+of one specific vocabulary.
 
-> (Luther 2015-12-07)  Multiple vocabularies is just one example of the ever-present problem of trying to fit a world of messy cross-links into a simple hierarchy.  We could go flat (i.e., all FHISO terms fit into one vocabulary), single-level bucketing described above (there may be an `events` vocabulary and a `roles` vocabulary but not an `events/roles` vocabulary), or arbitrary nesting (essentially allowing sub-vocabularies like `events/roles`).  I'd rather err on the side of fewer vocabulary buckets provided we can do so without namespace collisions.
+*Term names* are case-sensitive, but FHISO *should* not define multiple
+*terms* that differ only in their capitalisation.  Applications should
+be aware that some current third-party standard do contain *terms*
+differing only in their capitalisation; FHISO standards *may* use such
+terms.
 
-> (Tony 2016-01-20) While I agree that FHISO-defined vocabularies should follow specific patterns, such as using a scheme of http:, I would hope that the actual usage of namespaces would be more open where vocabularies are partially controlled, such as allowing other schemes, or fragments. 
+A **namespace** is a *vocabulary* defined as a collection of terms
+differing only in their final `NCName` component.  A *namespace* may be
+represented by a **namespace name**, which is the *term name* of its
+constituent *terms* with the differing final `NCName` component removed.
+(In third-party *vocabularies*, the final `NCName` component might be
+a fragment identifier; if so, it is removed, leaving the trailing `#`.)
+Thus the *term* `http://fhiso.org/term/events/birth` is part of a
+*namespace* with a *namespace name* of `http://fhiso.org/term/events/`
+&mdash; note the trailing slash.  Not all *vocabularies* are
+*namespaces* &mdash; it can also be convenient to talk about collections
+of *terms* that span several *namespaces*, and also *vocabularies* that
+are a subset of a namespace.  Applications *must not* make inferences
+about the meaning or usage of a *term* based solely on its *namespace*.
 
-> (Luther 2016-02-01)  I agree, Tony; that was the intent of having two sections, one about all terms and the other about FHISO-defined terms.
+## Compact term names
 
-Once standardised, the definitions of terms should only be change in a
-backwards-compatible way.  
+FHISO standards or other technical document *may* allow *terms* to be
+written in ways other than as IRIs, and if so *shall* provide an
+unambiguous definition of how such *terms* are converted to and from
+their canonical form as an IRI.  This conversion process *shall not*
+depend on anything external to the document or data stream.
 
+FHISO's preferred way of shortening *term names* is to use some form of
+**compact term name**.  A standard doing so *should* define a mechanism
+like that in [XML Namespaces](https://www.w3.org/TR/REC-xml-names/) to
+bind a *namespace name* to shorter, more convenient identifier called
+the **namespace prefix**.  A *compact term name* comprises a *namespace
+prefix*, followed by a separator (which will typically but not
+necessarily a colon, depending on the host language), followed by a
+**local part**.  The *term name* in IRI form is found by concatenating
+the *namespace name* corresponding to the *namespace prefix* with the
+*local part*.  For example, if the IRI `http://fhiso.org/term/events/`
+is bound to the prefix `ev`, then `ev:birth` could be the compact
+representation of the term `http://fhiso.org/term/events/birth`.
 
-## URI resolution
+*Compact term names* might take the syntactic form of a `QName` in [XML
+Namespaces](https://www.w3.org/TR/REC-xml-names/), allowing *terms* to
+be used as element or attribute names in XML formats.  In an XML 1.0
+document, *namespace names* are URIs, not IRIs; algorithms for
+converting IRIs to and from URIs can be found in §3 of [RFC
+3987](http://tools.ietf.org/html/rfc3987).  More generally, *compact
+term names* might take the form of a [CURIE](https://www.w3.org/TR/curie/);
+and [CFPS 37](/cfps/files/cfps37.pdf) gives an example of how they might
+be used backwards-compatibly in GEDCOM.
 
-URIs of *terms* defined by FHISO should do a
-[303 redirect](http://linkeddatabook.com/editions/1.0/#sec:303Redirects)
-to a document containing a human-readable definition of the *term*.  Per 
+## IRI resolution
+
+An HTTP 1.1 GET request made without an `Accept` header to a *term name*
+IRI (coverted to a URI per §3.1 of [RFC
+3987](http://tools.ietf.org/html/rfc3987) *should* result in a 
+303 "See Other" redirect to a document containing a human-readable
+definition of the *term*.  This document *should* have a `text/plain` or
+`text/html` content-type, and *should* use either an ASCII or UTF-8
+encoding which *should* be explicitly specified in the content-type.
+
+A 303 redirect is considered [best practice for Linked
+Data](http://linkeddatabook.com/editions/1.0/#sec:303Redirects) to avoid
+confusing the concept represented by the *term* with the definition of
+that *term*, which can be found at the post-redirect URL.  Following
 [W3C policy on vocabulary
-URIs](https://lists.w3.org/Archives/Public/www-tag/2005Jun/0039.html),
-*term* URIs must not result in a 200 response unless the *term* actually
-denotes the document being retrieved rather than a concept defined in
-it.  This document should have a `text/plain` or `text/html`
-content-type and should explicitly use a UCS encoding such as UTF-8.
+IRIs](https://lists.w3.org/Archives/Public/www-tag/2005Jun/0039.html),
+*term* IRIs defined by FHISO *must not* result in a 200 response unless
+the *term* actually denotes the document being retrieved rather than a
+concept defined in it.  
 
-> (Luther 2015-11-30) Should we include the de facto MIME type `text/markdown; charset=UTF-8`?  Or the [draft IETF proposal](https://datatracker.ietf.org/doc/draft-ietf-appsawg-text-markdown/?include_text=1) `text/markdown; charset=UTF-8; variant=Original`?
+The webserver serving the *term* IRI *should* support content
+negotiation (per §3.4.1 of [RFC
+7231](http://tools.ietf.org/html/rfc7231)) which *may* allow *term*
+definitions to be fetched in additional human-readable formats.  Future
+FHISO policy is expected to define a **discovery** mechanism by which
+*vocabulary* authors can provide machine-readable information to
+applications on the properties and expected usage of otherwise-unknown
+*terms*.  This will involve applications making a GET request to the
+*term name* IRI with an appropriate `Accept` header, and receiving a 303
+"See Other" redirect to a machine-readable resource in the expected
+format.  Support for *discovery* will be *optional* for clients and
+*recommended* for servers.
 
-> (Richard 2015-12-01) Should we allow the `ASCII` encoding?  Should we
-> disallow UCS encodings other than `UTF-8`?  Should we just reference
-> our [style guide](style)?
-
-Future FHISO policy may permit [HTTP content
-negotiation](http://tools.ietf.org/html/rfc7231#section-5.3) to be used
-so that the same URL can additionally provide a
-machine-readable version of the *term's* definition and/or metadata on its
-correct usage.
-
-## Uses of *terms*
+## Classes
 
 A **class** is a *term* used to denote the set of values or entities
-that may be used in some particular context.  Example *classes* might
-be `http://fhiso.org/term/indi/Individual` or
-`http://fhiso.org/term/indi/EventType`.
+that may be used in some particular context.  There might, for example,
+be an "individual" *class* to denote people of genealogical interest;
+the nature of the such entities is beyond the scope of this policy, but
+this policy permits a *class* to be defined representing individuals,
+howsoever they may be represented.  
+
+Other *classes* might represent various types of literal, such as
+strings, dates, integers, and booleans.  Such general *classes* *should
+not* be defined in domain-specific *vocabularies* as they are likely to
+required by many FHISO standards.  It is anticipated that a future FHISO
+policy will provide for common definitions of these basic *classes*,
+possibly by reference to a third-party standard such as [XML Schema
+Datatypes](https://www.w3.org/TR/xmlschema-2/).  Where domain-specific
+*classes* are required, for example to represent strings in some
+microformat, these *may* be defined included in the appropriate
+*vocabulary*.
+
+Finally, *classes* can be used to represent a collection of *terms*.
+Such *classes* of *terms* are examples of *vocabularies* and are known
+as **vocabulary classes**.  Not all *classes* are *vocabularies*, as the
+individual and integer examples demonstrate.
+
+An example of a *vocabulary class* might be an "event type" *class*
+consisting of terms for "birth", "burial" and such like.  A FHISO
+standard that defines a *vocabulary class* *shall* state whether or not
+it is **extensible**: that is, whether or not third parties are be
+permitted to define additional *terms* of that *class*.  Due to the
+widely variable nature of genealogical data, *vocabulary classes*
+*should* be extensible unless there are compelling reasons to the
+contrary.
+
+(Some authorities use different nomenclature such as "enumerations" or
+"controlled vocabulary" to describe these concepts.  FHISO does *not
+recommend* the use of this terminology as it is used ambiguously in the
+literature: some authorities use them for any *vocabulary class* while
+others reserve them for just those that are not *extensibile*.)
+
+As for any *term*, the *term name* of a *class* is an IRI.  These *may*
+be put in a *vocabulary*-specific *namespace* alongside other *terms*, for
+example `http://fhiso.org/term/events/Type`; alternatively, they *may*
+be placed in the `http://fhiso.org/term/type/` *namespace*, known as the
+**type namespace**.  *Classes* *should* be put in *type namespace* if
+they are too general to belong in a *vocabulary*-specific *namespace*,
+or if the natural choice of name would conflict with another *term* in
+the *vocabulary*-specific *namespace*.  
+
+FHISO standards *should* respect the convention that *class* names have
+a upper-case first letter, for example `http://fhiso.org/term/type/Sex`.
+
+## Properties
 
 A **property** is a *term* used to identify a particular attribute
-of an entity which has an associated value.  Some examples of
-*properties* might be `http://fhiso.org/term/indi/occupation` or
-`http://fhiso.org/term/indi/religion`.
+of an entity, where the attribute has an associated value, which may
+simply be a boolean.  A link between two entities can also be expressed
+as a *property* where the value is another entity (or a reference to
+another entity; the distinction is beyond the scope of this policy).
 
-Any FHISO standard that defines a *property* should also define:
+Any FHISO standard that defines a *property* *shall* also define:
 
-- its **domain** &mdash; the context in which it is to be used,
-  perhaps by specifying the *class* of entity on which it may be use; 
+- its **domain** &mdash; the context in which it is to be used;
 
 - its **cardinality** &mdash; whether it can appear multiple times on the same
   entity, and if so whether any meaning is ascribed to their order; and
@@ -130,42 +260,37 @@ Any FHISO standard that defines a *property* should also define:
   whether it is free-form text, an integer or date, another *term* (of a
   particular *class*), or another entity of some form.
 
-> (Richard 2015-12-06)  Should we allow meaning to be ascribed to the
-> order of multiple properties of the same name?  Several significant
-> data models models (e.g. [RDF](http://www.w3.org/RDF/) graphs or XML
-> attributes) do not necessarily preserve order.
+The *domain* and *range* of a *property* *should* normally be specified
+in terms of a *class*.  For the *domain* this is the *class* of entity
+on which the *property* may be used; for the *range* it is the *class*
+of the *property*'s value.
+
+In some cases when the expected value of a *property* is another *term*
+(i.e. when its *range* is a *vocabulary class*), the natural choice of
+name for the *class* of values might be the same as the obvious choice
+of *property* name.  For example, the *property* denoting an
+individual's sex and the *class* of possible sexes might both naturally
+be called `http://fhiso.org/term/indi/sex` (or differ only in
+capitalisation).  This is an example of when the *term namespace* should
+be used.
+
+FHISO standards *should* respect the convention that *property* names
+have a lower-case first letter; some example *properties* include
+`http://fhiso.org/term/indi/occupation` and
+`http://fhiso.org/term/indi/religion`.
 
 *Properties* shall not have default values, and no information shall be
 assumed from the absence of a *property*.
 
-When the expected value of a *property* is another *term*, a *class*
-shall be given which identifies the *terms* that are acceptable values
-for the property.  For example, a standard might define a
-`http://fhiso.org/term/indi/sex` *property* whose *range* is the
-`http://fhiso.org/term/indi/Sex`, which *class* might include the
-*terms* `http://fhiso.org/term/indi/Male` and
-`http://fhiso.org/term/indi/Female`.
 
-> (From conversation between Tony, Richard, and Luther 2016-02-17) 
->
-> Q: Does a vocabulary or a class correspond to a namespace?
->
-> A: Neither.  A vocabulary is a set of terms, which (if namespace is taken to mean the pre-term-name part of a URI) may be from one or several namespaces.
->
-> Q: How are vocabulary and class different?
->
-> A: Vocabulary = set of terms.  Class = term that defines a a datatype.
-> Some datatypes have, as their set of values, the elements of a vocabulary
-> so it is possible that a class could be a vocabulary (e.g., the class Sex), 
-> but not not all classes will be vocabularies (e.g., the class Integer).
->
-> Some other specifications call classes that are also vocabularies *enumerations*.
-> We have avoided that terminology because enumeration has several other meanings as well.
+## Compatibility 
 
-A FHISO standard that defines a *class* of *terms* shall state whether
-or not it is **extensible**: that is, whether or not third parties should be
-permitted to define additional *terms* of that *class*.  Due to the
-widely variable nature of genealogical data, the default should be to
-make *classes* extensible unless there are compelling reasons to
-the contrary.
+Once standardised, the definitions of *terms* *must* only be change in a
+backwards-compatible way.  As *term names* have no version number
+embedded in them, this means their meaning *must* essentially stay
+unchanged, and neither expand nor contract in scope in a future
+standard.
+
+
+
 

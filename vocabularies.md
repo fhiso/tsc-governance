@@ -111,19 +111,17 @@ be aware that some current third-party standard do contain *terms*
 differing only in their capitalisation; FHISO standards *may* use such
 terms.
 
-A **namespace** is a *vocabulary* defined as a collection of terms
-differing only in their final `NCName` component.  A *namespace* may be
-represented by a **namespace name**, which is the *term name* of its
-constituent *terms* with the differing final `NCName` component removed.
-(In third-party *vocabularies*, the final `NCName` component might be
-a fragment identifier; if so, it is removed, leaving the trailing `#`.)
-Thus the *term* `http://fhiso.org/term/events/birth` is part of a
-*namespace* with a *namespace name* of `http://fhiso.org/term/events/`
-&mdash; note the trailing slash.  Not all *vocabularies* are
-*namespaces* &mdash; it can also be convenient to talk about collections
-of *terms* that span several *namespaces*, and also *vocabularies* that
-are a subset of a namespace.  Applications *must not* make inferences
-about the meaning or usage of a *term* based solely on its *namespace*.
+A **namespace** is a collection of terms whose *term names* all share a
+common prefix which is itself a valid IRI known as the **namespace
+name**.  *Namespace names* *should* normally end with a delimiter
+character such as `/` or `#`.  For example, the *term*
+`http://fhiso.org/term/events/birth` is part of a *namespace* with a
+*namespace name* of `http://fhiso.org/term/events/`.  A *namespace* is a
+*vocabulary*, but not all *vocabularies* are *namespaces* &mdash; it can
+also be convenient to talk about *vocabularies* that span several
+*namespaces*, and also *vocabularies* that are a subset of a namespace.
+Applications *must not* make inferences about the meaning or usage of a
+*term* based solely on its *namespace*.
 
 ## Compact term names
 

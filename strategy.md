@@ -144,7 +144,7 @@ The conceptual requirement for algorithmic formatting of citations with
 standard templating technology places more tangible restrictions on the
 implementation.  Citation elements may not contain sub-elements, though
 they may still have structure in the form of typed data or through a
-microformats; nor may they be pointers or references to other
+microformat; nor may they be pointers or references to other
 structures.  Elements may be multi-valued where appropriate: that is, a
 source may have multiple citation elements of the same type.  Meaning
 should only be associated with the order of values if it is tolerable

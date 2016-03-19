@@ -248,10 +248,9 @@ b.  Vice-chair. The Vice-chair is a member of the Board of Directors,
     with vote, and shall, in the absence of the Chair, preside over
     meetings and temporarily assume the responsibilities of the Chair.
 c.  Treasurer. The Treasurer is a member of the Board of Directors, with
-    vote, and serves as Chair of the Finance Committee. The Treasurer
-    shall assist in the development of the annual budget and the
-    financial plan and shall assist in raising funds for the
-    Corporation's operation.  The Treasurer is responsible for
+    vote. The Treasurer shall assist in the development of the annual
+    budget and the financial plan and shall assist in raising funds for
+    the Corporation's operation.  The Treasurer is responsible for
     developing and reviewing fiscal procedures, and shall assist any
     committee in the preparation and administration of committee or
     project budgets.  In the absence or temporary vacancy of the

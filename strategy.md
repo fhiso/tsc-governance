@@ -148,10 +148,11 @@ microformat; nor may they be pointers or references to other
 structures.  Elements may be multi-valued where appropriate: that is, a
 source may have multiple citation elements of the same type.  Meaning
 should only be associated with the order of values if it is tolerable
-for the information encoded by the order to lost.  For example it might
-be acceptable to use the order of several 'author' elements to denote
-the order in which the authors are conventionally listed.  No meaning
-should be associated with the order of different types of elements.
+for the information encoded by the order to be lost.  For example it
+might be acceptable to use the order of several 'author' elements to
+denote the order in which the authors are conventionally listed.  No
+meaning should be associated with the order of different types of
+elements.
 
 ### Source Derivation Vocabulary {#cdv}
 

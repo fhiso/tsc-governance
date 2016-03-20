@@ -1,8 +1,11 @@
 Core Concepts Exploratory Group
 ===============================
 
-**Note:** This group is currently **suspended** to allow us to
-prioritise work on [sources & citations](../sceg).
+**Note:** This group is currently **suspended** to allow us to work on
+sources & citations, per our [priorities](/priorities).  This page
+exists as an archive only.
+
+* * *
 
 The Core Concepts Exploratory Group (or CCEG) is tasked with carrying
 out exploratory work into the core genealogical concepts pertaining to

@@ -1,25 +1,16 @@
 Exploratory Groups
 ==================
 
-Much of the initial technical work of the FHISO is being carried out in
-exploratory groups (EGs), each focusing on a specific aspect of the
-FHISO's work. The aim of these EGs is not to produce a finished
-standard, but to research current practice, to determine if and how to
-proceed with standardisation, and to produce a recommendation on the
-broad substance of a future FHISO standard. Non-members are welcome to
-participate in the work of these exploratory groups, and any interested
-parties contribute on the group mailing lists. As a non-member you will
-not be eligible to participate in any formal votes, however individuals
-can [join the FHISO](http://fhiso.org/join-fhiso/) for an annual payment of
-US\$20 and then participate fully.
+**Note:** It was originally envisaged that FHISO's initial technical
+work would be carried out in exploratory groups (EGs), each focusing on
+a specific aspect of the FHISO's work.  Following a simplification in
+our [administrative structure](/governance), this is no longer the case,
+and these exploratory groups are **inactive**.
+
+* * *
 
 Established exploratory groups {#established}
 ------------------------------
-
-The first EGs have recently commenced work. If you would like to
-participate in an open collaborative process to build consensus in these
-areas, the [TSC](/ "Technical Standing Committee") would welcome your
-involvement on the EGs' mailing lists.
 
 ### Sources and Citations Exploratory Group {#sources}
 
@@ -53,17 +44,6 @@ Mission
 
 Proposed exploratory groups {#proposed}
 ---------------------------
-
-The TSC are looking for at least three FHISO members willing to commit
-to participating actively in each of these proposed EGs. If you are
-willing to commit, please email us at <tsc@fhiso.org> to let us know
-which group or groups you can commit to participating in. If you want to
-discuss the groups more before committing, the [**tsc-public** mailing
-list](http://fhiso.org/mailman/listinfo/tsc-public_fhiso.org) is a good
-place to do that. Once each group has support from three members, we
-will set up the group's mailing list and in due course post an
-announcement to the [**tsc-announce** mailing
-list](http://fhiso.org/mailman/listinfo/tsc-announce_fhiso.org).
 
 ### Modularisation Exploratory Group {#mod}
 
@@ -99,15 +79,5 @@ Focus
 How to propose a new exploratory group {#new}
 --------------------------------------
 
-Perhaps you disagree with our decision to prioritise these particular
-areas, or think we should start exploring other areas too? If so, you
-might like to start a thread on the [**tsc-public** mailing
-list](http://fhiso.org/mailman/listinfo/tsc-public_fhiso.org) to let us
-know and to gauge community support for your suggestion. FHISO members
-can formally propose new exploratory groups by email to the [TSC](/)
-at <tsc@fhiso.org>. Once a proposal has been accepted we will list it on
-this page and announce it on the [**tsc-announce** mailing
-list](http://fhiso.org/mailman/listinfo/tsc-announce_fhiso.org) to
-solicit commitments of support from members as with the groups proposed
-above.
-
+The TSC is not soliciting proposals for new exploratory groups to allow
+us to concentrate on our [current priorities](/priorities).

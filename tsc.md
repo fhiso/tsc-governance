@@ -5,11 +5,18 @@ The FHISO Technical Standing Committee (TSC) is responsible for
 coordinating the technical work of the organisation through an open,
 consensus-based, collaborative standards process, much of which will be
 conducted by a number of technical groups each working on specific
-topics. This process is governed by the [TSC charter](/charter/) and
-[operations & policy manual](/opm/). At present the TSC has two
-members: Luther Tychonievich is the TSC Coordinator, and Richard Smith
-is TSC Co-Coordinator. We can be contacted by email at
-[tsc@fhiso.org](mailto:tsc@fhiso.org).
+topics.
+
+Per [the announcement](//fhiso.org/pipermail/tsc-public_fhiso.org/2016-February/002113.html)
+on the [**tsc-public** mailing list](/tsc-public) on 2016-02-17, 
+much of the structure described by the [TSC charter](/charter/) and
+[operations & policy manual](/opm/) have been suspended. 
+Technical work is proceeding as a committee of the whole supervised by the TSC.
+Details are given on our [governance page](/governance/).
+
+At present the TSC has two members: Luther Tychonievich is the TSC Coordinator, 
+and Richard Smith is TSC Co-Coordinator.
+We can be contacted by email at [tsc@fhiso.org](mailto:tsc@fhiso.org).
 
 Get involved {#involve}
 ------------
@@ -36,21 +43,19 @@ requirements, or other detailed comment of the technical work of the TSC. In
 due course we aim to consider all the suggestions made in these papers and
 respond to them, but this will take time.
 
-### Join a working group
+### Join the work
 
-Work has begun in several [**exploratory groups**](egs) and more
-are proposed. These groups will do detailed exploratory work into a
-specific area, document current practice and make recommendations on how
-FHISO should proceed. The established groups have mailing lists which
-anyone can join. We are also looking for FHISO members willing to commit
-to supporting the proposed new groups.
+Current priorities for technical work are outlined in [the priorities document](/priorities) 
+and discussed in detail in [the strategy document](/strategy).  Both
+documents are subject to change as opportunities, resources, and member interest change.
 
-### Discuss our work
+Per our [interim structure](/governance/), technical work is proceeding 
+as a committee of the whole.  The [**tsc-public** mailing list](tsc-public) 
+is the primary means for communicating in this work.
 
-The [**tsc-public** mailing list](tsc-public) exists for all technical
-discussion on all matters not assigned to a specific exploratory group.
 Comments on [paper submissions](cfps/papers), the work of the TSC, and the
-creation of future technical groups are all welcome here.
+creation of future technical groups are also all welcome on the
+[**tsc-public** mailing list](tsc-public).
 
 ### Contribute to our bibliography
 

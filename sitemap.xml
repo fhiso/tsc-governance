@@ -1,5 +1,5 @@
 <site title="Technical Work">
-  <index src="tsc-governance/tsc-revision.md" />
+  <index src="tsc-governance/tsc.md" />
 
   <directory name="governance" title="Governance">
     <index src="tsc-governance/interim-structure.md" />

@@ -1,0 +1,107 @@
+<site title="Technical Work">
+  <index src="tsc-governance/tsc-revision.md" />
+
+  <directory name="governance" title="Governance">
+    <index src="tsc-governance/interim-structure.md" />
+
+    <page name="opm" 
+          src="tsc-governance/opm.md" 
+          title="Operations &amp; Policy Manual" />
+
+    <page name="charter" 
+          src="tsc-governance/charter.md" 
+          title="Charter" />
+  </directory>
+
+  <page name="tsc-public" 
+        src="tsc-governance/tsc-public.md" 
+        title="tsc-public Mailing List" />
+
+  <page name="minutes" 
+        src="tsc-governance/minutes.md" 
+        title="Minutes" />
+
+  <page name="strategy" 
+        src="tsc-governance/strategy.md" 
+        title="Strategy" />
+
+  <page name="priorities" 
+        src="tsc-governance/priorities.md" 
+        title="Priorities" />
+
+  <directory name="policies" title="Policies">
+    <index src="tsc-governance/policies.md" />
+
+    <page name="style" 
+          src="tsc-governance/style.md" 
+          title="Style Guide" />
+
+    <page name="vocabularies" 
+          src="tsc-governance/vocabularies.md" 
+          title="Vocabularies (draft)" />
+  </directory>
+
+  <directory name="egs" title="Exploratory Groups">
+    <index src="tsc-governance/egs.md" />
+
+    <directory name="sceg" title="Sources &amp; Citations">
+      <index src="tsc-governance/S&amp;CEG/index.md" />
+
+      <page name="directives"
+            src="tsc-governance/S&amp;CEG/directives.md"
+            title="Directives" />
+
+      <page name="links"
+            src="sources-and-citations-eg/Useful_Links.md"
+            title="Useful Links" />
+    </directory>
+
+    <directory name="cceg" title="Core Concepts">
+      <index src="tsc-governance/CCEG/index.md" />
+
+      <page name="directives"
+            src="tsc-governance/CCEG/directives.md"
+            title="Directives" />
+    </directory>
+
+    <directory name="lexeg" title="Lexicon">
+      <index src="tsc-governance/LexEG/index.md" />
+
+      <page name="directives"
+            src="tsc-governance/LexEG/directives.md"
+            title="Directives" />
+
+      <page name="links"
+            src="lexicon-eg/builder/snapshot.md"
+            title="Snapshot" />
+    </directory>
+  </directory>
+
+  <directory name="bibliography" title="Bibliography">
+    <index src="tsc-governance/bibliography.md" />
+
+    <page name="contents"
+          src="bibliography/bibliography.md"
+          title="Contents" />
+
+    <page name="datamodels"
+          src="bibliography/datamodels.md"
+          title="Data Models" />
+  </directory>
+
+  <directory name="cfps" title="Call for Papers">
+    <index src="tsc-governance/CFPS/index.md" />
+
+    <page name="faq"
+          src="tsc-governance/CFPS/faq.md"
+          title="FAQ" />
+
+    <page name="papers"
+          src="website/cfps_processor/papers.php"
+          title="Papers received" />
+
+    <page name="submit"
+          src="website/cfps_processor/submit.md"
+          title="Submit paper" />
+  </directory>
+</site>

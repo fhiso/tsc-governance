@@ -18,7 +18,7 @@ MD_DIALECT := $(MD_DIALECT)+definition_lists+yaml_metadata_block
 PDF_OPTS=--variable=documentclass=book \
          --template=template.tex --latex-engine=xelatex
 
-%.pdf: %.md template.tex logo.png
+%.pdf: %.md template.tex logo.png Makefile
 	pandoc $(PDF_OPTS) -f $(MD_DIALECT) -o "$@" "$<"
 
 clean:

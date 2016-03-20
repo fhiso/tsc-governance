@@ -35,7 +35,7 @@ Mission
 
 Status
 :   Proposed by the TSC on 2014-08-15 and created on 2014-09-23.
-    Suspended as of 2015-06-19.
+    **Suspended** as of 2015-06-19.
 Mission
 :   To carry out exploratory work into the core genealogical concepts
     pertaining to persons, their intrinsic and extrinsic properties, the

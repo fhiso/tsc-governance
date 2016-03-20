@@ -1,3 +1,7 @@
+---
+title: Charter of the Technical Standing Committee
+date: 15 August 2014
+...
 Charter of the Technical Standing Committee
 ===========================================
 

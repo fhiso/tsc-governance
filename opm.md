@@ -1,8 +1,9 @@
+---
+title: Technical Standing Committee Operations and Policy Manual
+date: 21 November 2015
+...
 TSC Operations and Policy Manual
 ================================
-
-Technical Standing Committee Operations and Policy Manual of the Family
-History Information Standards Organisation, Inc.
 
 *Approved by the FHISO Board and published on 28 August 2014;
 updated by approval of the FHISO Board on 21 November 2015.*

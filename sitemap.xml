@@ -4,11 +4,11 @@
   <directory name="governance" title="Governance">
     <index src="tsc-governance/interim-structure.md" />
 
-    <page name="opm" 
+    <page name="opm" versioned="1"
           src="tsc-governance/opm.md" 
           title="Operations &amp; Policy Manual" />
 
-    <page name="charter" 
+    <page name="charter" versioned="1"
           src="tsc-governance/charter.md" 
           title="Charter" />
   </directory>
@@ -32,11 +32,11 @@
   <directory name="policies" title="Policies">
     <index src="tsc-governance/policies.md" />
 
-    <page name="style" 
+    <page name="style" versioned="1"
           src="tsc-governance/style.md" 
           title="Style Guide" />
 
-    <page name="vocabularies" 
+    <page name="vocabularies" versioned="1"
           src="tsc-governance/vocabularies.md" 
           title="Vocabularies (draft)" />
   </directory>

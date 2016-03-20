@@ -1,3 +1,10 @@
+---
+title: Technical Style Guide
+date: 7 December 2015
+...
+Technical Style Guide
+=====================
+
 This is an interim style guide approved by the [Technical Standing 
 Committee](http://tech.fhiso.org/), as allowed by §4 of the [TSC 
 charter](http://tech.fhiso.org/charter).  In due course it may be 

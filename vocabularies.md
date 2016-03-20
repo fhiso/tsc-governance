@@ -4,7 +4,7 @@ date: 11 March 2016
 ...
 # Preferred nature of vocabularies
 
-This is a draft FHISO policy written after the [November 2015 Board
+This is a **draft** FHISO policy written after the [November 2015 Board
 meeting](/aboutfhiso/fhiso-board/minutes/2015-11-27/) resolved that "the
 TSC will draft and release &hellip; a general policy on vocabularies".
 It was released by the TSC for wider comment on the [tsc-public mailing

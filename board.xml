@@ -1,0 +1,8 @@
+<site title="Board">
+  <index src="tsc-governance/board.md" />
+   
+  <page name="by-laws" versioned="1"
+        src="tsc-governance/by-laws.md" 
+        title="By-Laws" />
+</site>
+

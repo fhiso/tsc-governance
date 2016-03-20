@@ -16,7 +16,7 @@ Description
 :   A general policy on the preferred nature of vocabularies, such as
     the use of URIs.
 Status
-:   Pre-alpha draft for internal comment.
+:   Draft for public comment.
 
 The TSC normally publish policies in draft form on the [tsc-public
 mailing list](/tsc-public) before approving them to get feedback from

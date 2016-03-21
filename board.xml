@@ -4,5 +4,13 @@
   <page name="by-laws" versioned="1"
         src="tsc-governance/by-laws.md" 
         title="By-Laws" />
+
+  <page name="by-laws" versioned="1"
+        src="tsc-governance/by-laws-exec.md" 
+        title="By-Laws (draft: Exec Ctte)" />
+
+  <page name="by-laws" versioned="1"
+        src="tsc-governance/by-laws-board.md" 
+        title="By-Laws (draft: Board Roles)" />
 </site>
 

@@ -1,17 +1,14 @@
 ---
 title: Bylaws of Family History Information Standards Organisation, Inc.
-date: 15 August 2014
+date: 20 March 2016 (Draft)
 ...
 Bylaws of Family History Information Standards Organisation, Inc.
 =================================================================
 
-*The official version of FHISO's by-laws are on the [FHISO
-website](http://fhiso.org/by-laws/).  This unofficial version is
-provided for convenience in those circumstances in which a
-[markdown](https://daringfireball.net/projects/markdown/) version is
-useful.*
+*This is **draft** version of FHISO's bylaws including modifications to
+remove the Executive Commitee.  It has no official status.*
 
-*Enacted on 1 September 2013, and updated on 15 August 2014.*
+*Based on the bylaws as modified on 6 March 2016.*
 
 Article 1: Name
 ---------------
@@ -20,60 +17,8 @@ The name of the corporation shall be Family History Information
 Standards Organisation, Inc., herein after "FHISO," the "Organisation"
 or the "Corporation."
 
-Article 2: Purpose, Character, and Powers
------------------------------------------
-
-### 2.1 Purpose
-
-Family History Information Standards Organisation, Inc. is organized for
-exclusively charitable, educational and scientific purposes within the
-meaning of Section 501(c)(3) of the Internal Revenue Service Code of
-1986 or the corresponding provision of any future United States Internal
-Revenue Law, including, for such purposes, the making of distributions
-to organisations that qualify as exempt organisations under said Section
-501(c)(3) of the Internal Revenue Service Code of 1986.
-
-### 2.2 Character of the Affairs
-
-The character of the affairs of the corporation shall be:
-
-> Public benefit for the purpose of identifying formats and establish
-> uniform protocols for technology development to improve compatibility
-> and security guidelines among software, platforms, applications, and
-> user interfaces, and to provide education to the general public,
-> users, developers and innovators regarding these protocols.
-
-### 2.3 Powers
-
-FHISO shall exercise all the powers conferred upon corporations formed
-under the Arizona Nonprofit Corporation Act in order to accomplish its
-scientific and educational purposes. These powers include, but are not
-limited to, the power to accept donations of money or property, whether
-real or personal, or any interest therein, wherever situated.
-
-The corporation, FHISO, shall possess all power and authority permitted
-by law, except:
-
-a.  No part of FHISO net earnings shall be to the benefit of, or be
-    distributable to its Members, Board, Officers or any other private
-    persons, except that FHISO shall be authorised to pay reasonable
-    amounts for goods and services provided and rendered and to make
-    payments and distributions in furtherance of the purposes set forth
-    in Article 2 hereof.
-b.  No substantial part of the activities of FHISO shall be concerned
-    with propaganda, or otherwise attempting to influence legislation,
-    and FHISO shall not participate in or intervene in (including the
-    publishing or distribution of statements) any political campaign on
-    behalf of or in opposition to any candidate for public office.
-c.  Notwithstanding any other provision of these Bylaws, FHISO shall not
-    carry on any activities not permitted to be carried on by a
-    corporation that (i) is exempt from federal income tax under Section
-    501(c)(3) of the Code, or that (ii) fits the description in Section
-    170(c)(2) of the Code, contributions to which are deductible under
-    Section 170(a), 2055(a)(2) and/or 2522(a)(2) of the Code.
-d.  FHISO shall not discriminate against any person on the grounds of
-    race, colour, creed, gender, age, handicap or national origin; and
-e.  FHISO shall not declare or pay dividends.
+Article 2: [Deleted]
+--------------------
 
 Article 3: Mission, Goal, and Scope
 -----------------------------------
@@ -122,6 +67,16 @@ h.  Monitor interoperability between implementations and, if relevant,
 i.  Cooperate with other organisations developing standards that fall
     within the scope of, or may relate to, FHISO standards.
 
+Article 3A: Non-discrimination Policy
+-------------------------------------
+
+FHISO does not and shall not discriminate on the basis of race, colour,
+creed, gender, gender expression, age, national origin, disability,
+marital status, sexual orientation or military status, in any of its
+activities or operations.  These activities include, but are not limited
+to, dealing with the public, selection of volunteers and vendors, hiring
+and firing of staff, and provision of services.
+
 Article 4: Membership
 ---------------------
 
@@ -142,8 +97,7 @@ Members shall be classified as Individual Members or Organisational
 Members. The Board approves the form of membership applications,
 determines the annual dues, and it establishes the framework of other
 membership goals and policies which are more specifically developed by
-the Membership Standing Committee under the direction of the Executive
-Committee.
+the Membership Standing Committee under the direction of the Board.
 
 #### 4.2.1 Individual Membership
 
@@ -292,10 +246,13 @@ b.  Vice-chair. The Vice-chair is a member of the Board of Directors,
     with vote, and shall, in the absence of the Chair, preside over
     meetings and temporarily assume the responsibilities of the Chair.
 c.  Treasurer. The Treasurer is a member of the Board of Directors, with
-    vote, and serves as Chair of the Finance Committee. The Treasurer
-    shall assist in the development of the annual budget and the
-    financial plan and shall assist in raising funds for the
-    Corporation's operation.
+    vote. The Treasurer shall assist in the development of the annual
+    budget and the financial plan and shall assist in raising funds for
+    the Corporation's operation.  The Treasurer is responsible for
+    developing and reviewing fiscal procedures, and shall assist any
+    committee in the preparation and administration of committee or
+    project budgets.  In the absence or temporary vacancy of the
+    Treasurer, the Secretary shall serve as Treasurer.
 d.  Secretary. The Secretary is a member of the Board of Directors, with
     vote, and also the Chief Transparency Officer of the Organisation.
     The Secretary shall maintain the FHISO Manual, agendas and minutes
@@ -397,42 +354,10 @@ technical, standardisation and project management expertise.
 
 ### 9.3 Size and Constituency
 
-The Board shall consist of the no less than three (3) and no more than
-fourteen (14) members. Voting members of the Board shall be the Officers
-of FHISO (Chair, Vice-chair, Treasurer, Secretary, Technical Standing
-Committee Coordinator, Technical Standing Committee Co-coordinator,
-Membership Standing Committee Coordinator, Membership Standing Committee
-Co-coordinator), and six (6) Directors--three (3) elected by and from
-within the elected members of the Regional Advisory Council, two (2)
-elected by the International Vendor Advisory Council and one (1) elected
-by and from within the International Association and Professional
-Advisory Council.
+The Board consists of the Officers of FHISO, who shall be no fewer than
+three in number.
 
-No reduction of the authorised number of directors shall have the effect
-of removing any director prior to the expiration of such director's term
-of office.
-
-### 9.4 Director Terms of Service and Term Limits
-
-The six Directors serve terms on the Board as follows:
-
-a.  The three Regional Advisory Council Directors each serve a one-year
-    term on the Board; each may be re-elected by the respective council
-    to three consecutive terms, four terms in total.
-b.  Each of the three (3) remaining Directors serve two-year, staggered
-    terms, as follows:
-    i.  The International Vendor Advisory Council Directors; one shall
-        be a Class A Board Member Director and one shall be a Class B
-        Board Director.
-    ii. The International Association and Professional Advisory Council
-        Director shall be a Class B Board Director.
-
-Class A Board Directors terms expire in odd-numbered years; Class B
-Board Directors terms expire in even-numbered years.
-
-International Vendor Advisory Council Directors and the International
-Association and Professional Advisory Council Director shall serve no
-more than two consecutive terms in the same position.
+### 9.4 [Deleted]
 
 ### 9.5 Resignation; Removal
 
@@ -440,35 +365,7 @@ A Director may resign at any time by giving written notice to the Chair.
 A member of the Board may be removed for cause by a two-thirds vote of
 the Board.
 
-### 9.6 Director Vacancy
-
-Any vacancy among Directors shall be filled by:
-
-a.  A vacancy among the representatives of the Regional Advisory Council
-    shall be filled by the remaining Council members electing, from
-    among themselves, a Board representative who shall serve as a
-    Director for the duration of the unexpired term of the vacated
-    position.
-b.  A vacancy among the Directors elected by the International Vendor
-    Advisory Council shall be filled by the Council electing, from among
-    the council members or the general voting membership, a member who
-    shall serve as a Director for the duration of the unexpired term of
-    the vacated position.
-c.  A vacancy of the Director elected by the International Association
-    and Professional Advisory Council shall be filled by the remaining
-    council members selecting, from among themselves, a voting member
-    who shall as serve as a Director for the duration of the unexpired
-    term of the vacated position.
-
-The FHISO Chair, may, in his or her sole discretion, determine that a
-Council is unable to fill a Director vacancy. If such determination has
-been made, the FHISO board shall be empowered to develop a list of
-qualified candidates, deliberate and vote about the qualified candidates
-until a majority vote of the Board elects a new Director, who shall
-serve out the term that vacated position. If reasonable notice has been
-provided in accordance with the FHISO Manual, then for the purpose of
-meeting to fill such Director vacancies, a quorum of the Board is
-preferred, but not required.
+### 9.6 [Deleted]
 
 ### 9.7 Board Member Compensation
 
@@ -547,11 +444,8 @@ at which a quorum exists.
 Unless otherwise restricted by law, the Articles of Incorporation or
 these Bylaws, any action which is required to be or may be taken at a
 meeting of the Board of Directors may be taken without a meeting if
-consents in writing, setting forth the action so taken, are signed by
-all the Board members. The written consent may be executed in several
-identical counterparts by the Directors with the effect as if the
-Directors had executed a single document, and handled in accordance with
-the FHISO Manual.
+three-fifths of the voting members of the Board consent to the action in
+writing or by email.
 
 ### 9.14 Attendance
 
@@ -560,39 +454,26 @@ Any Officer or Director who is absent from three consecutive regular
 meetings of the Board shall give cause for removal under Section 9.5 of
 these Bylaws.
 
-Article 10: Executive Committees
---------------------------------
+Article 9A: Budget
+------------------
 
-There shall be an Executive Committee and three (3) Standing
-Committees—the Technical Standing Committee, Membership Standing
-Committee and Finance Standing Committee. The Board may create other
-committees as appropriate to meet FHISO's goals. All committees shall
-keep regular minutes of meetings and report the same to the Board in
-accordance with the FHISO Manual.
+The Treasurer is responsible for developing and reviewing the annual
+budget.  FHISO's budget requires Board approval, and only expenditures
+within the approved budget may be authorised for payment.
 
-### 10.1 FHISO Executive Committee
+The fiscal year shall be the calendar year.
 
-The FHISO Executive Committee is comprised of eight (8) FHISO officers
-as set forth in Section 8.1. Unless otherwise provided by these bylaws,
-the full Executive Committee shall have all the powers and authority of
-the Board in the intervals between meetings of the Board. Its actions
-shall be consistent with established policies of the Board. The
-Executive Committee shall also:
+Article 10: Committees
+----------------------
 
-a.  Maintain and administer the FHISO Manual;
-b.  Oversee administration of the Technical Standing Committee Charter,
-    and the Technical Standing Committee Operations and Policy Manual;
-c.  Oversee administration of the Membership Standing Committee Charter,
-    and the Membership Standing Committee Operations and Policy Manual;
-d.  Determine the requirements for and initiate or approve all Executive
-    Committee Project work; direct and/or develop and maintain requisite
-    Project Team Charters, Operations and Policy Directives; appoint
-    Project Coordinators and other Project Team members for such work;
-    assign other roles as appropriate;
-e.  Suspend or dissolve Executive Project Teams;
-f.  Resolve issues of coordination between the Technical Standing
-    Committee, the Membership Standing Committee, the Finance Standing
-    Committee and any other committee created by the Board.
+There shall be two Standing Committees—the Technical Standing Committee
+and Membership Standing Committee. The Board may create other committees
+as appropriate to meet FHISO's goals.  All committees shall keep regular
+minutes of meetings and report the same to the Board in accordance with
+the FHISO Manual.  Any reference to a committee that no longer exists
+shall be interpreted as referring to the Board of Directors.
+ 
+### 10.1 [Deleted]
 
 ### 10.2 FHISO Technical Standing Committee
 
@@ -625,16 +506,15 @@ Committee; their titles and duties are set forth below. The Board may
 appoint and/or remove additional members to the TSC in order to ensure
 sufficient expertise or representation from FHISO's Membership Regions.
 These are known as TSC Special Members.. The Technical Standing
-Committee reports to the FHISO Executive Committee, of which its
-officers are also members.
+Committee reports to the Board.
 
 #### 10.2.1 Technical Standing Committee Coordinator
 
 a.  Chair meetings of the Technical Standing Committee;
-b.  Oversee and report regularly to the Executive Committee and Board
-    about all standardisation and specification work, Technical Projects
-    and Technical Project Team activities. As directed by the Chair,
-    report about such activities to the membership;
+b.  Oversee and report regularly to the Board about all standardisation
+    and specification work, Technical Projects and Technical Project
+    Team activities. As directed by the Chair, report about such
+    activities to the membership;
 c.  Administer the Technical Standing Committee Charter, and its
     Operations and Policy Manual;
 d.  Work with the Membership Standing Committee Coordinator to ensure a
@@ -689,16 +569,14 @@ Committee; their titles and duties are set forth below. The Board may
 appoint and/or remove additional members to the MSC in order to ensure
 sufficient expertise or representation from FHISO's Membership Regions.
 These are known as MSC Special Members. The Membership Standing
-Committee reports to the FHISO Executive Committee, of which its
-officers are also members.
+Committee reports to the Board.
 
 #### 10.3.1 Membership Standing Committee Coordinator
 
 a.  Chair meetings of the Membership Standing Committee;
-b.  Oversee and report regularly to the Executive Committee and Board
-    about all Membership Projects and Membership Project Team
-    activities. As directed by the Chair, report about such activities
-    to the membership
+b.  Oversee and report regularly to the Board about all Membership
+    Projects and Membership Project Team activities. As directed by the
+    Chair, report about such activities to the membership
 c.  Administer the Membership Standing Committee Charter, and its
     Operations and Policy Manual
 d.  Assist the Technical Standing Committee Coordinator in selecting
@@ -722,41 +600,7 @@ Co-coordinator will preferably be members from different regions of the
 world to promote an understanding of the diverse needs of the genealogy
 and family history community.
 
-### 10.4 FHISO Finance Standing Committee
-
-The FHISO Finance Standing Committee's only officer and chair is the
-FHISO Treasurer. The Treasurer nominates members of the Finance Standing
-Committee, who are then confirmed with the approval of the board. The
-Finance Committee is responsible for developing and reviewing fiscal
-procedures, fundraising plans, and the annual budget with other board
-members. FHISO's budget requires Board approval, and only expenditures
-within the approved budget may be authorised for payment.
-
-The Finance Standing Committee Charter and its further rules for
-operations and guidance (the "Finance Standing Committee Operations and
-Policy Manual") are subject to approval by the Board, filed with the
-Secretary and made part of the FHISO Manual.
-
-In the role of Finance Standing Committee Chair, the Treasurer shall:
-
-a.  Chair meetings of the Finance Standing Committee
-b.  Oversee and report regularly to the Executive Committee and Board
-    about all Finance Committee Projects and Finance Project Team
-    activities. As directed by the Board or Chair, report about such
-    activities to the membership
-c.  Administer the Finance Standing Committee Charter, and its
-    Operations and Policy Manual
-d.  Assist any committee in the preparation and administration of
-    committee or project budgets
-e.  Determine the requirements for (scope of work, deliverables, time
-    and resource requirements, etc.) and initiate or approve all Finance
-    Project work; direct and/or develop and maintain requisite Project
-    Team Directives; appoint Coordinators and other Project Team members
-    and assign other roles as appropriate
-f.  Suspend or dissolve Finance Project Teams
-g.  Resolve issues of coordination involving Finance Project Teams
-
-The fiscal year shall be the calendar year.
+### 10.4 [Deleted]
 
 ### 10.5 Other Board Committee Formation
 
@@ -768,271 +612,55 @@ Committee, together with rules for operation and guidance (collectively,
 Charters are filed with the Secretary, and become part of the FHISO
 Manual.
 
-Article 11: Regional Advisory Council
--------------------------------------
-
-The FHISO Manual establishes seven (7) FHISO Membership Regions and
-provides for each FHISO Membership Region to elect one (1) advisory
-council member from among its regional membership in accordance with
-Section 11.1.
-
-The Regional Advisory Council assists the Organisation in achieving its
-geographical and cultural diversity objectives to support the standards
-setting process. In accordance with Section 11.3, three (3) Council
-Members represent the Council on the FHISO Board. The Council advises
-the Board about diversity and also represents the interests of FHISO
-Membership Regions not otherwise seated on the Board.
-
-The Regional Advisory Council Charter and its further rules for
-operations and guidance are approved by the Board, filed with the
-Secretary and made part of the FHISO Manual.
-
-### 11.1 Council Member Terms
-
-The Council Members are elected to serve two-year staggered terms on the
-Regional Advisory Council, as follows:
-
-a.  Council Members representing odd numbered regions (regions 1, 3, 5
-    and 7) have terms that expire in odd-numbered years.
-b.  Council Members representing even-numbered regions (2, 4 and 6) have
-    terms that expire in even-numbered years.
-
-### 11.2 Council Officers
-
-There shall be no fewer than three officers of the Regional Advisory
-Council, a Council Chair, Vice-Chair and Council Recorder, elected
-annually by and from among the Council membership. These Council
-officers are elected to serve one-year terms; each may serve consecutive
-terms.
-
-### 11.3 Regional Advisory Council Directors
-
-The Regional Advisory Council Chair, Vice-chair and Council Recorder,
-serve on the FHISO Board of Directors as voting members, each a
-"Regional Advisory Council Director."
-
-### 11.4 Vacancy
-
-a.  A vacancy in the offices of Council Chair, Vice-chair or Council
-    Recorder shall be filled by election by and from within the
-    remaining Council Members, whether or not a quorum is present, and
-    the Council officer so elected shall serve out the unexpired term of
-    the vacated office.
-b.  Other vacancy in the Council shall be filled by the remaining
-    Council members electing a qualified regional FHISO member to serve
-    for the duration of the unexpired term of the vacated position.
-c.  If reasonable notice has been provided in accordance with the FHISO
-    Manual, then for the purpose of meeting to fill officer vacancies, a
-    quorum of the Council is preferred, but not required.
-
-### 11.5 Other Council Meetings; Notice of Other Council Meetings
-
-The Council, when gathered electronically or otherwise for any purpose
-related to the Corporation, shall constitute a Council Meeting. Meetings
-shall be conducted in accordance with Article 17. Written notice of any
-Council Meetings shall be provided to Voting Members at least thirty
-(30) days prior to such a meeting.
-
-### 11.6 Annual Council Meeting
-
-An Annual Council Meeting shall be held each year, coincident to the
-FHISO Annual General Meeting, for the purpose of electing the Council
-Chair, Vice-chair and Council Recorder; each Council Officer is elected
-by and from among the newly formed Council, as determined by the
-election results in accordance with Section 15.6 and the FHISO Manual.
-Meetings shall be conducted in accordance with Article 17. The Council
-Recorder arranges for notice and Council Meeting Materials to be
-distributed by FHISO Secretary as part of the Business Meeting Materials
-for the Annual General Meeting, as per Section 16.1.1 of these bylaws.
-
-### 11.7 Quorum
-
-A majority of the Council Members shall constitute a quorum for
-transacting business at any Council Meeting, except that if a quorum is
-not present at a meeting, a majority of the Council Members present may
-adjourn the meeting to another time without notice.
-
-### 11.8 Majority Vote
-
-Except as otherwise provided by law, the Articles of Incorporation, or
-these Bylaws, all matters before the Council shall be decided by a
-majority vote of the Council Members present and voting during a meeting
-at which a quorum exists.
-
-Article 12: International Vendor Advisory Council
--------------------------------------------------
-
-The International Vendor Advisory Council assists the Organisation by
-advising the Board on issues affecting the vendor community. In
-accordance with Section 12.3, the Council elects two (2) members of the
-FHISO Board in support of this purpose.
-
-The International Vendor Advisory Council is made up of members of FHISO
-providing technology products and services to the genealogical and
-family history community. The International Vendor Advisory Council
-Charter and its further rules for operations and guidance are subject to
-the approval of the Board, filed with the Secretary and made part of the
-FHISO Manual.
-
-### 12.1 Council Officers
-
-There shall be at least two officers of the Council, a Chair and
-Vice-chair, elected by and from among the Council Members; those serving
-as Chair and Vice-chair will preferably be vendors from different
-regions of the world to promote an understanding of the diverse needs of
-the genealogy and family history community. The FHISO Secretary is an ex
-officio member of the Council and shall serve as Council Recorder.
-
-### 12.2 International Vendor Advisory Council Directors
-
-Each year, at the time of the FHISO Annual General Meeting, the Council
-separately elects one (1) Council Director (an "International Vendor
-Advisory Council Director") from among the Council Members or general
-membership to serve a two-year term as a voting member of the FHISO
-Board. The Council Directors elected in an odd number years serve as
-Class A Directors; those elected in an even-numbered year serve as Class
-B Directors, in accordance with Section 9.4. Those serving as
-International Vendor Advisory Council Directors are de facto members of
-the International Vendor Advisory Council.
-
-Those serving as Council Directors will preferably be from different
-regions of the world to promote an understanding of the diverse needs of
-the genealogy and family history community.
-
-A vacancy in either of these Council Director positions is filled by the
-Council selecting another, from among the Council Members or the general
-voting membership, to serve as the International Vendor Advisory Council
-Director for the duration of the unexpired term of the vacant
-position(s); a quorum of the Council need not be present for the purpose
-of the election to fill a vacancy in the Council Director position.
-
-### 12.3 Council Meetings and Notices; Quorum and Majority Vote
-
-The Council, when gathered electronically or otherwise for any purpose
-related to the Corporation, shall constitute a Council Meeting. Meetings
-shall be scheduled and conducted in a manner consistent with the Council
-Charter; one-quarter of the Council Members constitutes a quorum.
-Meetings shall be conducted in accordance with Article 17. Except as
-otherwise provided by law, the Articles of Incorporation, or these
-Bylaws, matters before the Council shall be decided by a majority vote
-of the Council Members present and voting during a meeting at which a
-quorum exists.
-
-Article 13: International Association and Professional Advisory Council
------------------------------------------------------------------------
-
-The International Association and Professional Advisory Council advises
-the Board on issues of interest to the constituent members of
-associations and professional groups who have an interest in genealogy.
-In accordance with Section 13.2, the Council elects one (1) of its
-members to the FHISO Board in support of this purpose.
-
-The International Association and Professional Council is made up of
-FHISO Organisational Member Representatives who are otherwise members of
-associations and/or societies that promote the practice of family
-history and/or genealogy; practice computer-based family history and/or
-genealogy; or provide professional genealogical and family history
-services to the community. The International Association and
-Professional Advisory Council Charter and its further rules for
-operations and guidance are subject to the approval of the Board, filed
-with the Secretary and made part of the FHISO Manual.
-
-### 13.1 Council Officers
-
-There shall be at least two (2) officers of the Council, a Chair and
-Vice-chair, elected by and from among the Council Members. The FHISO
-Secretary is an ex officio member of the Council and shall serve as
-Council Recorder.
-
-### 13.2 International Association and Professional Advisory Council Director
-
-In even-numbered years, at the time of the FHISO Annual General Meeting,
-the Council separately elects one (1) FHISO Director (the "International
-Advisory and Professional Advisory Council Director") from among the
-council members to serve a two-year term on the FHISO Board as a Class B
-Director, in accordance with Section 9.4.
-
-A vacancy in the Council Director position is filled by the Council
-electing another from among the council members to serve as the
-International Association and Professional Advisory Council Director for
-the duration of the unexpired term of the vacant position; a quorum of
-the Council need not be present for the purpose of the election filling
-a vacancy in the Council Director position.
-
-### 13.3 Council Meetings and Notices; Quorum and Majority Vote
-
-The Council, when gathered electronically or otherwise for any purpose
-related to the Corporation, shall constitute a Council Meeting. Meetings
-shall be scheduled and conducted in a manner consistent with the Council
-Charter. One-quarter of the Council Members constitutes a quorum.
-Meetings shall be conducted in accordance with Article 17. Except as
-otherwise provided by law, the Articles of Incorporation, or these
-Bylaws, all matters before the Council shall be decided by a majority
-vote of the Council Members present and voting during a meeting at which
-a quorum exists.
+Articles 11–13: [Deleted]
+-------------------------
 
 Article 14: Nominating Committee
 --------------------------------
 
-The Nominating Committee is made up of three non-Director Council
-members, one each selected by and from within the Regional Advisory
-Council, the International Vendor Advisory Council and the International
-Association and Professional Council.
+When the Board sets a date for the election of Officers, a Nominating
+Committee is formed to oversee the process.  The Nominating Committee's
+members are the Class A Directors in even-numbered years, and the Class
+B Directors in odd-numbered years.
 
-The Nominating Committee Charter and its further rules for operations
-and guidance are filed with the Secretary and made part of the FHISO
-Manual. In accordance with the FHISO Manual, the committee members shall
-organize themselves and, from among them, appoint a Committee Chair,
-Vice-Chair and Committee Recorder.
+Article 15: Nomination and Election of Officers
+-----------------------------------------------
 
-Article 15: Nominations; Election of Officers, Regional Advisory Council
-------------------------------------------------------------------------
-
-Members eligible to vote shall annually elect or re-elect Officers and
-Regional Advisory Council Representatives.
+Members eligible to vote shall annually elect or re-elect Officers.
 
 ### 15.1 Call for Nominations
 
 The Nominating Committee shall secure proposals for nominations for
-elected Officers and Regional Advisory Council Representatives by
-preparing a call for nominations distributed to all FHISO voting
-members. The request shall clearly indicate, describe, and present
-requirements of the positions for which nominations are being requested,
-in accordance with the FHISO Manual. The request shall contain all
-information necessary for Voting Members to propose nominations.
-Nominations may also be proposed by Officers, Directors and members of
-any Advisory Council. The Nominating Committee may make a second call
-for nominations to all or parts of the FHISO membership in order to
-certify a properly identified roster of eligible candidates.
+elected Officers by preparing a call for nominations distributed to all
+FHISO voting members. The request shall clearly indicate, describe, and
+present requirements of the positions for which nominations are being
+requested, in accordance with the FHISO Manual. The request shall
+contain all information necessary for Voting Members to propose
+nominations.  Nominations may also be proposed by Officers.  The
+Nominating Committee may make a second call for nominations to all or
+parts of the FHISO membership in order to certify a properly identified
+roster of eligible candidates.
 
 ### 15.2 Qualifications for Officers
 
 Members being nominated to serve as an Officer of the Corporation should
-(a) fully meet the requirements set forth by the Nominations Committee,
+(a) fully meet the requirements set forth by the Nominating Committee,
 (b) have consented to their name being entered into candidacy; and (c)
 commit to both time and resources demands required for the duration of
 the term. Nominations must be submitted in a timely fashion and
 accompanied by necessary biographical information.
 
-### 15.3 Qualifications for Regional Advisory Council Representatives
-
-Members being nominated to serve as a Regional Advisory Council
-Representative should (a) fully meet the requirements set forth by the
-Nominations Committee, (b) have consented to their name being entered
-into candidacy; and (c) commit to both time and resources demands
-required for the duration of the term. Nominations must be submitted in
-a timely fashion and accompanied by necessary biographical information.
+### 15.3 [Deleted]
 
 ### 15.4 Designation of Nominees and Preparation of Ballots
 
 Working from the proposals submitted and in accordance with the FHISO
 Manual, the Nominating Committee shall work to certify a properly
-identified roster of eligible candidates for (a) the election of
-Officers and (b) Regional Advisory Council Representatives.
+identified roster of eligible candidates for the election of Officers.
 
 ### 15.5 Election Schedule
 
-The Nominations Committee shall deliver a ballot to every FHISO Voting
+The Nominating Committee shall deliver a ballot to every FHISO Voting
 Member at least thirty (30) days prior to the date set for the election.
 The nominating committee shall also provide for and oversee whatever
 electronic balloting procedures are required for the voting.
@@ -1155,16 +783,13 @@ general membership shall have access to other meeting minutes.
 Article 18: Appeals of Decisions
 --------------------------------
 
-Appeals of decisions made by individuals, committees, councils, teams,
+Appeals of decisions made by individuals, committees, teams,
 or groups acting as part of FHISO shall be governed by the FHISO Appeals
 Process Policy as determined by the Board of Directors and set forth in
 the FHISO Manual.
 
-Article 19: Indemnification of Directors, Officers, and Corporate Agents
-------------------------------------------------------------------------
-
-The power of indemnification under the Arizona Revised Statures shall
-not be denied or limited by these bylaws.
+Article 19: [Deleted]
+---------------------
 
 Article 20: Construction
 ------------------------
@@ -1287,12 +912,11 @@ Article 24 shall be stricken from the bylaws.
 
 During the Extended Organisational Period, the Board shall have the
 authority to create positions, delegate authority and fill vacancies.
-The term of office of Officers, Directors and Council Members is deemed
-to begin once the Extended Organisational Period ends.
+The term of office of Officers is deemed to begin once the Extended
+Organisational Period ends.
 
 During the Extended Organisational Period, the Board may, as necessary,
 amend the bylaws to fully support organisational requirements without
 the consent of an Annual General Meeting or other business meeting. The
-requirement to hold an Annual Council Meeting of the Regional Advisory
-Council and an Annual General Meeting is waived during the Extended
-Organisational Period.
+requirement to hold an Annual General Meeting is waived during the
+Extended Organisational Period.

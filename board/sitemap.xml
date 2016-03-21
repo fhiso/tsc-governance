@@ -1,20 +1,20 @@
 <site title="Board">
-  <index src="tsc-governance/board.md" />
+  <index src="tsc-governance/board/board.md" />
    
   <page name="articles" versioned="1"
-        src="tsc-governance/articles.md" 
+        src="tsc-governance/board/articles.md" 
         title="Articles of Incorporation" />
 
   <page name="by-laws" versioned="1"
-        src="tsc-governance/by-laws.md" 
+        src="tsc-governance/board/by-laws.md" 
         title="By-Laws" />
 
   <page name="by-laws-exec" versioned="1"
-        src="tsc-governance/by-laws-exec.md" 
+        src="tsc-governance/board/by-laws-exec.md" 
         title="By-Laws (draft: Exec Ctte)" />
 
   <page name="by-laws-board" versioned="1"
-        src="tsc-governance/by-laws-board.md" 
+        src="tsc-governance/board/by-laws-board.md" 
         title="By-Laws (draft: Board Roles)" />
 </site>
 

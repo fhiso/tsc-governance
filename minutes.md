@@ -1,6 +1,10 @@
 Minutes of the Technical Standing Committee
 ===========================================
 
+**2016-03-22** Suspended the [S&CEG](/egs#sources) in order to focus on
+our [priorities](/priorities) in a "committee of the whole" per our 
+[interim governance structure](/governance).
+
 **2016-02-17** [Announced](//fhiso.org/pipermail/tsc-public_fhiso.org/2016-February/002113.html) 
 our [interim governance structure](/governance) which will apply as 
 we work towards our new [priorities](/priorities).
@@ -55,7 +59,7 @@ metadata identifiers.
 **2015-06-19** Suspended the [CCEG](/egs#core) in order to
 prioritise the work of the [S&CEG](/egs#sources); the CCEG mailing
 list had been silent for three months, they have no Coordinator, and
-none of its members have been active recently
+none of its members have been active recently.
 
 **2015-06-15** Reported to the [S&CEG](/egs#sources) on a [possible
 opportunity to work with

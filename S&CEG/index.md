@@ -1,6 +1,12 @@
 Sources and Citations Exploratory Group
 =======================================
 
+**Note:** This group is currently **suspended**.  Work on sources & citations
+continues according to our [priorities](/priorities), but outside this
+exploratory group.  This page exists as an archive only.
+
+* * *
+
 The Sources and Citations Exploratory Group (or S&CEG) is tasked with
 carrying out exploratory work into the data representation of
 information about and information contained within individual documents,

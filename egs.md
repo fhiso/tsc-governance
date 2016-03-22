@@ -16,6 +16,7 @@ Established exploratory groups {#established}
 
 Status
 :   Proposed by the TSC on 2014-08-15 and created on 2015-04-10
+    **Suspended** as of 2016-03-22.
 Mission
 :   To cary out exploratory work regarding data representation of
     information about and information contained within individual

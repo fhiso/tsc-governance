@@ -1,6 +1,6 @@
 ---
 title: Preferred nature of vocabularies
-date: 11 March 2016
+date: 23 March 2016
 ...
 # Preferred nature of vocabularies
 
@@ -105,23 +105,30 @@ literal `term` and the name of the *term*; this should only be done if a
 term has sufficiently wide applicability that it is not naturally part
 of one specific vocabulary.
 
-*Term names* are case-sensitive, but FHISO *should* not define multiple
-*terms* that differ only in their capitalisation.  Applications should
-be aware that some current third-party standard do contain *terms*
-differing only in their capitalisation; FHISO standards *may* use such
-terms.
+*Term names* are case-sensitive, but FHISO *should not* define multiple
+*terms* that differ only in their capitalisation.  Implementors are
+warned that some current third-party standard do contain *terms*
+differing only in their capitalisation, and FHISO standards *may* use
+such *terms*.
 
 A **namespace** is a collection of terms whose *term names* all share a
-common prefix which is itself a valid IRI known as the **namespace
-name**.  *Namespace names* *should* normally end with a delimiter
-character such as `/` or `#`.  For example, the *term*
+common prefix which is itself a valid IRI and is known as the
+**namespace name**.  *Namespace names* *should* normally end with a
+delimiter character such as `/` or `#`.  For example, the *term*
 `http://fhiso.org/term/events/birth` is part of a *namespace* with a
 *namespace name* of `http://fhiso.org/term/events/`.  A *namespace* is a
 *vocabulary*, but not all *vocabularies* are *namespaces* &mdash; it can
 also be convenient to talk about *vocabularies* that span several
 *namespaces*, and also *vocabularies* that are a subset of a namespace.
+
+Comparison of *term names* uses the "simple string comparison" algorithm
+given in §5.3.1 of [RFC 3987](http://tools.ietf.org/html/rfc3987).  This
+is how [XML Namespaces](https://www.w3.org/TR/REC-xml-names/) compares
+namespace IRIs and it involves no normalisation of *term names* before
+comparing.
+
 Applications *must not* make inferences about the meaning or usage of a
-*term* based solely on its *namespace*.
+*term* based solely on its *term name*.
 
 ## Compact term names
 
@@ -157,8 +164,8 @@ be used backwards-compatibly in GEDCOM.
 ## IRI resolution
 
 An HTTP 1.1 GET request made without an `Accept` header to a *term name*
-IRI (coverted to a URI per §3.1 of [RFC
-3987](http://tools.ietf.org/html/rfc3987) *should* result in a 
+IRI (once coverted to a URI per §3.1 of [RFC
+3987](http://tools.ietf.org/html/rfc3987)) *should* result in a 
 303 "See Other" redirect to a document containing a human-readable
 definition of the *term*.  This document *should* have a `text/plain` or
 `text/html` content-type, and *should* use either an ASCII or UTF-8
@@ -186,6 +193,12 @@ applications on the properties and expected usage of otherwise-unknown
 "See Other" redirect to a machine-readable resource in the expected
 format.  Support for *discovery* will be *optional* for clients and
 *recommended* for servers.
+
+Webservers that do not support content negotiation *should* (and
+other webservers *may*) provide a `Link` header, as defined in [RFC
+5988](http://tools.ietf.org/html/rfc5998), to locate the
+machine-readable description of the *term*.  Clients that support
+*discovery* *should* support this mechanism too.
 
 ## Classes
 

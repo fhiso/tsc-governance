@@ -2,7 +2,7 @@ Directives of the Core Concepts Exploratory Group
 =================================================
 
 *Approved by the Technical Standing Committee and published on 23
-September 2014.*
+September 2014.  **Note:** This group was **suspended** on 19 June 2015.*
 
 1\.  Mission							{#mission}
 ------------

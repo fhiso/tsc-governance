@@ -2,7 +2,7 @@ Directives of the Sources & Citations Exploratory Group
 =======================================================
 
 *Approved by the Technical Standing Committee and published on 10 April
-2015.*
+2015.  **Note:** This group was **suspended** on 22 March 2016.*
 
 1\.  Mission							{#mission}
 ------------

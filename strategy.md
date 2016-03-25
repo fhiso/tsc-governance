@@ -124,14 +124,13 @@ requirements for the particular use should be noted.
 The aim is that applications should be able to produce properly-formed
 citations in the vendor's preferred style using the data found in
 the citation elements.  Ideally this should be possible using standard
-templating technology such as [XSLT](http://www.w3.org/Style/XSL/) or
-[BibTeX](https://www.ctan.org/pkg/bibtex?lang=en).  It is not FHISO's
-job to produce such a formatter, but as the standard develops, we
-should be considering whether data in the citation elements can be
-converted algorithmically to forms used in real-world citations.  For
-example, some citation styles for books put the author's surname first,
-followed by first names or initials; other styles put the name in its
-conventional order.  How should this be supported?
+templating technology such as [XSLT](http://www.w3.org/Style/XSL/).  It
+is not FHISO's job to produce such a formatter, but as the standard
+develops, we should be considering whether data in the citation elements
+can be converted algorithmically to forms used in real-world citations.
+For example, some citation styles for books put the author's surname
+first, followed by first names or initials; other styles put the name in
+its conventional order.  How should this be supported?
 
 Full systems for representing names and addresses are outwith the scope
 of this project.  But it may be that a lightweight microformat may be

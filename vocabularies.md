@@ -240,14 +240,15 @@ recommend* the use of this terminology as it is used ambiguously in the
 literature: some authorities use them for any *vocabulary class* while
 others reserve them for just those that are not *extensibile*.)
 
-As for any *term*, the *term name* of a *class* is an IRI.  These *may*
-be put in a *vocabulary*-specific *namespace* alongside other *terms*, for
-example `http://fhiso.org/term/events/Type`; alternatively, they *may*
-be placed in the `http://fhiso.org/term/type/` *namespace*, known as the
-**type namespace**.  *Classes* *should* be put in *type namespace* if
-they are too general to belong in a *vocabulary*-specific *namespace*,
-or if the natural choice of name would conflict with another *term* in
-the *vocabulary*-specific *namespace*.  
+As for any *term*, the *term name* of a *class* is an IRI, called its
+**class name**.  These *may* be put in a *vocabulary*-specific
+*namespace* alongside other *terms*, for example
+`http://fhiso.org/term/events/Type`; alternatively, they *may* be placed
+in the `http://fhiso.org/term/type/` *namespace*, known as the **type
+namespace**.  *Classes* *should* be put in *type namespace* if they are
+too general to belong in a *vocabulary*-specific *namespace*, or if the
+natural choice of name would conflict with another *term* in the
+*vocabulary*-specific *namespace*.
 
 FHISO standards *should* respect the convention that *class* names have
 a upper-case first letter, for example `http://fhiso.org/term/type/Sex`.

@@ -4,7 +4,8 @@
 
 This document is intended to summarize the current vision of the Technical Standing Committee regarding the immediate priorities of technical work.
 It may be updated and changed from time to time as resources, opportunities, perspective, and personnel change.
-It is in many respects a summary of the larger [TSC strategy document](/strategy.md).
+It is in many respects a summary of the larger [technical strategy
+document](/strategy).
 
 ## Scope vs. Priority
 
@@ -27,4 +28,7 @@ descriptive elements that might reasonably be needed in the algorithmic
 construction of citations to family history or genealogical sources.
 
 3. Produce a source derivation vocabulary.
+
+
+Want to know more?  Read our [technical strategy document](/strategy).
 

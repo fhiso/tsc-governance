@@ -13,9 +13,9 @@
         src="tsc-governance/board/by-laws-exec.md" 
         title="By-Laws (draft: Exec Ctte)" />
 
-  <page name="by-laws-exec" versioned="1"
+  <page name="by-laws-meeting" versioned="1"
         src="tsc-governance/board/by-laws-meetings.md" 
-        title="By-Laws (draft: Exec Ctte)" />
+        title="By-Laws (draft: Board Meetings)" />
 
   <page name="by-laws-board" versioned="1"
         src="tsc-governance/board/by-laws-board.md" 

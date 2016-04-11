@@ -276,11 +276,13 @@ i.  Assistant Secretary.  The Assistant Secretary shall assist the
 
 ### 8.3 Terms of Office
 
-The Chair, Vice-chair, Treasurer and Secretary shall be elected in
-accordance with Article 15 for a two-year term: the Chair and Treasurer
-as Class A Directors, the Vice-Chair and Secretary as Class B Directors.
+The Chair, Vice-chair, Treasurer and Secretary shall be elected for a
+two-year term by the general membership in accordance with Article 15:
+the Chair and Treasurer as Class A Directors, the Vice-chair and
+Secretary as Class B Directors.
 
-An Assistant Secretary may be appointed by the Board under Section 8.6
+An Assistant Secretary may be appointed by the Board under Section
+999999999.6
 of these Bylaws.  He or she has no fixed term of office and may be
 removed by majority vote of the Board at any time without cause.
 
@@ -296,21 +298,12 @@ In the event of a vacancy in the position of the Chair, the Vice-chair
 shall succeed to the position of Chair and so serve for the duration of
 the unexpired term of the vacated office.  In the event that both the
 Chair and Vice-chair are vacant, the Board shall appoint a successor
-under Section 8.6 to serve the unexpired term of office of the Chair.
+under Section 9.6 to serve the unexpired term of office of the Chair.
 In the event of a vacancy in the position of Vice-chair, Secretary or
-Treasurer, the Board may appoint a successor under Section 8.6 to serve
+Treasurer, the Board may appoint a successor under Section 9.6 to serve
 the unexpired term of the vacated office.
 
-### 8.6 Appointment of Officers or Directors
-
-When appointing an Officer or Director, the Secretary, or acting
-Secretary, shall compile a list of qualified candidates by soliciting
-nominations from the remaining Board members.  Candidates must be
-members of FHISO.  The Board will meet in executive session to
-deliberate and vote about the qualified nominees until a majority vote
-of the board elects the new Officer.  If reasonable notice has been
-provided, then for the purpose of meeting to fill Officer vacancies, a
-quorum of the Board is preferred, but not required.
+### 8.6 [Deleted]
 
 Article 9: Board of Directors
 -----------------------------
@@ -353,25 +346,34 @@ Directors other than Officers who are elected at an Annual Board
 Election in an odd-number year shall become Class A Directors, and those
 elected in an even-number year shall become Class B Directors.  If this
 would result in the number of either Class of Director exceeding
-three-fifths of the total, the Director or Directors with the fewest
+three-quarters of the total, the Director or Directors with the fewest
 votes shall be elected to a one-year term as the opposite Class of
 Director.  The number of Directors elected to one-year terms shall be
 the smallest number that results in neither Class of Director exceeding
-three-fifths of the total.  
+three-quarters of the total.  
 
 Directors elected or appointed as Class A Directors or Class B Directors
 remain as such, and may serve their full term of office unless removed
 regardless of subsequent amendments to the Bylaws.  
 
-### 9.5 Resignation; Removal
+### 9.5 Resignation or Removal of Officers or Directors
 
-A Director may resign at any time by giving written notice to the Chair.
-A member of the Board may be removed for cause by a two-thirds vote of
-the Board.  Following a resignation or removal, the Board may appoint a
-successor under Section 8.6 to serve on the Board for the unexpired part
-of vacated Director's term of office.
+An Officer or Director may resign at any time by giving written notice
+to the Chair.  An Officer or Director may be removed for cause by a
+two-thirds vote of the Board.  Following a resignation or removal, the
+Board may appoint a successor under Section 9.6 to serve on the Board
+for the unexpired part of vacated office.
 
-### 9.6 [Deleted]
+### 9.6 Appointment of Officers or Directors
+
+When appointing an Officer or Director, the Secretary, or acting
+Secretary, shall compile a list of qualified candidates by soliciting
+nominations from the remaining Board members.  Candidates must be
+members of FHISO.  The Board will meet in executive session to
+deliberate and vote about the qualified nominees until a majority vote
+of the board elects the new Officer.  If reasonable notice has been
+provided, then for the purpose of meeting to fill Officer vacancies, a
+quorum of the Board is preferred, but not required.
 
 ### 9.7 Board Member Compensation
 
@@ -427,7 +429,7 @@ membership in a form and manner specified in the FHISO Manual.
 ### 9.10 Conduct of Meetings
 
 Meetings of the Board of Directors shall be presided over by the Chair,
-or, in the absence of the Chair, by the Vice-Chair, or in the absence of
+or, in the absence of the Chair, by the Vice-chair, or in the absence of
 these officers, by a Chairperson chosen by a majority of the voting
 Board members in attendance.
 

@@ -54,6 +54,10 @@
       <page name="links"
             src="sources-and-citations/EG/Useful_Links.md"
             title="Useful Links" />
+
+      <page name="creators-name" versioned="1"
+            src="sources-and-citations/creators-name.md"
+            title="Creators Name" />
     </directory>
 
     <directory name="cceg" title="Core Concepts">

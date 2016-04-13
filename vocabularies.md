@@ -110,15 +110,15 @@ warned that some current third-party standard do contain *terms*
 differing only in their capitalisation, and FHISO standards *may* use
 such *terms*.
 
-A **namespace** is a collection of terms whose *term names* all share a
-common prefix which is itself a valid IRI and is known as the
-**namespace name**.  *Namespace names* *should* normally end with a
+A **namespace** is an abstract container for *term names* that all share a
+common prefix, where the common prefix is itself a valid IRI and is known as
+the **namespace name**.  *Namespace names* *should* normally end with a
 delimiter character such as `/` or `#`.  For example, the *term*
-`http://terms.fhiso.org/events/birth` is part of a *namespace* with a
-*namespace name* of `http://terms.fhiso.org/events/`.  A *namespace* is a
-*vocabulary*, but not all *vocabularies* are *namespaces* &mdash; it can
-also be convenient to talk about *vocabularies* that span several
-*namespaces*, and also *vocabularies* that are a subset of a namespace.
+`http://terms.fhiso.org/events/birth` is within the *namespace* with a
+*namespace name* of `http://terms.fhiso.org/events/`.  The content of a 
+*namespace* is a *vocabulary*, but not all *vocabularies* equate with a whole 
+*namespaces* &mdash; it can also be convenient to talk about *vocabularies* that
+span several *namespaces*, and also *vocabularies* that are a subset of a namespace.
 
 Comparison of *term names* uses the "simple string comparison" algorithm
 given in §5.3.1 of [RFC 3987](http://tools.ietf.org/html/rfc3987).  This

@@ -81,22 +81,21 @@ In additional, *terms* defined in FHISO standards *shall* use the
 following IRI patterns:
 
 - A scheme of `http`.
-- An authority with just the host `fhiso.org`.
+- An authority with just the host `terms.fhiso.org`.
 - A path constructed from the following slash-separated path segments, 
   each of which *should* match the `NCName` production in the [XML
   Namespaces](https://www.w3.org/TR/REC-xml-names/) specification:
-    1. the literal string `term`;
-    2. zero or more short names used to name of the *vocabulary*
+    1. zero or more short names used to name of the *vocabulary*
        (or the literal string `type` &mdash; see below in the section on
        *classes*); 
-    3. a short name for the *term*.
+    2. a short name for the *term*.
 - No query or fragment.
 
 Although this permits an arbitrary number of path segments between the
 literal `term` and the name of the *term*, exactly one path segment
 *should* normally be used.  For example, a *term* named "birth" in some
 future FHISO "events" vocabulary might have the *term name*
-`http://fhiso.org/term/events/birth`.
+`http://terms.fhiso.org/events/birth`.
 
 The use of additional segments to partition a *vocabulary* into parts is
 permitted but *not recommended* in normal circumstances.  It is also
@@ -115,8 +114,8 @@ A **namespace** is a collection of terms whose *term names* all share a
 common prefix which is itself a valid IRI and is known as the
 **namespace name**.  *Namespace names* *should* normally end with a
 delimiter character such as `/` or `#`.  For example, the *term*
-`http://fhiso.org/term/events/birth` is part of a *namespace* with a
-*namespace name* of `http://fhiso.org/term/events/`.  A *namespace* is a
+`http://terms.fhiso.org/events/birth` is part of a *namespace* with a
+*namespace name* of `http://terms.fhiso.org/events/`.  A *namespace* is a
 *vocabulary*, but not all *vocabularies* are *namespaces* &mdash; it can
 also be convenient to talk about *vocabularies* that span several
 *namespaces*, and also *vocabularies* that are a subset of a namespace.
@@ -147,9 +146,9 @@ prefix*, followed by a separator (which will typically but not
 necessarily a colon, depending on the host language), followed by a
 **local part**.  The *term name* in IRI form is found by concatenating
 the *namespace name* corresponding to the *namespace prefix* with the
-*local part*.  For example, if the IRI `http://fhiso.org/term/events/`
+*local part*.  For example, if the IRI `http://terms.fhiso.org/events/`
 is bound to the prefix `ev`, then `ev:birth` could be the compact
-representation of the term `http://fhiso.org/term/events/birth`.
+representation of the term `http://terms.fhiso.org/events/birth`.
 
 *Compact term names* might take the syntactic form of a `QName` in [XML
 Namespaces](https://www.w3.org/TR/REC-xml-names/), allowing *terms* to
@@ -243,15 +242,15 @@ others reserve them for just those that are not *extensibile*.)
 As for any *term*, the *term name* of a *class* is an IRI, called its
 **class name**.  These *may* be put in a *vocabulary*-specific
 *namespace* alongside other *terms*, for example
-`http://fhiso.org/term/events/Type`; alternatively, they *may* be placed
-in the `http://fhiso.org/term/type/` *namespace*, known as the **type
+`http://terms.fhiso.org/events/Type`; alternatively, they *may* be placed
+in the `http://terms.fhiso.org/type/` *namespace*, known as the **type
 namespace**.  *Classes* *should* be put in *type namespace* if they are
 too general to belong in a *vocabulary*-specific *namespace*, or if the
 natural choice of name would conflict with another *term* in the
 *vocabulary*-specific *namespace*.
 
 FHISO standards *should* respect the convention that *class* names have
-a upper-case first letter, for example `http://fhiso.org/term/type/Sex`.
+a upper-case first letter, for example `http://terms.fhiso.org/type/Sex`.
 
 ## Properties
 
@@ -282,14 +281,14 @@ In some cases when the expected value of a *property* is another *term*
 name for the *class* of values might be the same as the obvious choice
 of *property* name.  For example, the *property* denoting an
 individual's sex and the *class* of possible sexes might both naturally
-be called `http://fhiso.org/term/indi/sex` (or differ only in
+be called `http://terms.fhiso.org/indi/sex` (or differ only in
 capitalisation).  This is an example of when the *term namespace* should
 be used.
 
 FHISO standards *should* respect the convention that *property* names
 have a lower-case first letter; some example *properties* include
-`http://fhiso.org/term/indi/occupation` and
-`http://fhiso.org/term/indi/religion`.
+`http://terms.fhiso.org/indi/occupation` and
+`http://terms.fhiso.org/indi/religion`.
 
 *Properties* shall not have default values, and no information shall be
 assumed from the absence of a *property*.

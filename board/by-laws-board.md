@@ -573,12 +573,13 @@ Manual") are subject to approval by the Board, filed with the Secretary
 and made part of the FHISO Manual.
 
 The Technical Coordinator and Technical Co-coordinator are Chair and
-Vice-chair of the Technical Standing Committee, respectively.  The Board
-may appoint and/or remove additional members to the TSC in order to
-ensure sufficient expertise or representation from FHISO's Membership
-Regions.  These are known as TSC Special Members. The Technical
-Standing Committee reports to the FHISO Executive Committee, of which
-its officers are also members.
+Vice-chair of the Technical Standing Committee, respectively.  They 
+will preferably be members from different regions of the world to
+promote an understanding of the diverse needs of the genealogy and
+family history community.  The Board may appoint and/or remove
+additional members to the TSC in order to ensure sufficient expertise or
+representation from FHISO's Membership Regions.  The Technical Standing
+Committee reports to the FHISO Executive Committee.
 
 #### 10.2.1–2 [Deleted]
 

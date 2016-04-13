@@ -117,7 +117,7 @@ delimiter character such as `/` or `#`.  For example, the *term*
 `http://terms.fhiso.org/events/birth` is within the *namespace* with a
 *namespace name* of `http://terms.fhiso.org/events/`.  The content of a 
 *namespace* is a *vocabulary*, but not all *vocabularies* equate with a whole 
-*namespaces* &mdash; it can also be convenient to talk about *vocabularies* that
+*namespace* &mdash; it can also be convenient to talk about *vocabularies* that
 span several *namespaces*, and also *vocabularies* that are a subset of a namespace.
 
 Comparison of *term names* uses the "simple string comparison" algorithm

@@ -111,7 +111,7 @@ warned that some current third-party standard do contain *terms*
 differing only in their capitalisation, and FHISO standards *may* use
 such *terms*.
 
-**\[Tony 2016-04-13: [Wikipedia](https://en.wikipedia.org/wiki/Namespace) is a little ambiguous on the definition of a namespace: (a) "In computing, a namespace is a set of symbols that are used to organize objects of various kinds, so that these objects may be referred to by name"; (b) "A namespace in computer science (...), is an abstract container or environment created to hold a logical grouping of unique identifiers or symbols" -- I much prefer to view it as a container for the terms rather than the set of terms itself, i.e. a "space" within which they exist.\]**
+>\[Tony 2016-04-13: [Wikipedia](https://en.wikipedia.org/wiki/Namespace) is a little ambiguous on the definition of a namespace: (a) "In computing, a namespace is a set of symbols that are used to organize objects of various kinds, so that these objects may be referred to by name"; (b) "A namespace in computer science (...), is an abstract container or environment created to hold a logical grouping of unique identifiers or symbols" -- I much prefer to view it as a container for the terms rather than the set of terms itself, i.e. a "space" within which they exist.\]
 
 A **namespace** is a collection of terms whose *term names* all share a
 common prefix which is itself a valid IRI and is known as the

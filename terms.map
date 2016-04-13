@@ -1,0 +1,7 @@
+# This file is a map from terms on http://terms.fhiso.org/ to 
+# documentation URLs on http://tech.fhiso.org/. 
+
+# It's processed by mod_write's RewriteMap directive, 
+# so the format is pair of paths per line.
+
+/type/CreatorsNameList	/egs/sceg/creators-name#CreatorsNameList

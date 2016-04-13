@@ -4,4 +4,6 @@
 # It's processed by mod_write's RewriteMap directive, 
 # so the format is pair of paths per line.
 
+# ** Warning: It is updated automatically from Github hourly. **
+
 /type/CreatorsNameList	/egs/sceg/creators-name#CreatorsNameList

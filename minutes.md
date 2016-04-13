@@ -16,9 +16,9 @@ wider comment on tsc-public.
 
 **2016-01-19** Presented our draft [priorities](/priorities), [technical
 strategy](/strategy), and [vocabularies policy](/policies/vocabularies)
-at the 19 January Board meeting, where it was agreed that we should
-make any final changes and release them to [tsc-public](/tsc-public)
-for further discussion.
+at the [19 January Board meeting](/fhiso-board/minutes/2015-11-27/), where it
+was agreed that we should make any final changes and release them to
+[tsc-public](/tsc-public) for further discussion.
 
 **2016-01-07** Produced a short draft document listing [our immediate
 priorities](/priorities), and a longer draft [technical strategy

@@ -9,10 +9,6 @@
         src="tsc-governance/board/by-laws.md" 
         title="Bylaws" />
 
-  <page name="by-laws-meeting" versioned="1"
-        src="tsc-governance/board/by-laws-meetings.md" 
-        title="Bylaws (draft: Motion B)" />
-
   <page name="by-laws-regions" versioned="1"
         src="tsc-governance/board/by-laws-regions.md" 
         title="Bylaws (draft: Motion C)" />

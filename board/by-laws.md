@@ -375,51 +375,15 @@ Directors of the Organisation.
 
 ### 9.8 Regular Board Meetings
 
-The Board shall hold regular meetings at least quarterly at agreed upon
-times and dates. As directed by the Chair, the general membership may be
-invited to attend or attend and participate in non-executive sessions of
-a regular board meeting.
+The Board shall hold meetings at least quarterly. Meetings shall be
+called as agreed at previous Board Meetings, or upon the request of the
+Chair or one-third of the Board.
 
-Meetings shall be conducted in accordance with Article 17. Notices of
-all regular meetings shall be sent out by the Secretary to each Board
-member at least two (2) weeks in advance together with any agendas,
-proposals, exhibits and any prepared remarks (collectively, the "Board
-Meeting Materials"). The Chair shall arrange for discussions or
-exchanges between Board members prior to each meeting to facilitate
-Board members' understanding of the Board Meeting Materials. In
-accordance with the FHISO Manual, the Secretary shall provide final
-notice and make meeting materials available to the general membership no
-less than forty-eight (48) hours in advance of the meeting.
-
-### 9.9 Special Board meetings
-
-Special meetings of the Board shall be called upon the request of the
-Chair, or one-third (1/3) of the Board. Meetings shall be conducted in a
-manner available to those not present in the same physical location (for
-example, by phone or means of other electronic connection) as specified
-in the FHISO Manual. As directed by the Chair, the general membership
-may be invited to attend or attend and participate in non-executive
-sessions of a special board meeting.
-
-Special meetings are called to conduct business of an urgent or time
-sensitive nature that cannot reasonably be deferred until the next
-regular meeting of the Board, as determined by the Chair or one-third
-(1/3) of the Board. Business conducted during a special meeting shall be
-limited to those urgent or time sensitive items; all other business that
-can reasonably be deferred to the next regular meeting of the Board
-shall not be conducted during a special meeting.
-
-Meetings shall be conducted in accordance with Article 17. To the extent
-possible given the urgent and/or time sensitive nature of such meetings,
-notices of special board meetings shall be sent out by the Secretary to
-each Board member in advance of such meetings, together with the Board
-Meeting Materials. The Chair shall arrange for discussions or exchanges
-between Board members prior to each meeting to facilitate each members'
-understandings of the Board Meeting Materials. The Secretary shall
-provide notice and make meeting materials available to the general
-membership in a form and manner specified in the FHISO Manual.
+### 9.9 [Deleted]
 
 ### 9.10 Conduct of Meetings
+
+Meetings shall be conducted in accordance with Article 17.
 
 Meetings of the Board of Directors shall be presided over by the Chair,
 or, in the absence of the Chair, by the Vice-Chair, or in the absence of
@@ -732,55 +696,29 @@ voting members. Meetings shall be conducted in accordance with Article
 Article 17: Conduct of Meetings
 -------------------------------
 
-### 17.1 Meeting Availability to Participants
+### 17.1 Meeting Accessibility
 
-In addition to other guidelines that may be set forth herein for
-specific types of meetings, and in recognition of the expectation by the
-Organisation that members will be geographically dispersed, meetings of
-any type shall be conducted in a manner available to those not present
-in the same physical location (for example, by phone or by means of
-other electronic communication) to the extent practicable, as specified
-in the FHISO Manual.
-
-It is understood that a geographically dispersed membership presents
-challenges for the scheduling of meetings that involve or require
-real-time participation. To the extent practicable, a reasonable effort
-should be made to facilitate participation from all regions when
-organising and scheduling meetings.
+Meetings shall be conducted in a manner accessible to those not present
+in the same physical location, for example by phone or other electronic
+communication. A reasonable effort should be made to facilitate
+participation from all regions.
 
 ### 17.2 Notice of Meetings
 
-In addition to other guidelines that may be set forth herein for
-specific types of meetings, reasonable advance notice of meetings shall
-be given to intended participants in an appropriate form, as further
-provided in the FHISO Manual or as determined by the meeting
-organiser(s) if not otherwise specified.
+Reasonable advance notice of meetings shall be given to intended
+participants in an appropriate form.
 
 ### 17.3 Meeting Materials
 
-From time to time, it might be beneficial to participants that certain
-materials such as circulars, handouts, agendas, be available prior to
-the start of a meeting. In addition to other guidelines that may be set
-forth herein for specific types of meetings, a reasonable effort shall
-be made to ensure that these materials are available to intended
+A reasonable effort shall be made to ensure that any agendas, proposals,
+reports, or other meeting materials are available to intended
 participants in an appropriate form and sufficiently in advance of the
-start of the meeting, as specified in the FHISO Manual or as determined
-by the meeting organiser(s) if not otherwise specified.
-
-Meeting materials available to participants may be edited, redacted or
-summarised for the purposes of protecting the privacy of one or more
-individuals or organisations, the status of upcoming or ongoing legal
-matters, the status of ongoing or upcoming contractual negotiations, or
-for other purposes as directed by the Board and specified in the FHISO
-Manual.
+start of the meeting.
 
 ### 17.4 Meeting Minutes
 
-In accordance with the FHISO Manual, minutes shall be taken during the
-non-executive session of all meetings. The general membership shall have
-access to minutes of non-executive sessions of the Board, General
-Membership Meetings, and, in accordance with the FHISO Manual, the
-general membership shall have access to other meeting minutes.
+Minutes shall be taken during the non-executive session of all meetings,
+and shall be made accessible to the general membership.
 
 Article 18: Appeals of Decisions
 --------------------------------

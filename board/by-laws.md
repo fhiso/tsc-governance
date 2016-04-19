@@ -1,6 +1,6 @@
 ---
 title: Bylaws of Family History Information Standards Organisation, Inc.
-date: 6 March 2016
+date: 19 April 2016
 ...
 Bylaws of Family History Information Standards Organisation, Inc.
 =================================================================
@@ -9,7 +9,7 @@ Bylaws of Family History Information Standards Organisation, Inc.
 website](http://fhiso.org/by-laws/).  This unofficial version exists
 so that versions can be produced in other formats.*
 
-*Enacted on 1 September 2013, and last updated on 6 March 2016.*
+*Enacted on 1 September 2013, and last updated on 19 April 2016.*
 
 Article 1: Name
 ---------------
@@ -98,8 +98,7 @@ Members shall be classified as Individual Members or Organisational
 Members. The Board approves the form of membership applications,
 determines the annual dues, and it establishes the framework of other
 membership goals and policies which are more specifically developed by
-the Membership Standing Committee under the direction of the Executive
-Committee.
+the Membership Standing Committee under the direction of the Board.
 
 #### 4.2.1 Individual Membership
 
@@ -446,11 +445,8 @@ at which a quorum exists.
 Unless otherwise restricted by law, the Articles of Incorporation or
 these Bylaws, any action which is required to be or may be taken at a
 meeting of the Board of Directors may be taken without a meeting if
-consents in writing, setting forth the action so taken, are signed by
-all the Board members. The written consent may be executed in several
-identical counterparts by the Directors with the effect as if the
-Directors had executed a single document, and handled in accordance with
-the FHISO Manual.
+three-fifths of the voting members of the Board consent to the action in
+writing or by email.
 
 ### 9.14 Attendance
 
@@ -468,38 +464,18 @@ within the approved budget may be authorised for payment.
 
 The fiscal year shall be the calendar year.
 
-Article 10: Executive Committees
---------------------------------
+Article 10: Committees
+----------------------
 
-There shall be an Executive Committee and two Standing Committees—the
-Technical Standing Committee and Membership Standing Committee. The
-Board may create other committees as appropriate to meet FHISO's goals.
-All committees shall keep regular minutes of meetings and report the
-same to the Board in accordance with the FHISO Manual.
+There shall be two Standing Committees &mdash; the Technical Standing
+Committee and Membership Standing Committee. The Board may create other
+committees as appropriate to meet FHISO's goals. All committees shall
+keep regular minutes of meetings and report the same to the Board in
+accordance with the FHISO Manual. Any reference to a committee that no
+longer exists shall be interpreted as referring to the Board of
+Directors.
 
-### 10.1 FHISO Executive Committee
-
-The FHISO Executive Committee is comprised of eight (8) FHISO officers
-as set forth in Section 8.1. Unless otherwise provided by these bylaws,
-the full Executive Committee shall have all the powers and authority of
-the Board in the intervals between meetings of the Board. Its actions
-shall be consistent with established policies of the Board. The
-Executive Committee shall also:
-
-a.  Maintain and administer the FHISO Manual;
-b.  Oversee administration of the Technical Standing Committee Charter,
-    and the Technical Standing Committee Operations and Policy Manual;
-c.  Oversee administration of the Membership Standing Committee Charter,
-    and the Membership Standing Committee Operations and Policy Manual;
-d.  Determine the requirements for and initiate or approve all Executive
-    Committee Project work; direct and/or develop and maintain requisite
-    Project Team Charters, Operations and Policy Directives; appoint
-    Project Coordinators and other Project Team members for such work;
-    assign other roles as appropriate;
-e.  Suspend or dissolve Executive Project Teams;
-f.  Resolve issues of coordination between the Technical Standing
-    Committee, the Membership Standing Committee and any other committee
-    created by the Board.
+### 10.1 [Deleted]
 
 ### 10.2 FHISO Technical Standing Committee
 
@@ -531,17 +507,16 @@ There shall be no fewer than two officers of the Technical Standing
 Committee; their titles and duties are set forth below. The Board may
 appoint and/or remove additional members to the TSC in order to ensure
 sufficient expertise or representation from FHISO's Membership Regions.
-These are known as TSC Special Members.. The Technical Standing
-Committee reports to the FHISO Executive Committee, of which its
-officers are also members.
+These are known as TSC Special Members. The Technical Standing
+Committee reports to the Board.
 
 #### 10.2.1 Technical Standing Committee Coordinator
 
 a.  Chair meetings of the Technical Standing Committee;
-b.  Oversee and report regularly to the Executive Committee and Board
-    about all standardisation and specification work, Technical Projects
-    and Technical Project Team activities. As directed by the Chair,
-    report about such activities to the membership;
+b.  Oversee and report regularly to the Board about all standardisation
+    and specification work, Technical Projects and Technical Project
+    Team activities. As directed by the Chair, report about such
+    activities to the membership;
 c.  Administer the Technical Standing Committee Charter, and its
     Operations and Policy Manual;
 d.  Work with the Membership Standing Committee Coordinator to ensure a
@@ -596,16 +571,14 @@ Committee; their titles and duties are set forth below. The Board may
 appoint and/or remove additional members to the MSC in order to ensure
 sufficient expertise or representation from FHISO's Membership Regions.
 These are known as MSC Special Members. The Membership Standing
-Committee reports to the FHISO Executive Committee, of which its
-officers are also members.
+Committee reports to the Board.
 
 #### 10.3.1 Membership Standing Committee Coordinator
 
 a.  Chair meetings of the Membership Standing Committee;
-b.  Oversee and report regularly to the Executive Committee and Board
-    about all Membership Projects and Membership Project Team
-    activities. As directed by the Chair, report about such activities
-    to the membership
+b.  Oversee and report regularly to the Board about all Membership
+    Projects and Membership Project Team activities. As directed by the
+    Chair, report about such activities to the membership
 c.  Administer the Membership Standing Committee Charter, and its
     Operations and Policy Manual
 d.  Assist the Technical Standing Committee Coordinator in selecting

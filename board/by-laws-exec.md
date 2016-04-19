@@ -7,7 +7,7 @@ Bylaws of Family History Information Standards Organisation, Inc.
 
 *This is **draft** version of FHISO's bylaws shown <a
 href="//fhiso.org/minutes/2016-04-19#MotionA">motion A from the 19 April
-Board meeting</> to abolish the Executive Committee, as applied to the
+Board meeting</a> to abolish the Executive Committee, as applied to the
 bylaws as amended on 6 March.  It has no official status.*
 
 Article 1: Name

@@ -7,7 +7,7 @@ Bylaws of Family History Information Standards Organisation, Inc.
 
 *This is **draft** version of FHISO's bylaws shown <a
 href="//fhiso.org/minutes/2016-04-19#MotionB">motion B from the 19 April
-Board meeting</> to simplify Board Meeting procedure, as applied to the
+Board meeting</a> to simplify Board Meeting procedure, as applied to the
 bylaws as amended on 6 March.  It has no official status.*
 
 Article 1: Name

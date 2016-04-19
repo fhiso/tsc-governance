@@ -7,7 +7,7 @@ Bylaws of Family History Information Standards Organisation, Inc.
 
 *This is **draft** version of FHISO's bylaws shown <a
 href="//fhiso.org/minutes/2016-04-19#MotionD">motion D from the 19 April
-Board meeting</> to remove reference to details of TSC operation, as
+Board meeting</a> to remove reference to details of TSC operation, as
 applied to the bylaws as amended on 6 March.  It has no official
 status.*
 

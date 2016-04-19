@@ -470,9 +470,8 @@ and made part of the FHISO Manual.
 There shall be no fewer than two officers of the Technical Standing
 Committee; their titles and duties are set forth below. The Board may
 appoint and/or remove additional members to the TSC in order to ensure
-sufficient expertise or representation from FHISO's Membership Regions.
-These are known as TSC Special Members. The Technical Standing
-Committee reports to the Board.
+sufficient expertise or regional diversity. These are known as TSC
+Special Members. The Technical Standing Committee reports to the Board.
 
 #### 10.2.1 Technical Standing Committee Coordinator
 
@@ -533,9 +532,8 @@ and made part of the FHISO Manual.
 There shall be no fewer than two officers of the Membership Standing
 Committee; their titles and duties are set forth below. The Board may
 appoint and/or remove additional members to the MSC in order to ensure
-sufficient expertise or representation from FHISO's Membership Regions.
-These are known as MSC Special Members. The Membership Standing
-Committee reports to the Board.
+sufficient expertise or regional diversity. These are known as MSC
+Special Members. The Membership Standing Committee reports to the Board.
 
 #### 10.3.1 Membership Standing Committee Coordinator
 

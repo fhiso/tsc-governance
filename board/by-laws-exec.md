@@ -5,10 +5,10 @@ date: 20 March 2016 (Draft)
 Bylaws of Family History Information Standards Organisation, Inc.
 =================================================================
 
-*This is **draft** version of FHISO's bylaws including modifications to
-remove the Executive Commitee.  It has no official status.*
-
-*Based on the bylaws as modified on 6 March 2016.*
+*This is **draft** version of FHISO's bylaws shown <a
+href="//fhiso.org/minutes/2016-04-19#MotionA">motion A from the 19 April
+Board meeting</> to abolish the Executive Committee, as applied to the
+bylaws as amended on 6 March.  It has no official status.*
 
 Article 1: Name
 ---------------

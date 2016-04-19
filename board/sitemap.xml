@@ -7,18 +7,30 @@
 
   <page name="by-laws" versioned="1"
         src="tsc-governance/board/by-laws.md" 
-        title="By-Laws" />
+        title="Bylaws" />
 
   <page name="by-laws-exec" versioned="1"
         src="tsc-governance/board/by-laws-exec.md" 
-        title="By-Laws (draft: Exec Ctte)" />
+        title="Bylaws (draft: Motion A)" />
 
   <page name="by-laws-meeting" versioned="1"
         src="tsc-governance/board/by-laws-meetings.md" 
-        title="By-Laws (draft: Board Meetings)" />
+        title="Bylaws (draft: Motion B)" />
+
+  <page name="by-laws-regions" versioned="1"
+        src="tsc-governance/board/by-laws-regions.md" 
+        title="Bylaws (draft: Motion C)" />
+
+  <page name="by-laws-tsc" versioned="1"
+        src="tsc-governance/board/by-laws-tsc.md" 
+        title="Bylaws (draft: Motion D)" />
+
+  <page name="by-laws-standards" versioned="1"
+        src="tsc-governance/board/by-laws-standards.md" 
+        title="Bylaws (draft: Motion E)" />
 
   <page name="by-laws-board" versioned="1"
         src="tsc-governance/board/by-laws-board.md" 
-        title="By-Laws (draft: Board Roles)" />
+        title="Bylaws (draft: Roles)" />
 </site>
 

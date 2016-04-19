@@ -578,6 +578,30 @@ Committee, together with rules for operation and guidance (collectively,
 Charters are filed with the Secretary, and become part of the FHISO
 Manual.
 
+Article 10A: Ratification of Standards
+--------------------------------------
+
+At the recommendation of the Technical Standing Commitee, each
+recommended standard shall be made available to the general public and
+its recommended status shall be announced to the FHISO membership and
+the general public.
+
+A recommended standard does not become a standard until approved by a
+vote of the general FHISO membership. These votes are administered by
+the Board in accordance with policies on who may vote given in Articles
+4 and 5; the Board may optionally produce an additional Vote
+Administration Policy to clarify the voting process. The vote should be
+scheduled no less than 60 days after the recommended policy’s
+recommended status was announced to the FHISO membership and no more
+than 365 days after it became a recommended standard.
+
+If the recommended standard passes by a simple majority of the votes
+cast, it shall become a full standard and be returned to the Technical
+Standing Committee to be published and maintained, following the process
+outlined in the Technical Standing Committee Charter. If it does not
+pass by a simple majority it shall be identified as a “rejected standard
+proposal” and published along with the results of the vote.
+
 Articles 11–13: [Deleted]
 -------------------------
 

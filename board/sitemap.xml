@@ -9,10 +9,6 @@
         src="tsc-governance/board/by-laws.md" 
         title="Bylaws" />
 
-  <page name="by-laws-standards" versioned="1"
-        src="tsc-governance/board/by-laws-standards.md" 
-        title="Bylaws (draft: Motion E)" />
-
   <page name="by-laws-board" versioned="1"
         src="tsc-governance/board/by-laws-board.md" 
         title="Bylaws (draft: Roles)" />

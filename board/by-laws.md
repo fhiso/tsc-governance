@@ -443,29 +443,33 @@ Directors.
 
 ### 10.2 FHISO Technical Standing Committee
 
-The Technical Standing Committee coordinates its activities with the
-Board in order to achieve FHISO's mission, purpose, and scope.
+The Technical Standing Committee (TSC) is responsible for coordinating
+work towards FHISO’s technical goals.
 
 The committee
 
-a.  determines the requirements for (scope of work, deliverables, time
-    and resource requirements) for all Technical Project work;
-b.  initiates or approves all Technical Project work
-c.  oversees all technical work
-d.  directs and/or develops and maintains requisite Project Team
-    Directives
-e.  may appoint Coordinators and other Project Team members and assigns
-    other roles as appropriate
-f.  suspends or dissolves Technical Project Teams
-g.  is responsible for resolving issues of coordination involving
-    Technical Project Teams
-h.  monitors and, as practical, arranges support for the implementation
-    of FHISO standards.
+a.  determines the overall strategy for technical work, which is
+    reviewed by the Board and made available to the general membership;
+b.  determines the requirements for all technical work, including the
+    scope of work, expected deliverables, time and resource
+    requirements; and
+c.  determines technical priorities unless the Board determines
+    otherwise, either on their own or following an appeal from members
+    per Article 18.
 
-The Technical Standing Committee Charter and its rules for operations
-and guidance (the "Technical Standing Committee Operations and Policy
-Manual") are subject to approval by the Board, filed with the Secretary
-and made part of the FHISO Manual.
+Additional roles of the Technical Standing Committee are documented
+in the Technical Standing Committee Charter, including
+
+d.  defining of technical processes and policies;
+e.  overseeing all technical work;
+f.  assigning technical leadership roles to FHISO members as
+    appropriate;
+g.  defining which roles provide membership of the Technical Standing
+    Committee beyond those outlined in these by-laws; and 
+h.  recommending proposed standards for ratification under Article 10A.
+
+The Technical Standing Committee Charter is subject to approval by the
+Board.
 
 There shall be no fewer than two officers of the Technical Standing
 Committee; their titles and duties are set forth below. The Board may
@@ -477,11 +481,9 @@ Special Members. The Technical Standing Committee reports to the Board.
 
 a.  Chair meetings of the Technical Standing Committee;
 b.  Oversee and report regularly to the Board about all standardisation
-    and specification work, Technical Projects and Technical Project
-    Team activities. As directed by the Chair, report about such
-    activities to the membership;
-c.  Administer the Technical Standing Committee Charter, and its
-    Operations and Policy Manual;
+    and specification work, and other technical activities.  As directed
+    by the Chair, report about such activities to the membership;
+c.  Administer the Technical Standing Committee Charter;
 d.  Work with the Membership Standing Committee Coordinator to ensure a
     full range of global standardisation and technical competency is
     available to FHISO;
@@ -491,9 +493,9 @@ d.  Work with the Membership Standing Committee Coordinator to ensure a
 a.  Chairs Technical Standing Committee meetings in the absence of the
     Coordinator;
 b.  Ensures records are maintained reporting the activities of the
-    Technical Standing Committee and associated Technical Project Teams.
-    These duties may be delegated to a Technical Standing Committee
-    Recorder, under the direction or management of the co-coordinator.
+    Technical Standing Committee and other technical activities.  These
+    duties may be delegated to a Technical Standing Committee Recorder,
+    under the direction or management of the co-coordinator.
 
 Those serving as Technical Standing Committee Coordinator and
 Co-Coordinator will preferably be members from different regions of the

@@ -57,7 +57,7 @@
 
       <page name="creators-name" versioned="1"
             src="sources-and-citations/creators-name.md"
-            title="Creators Name" />
+            title="Creator's Names" />
     </directory>
 
     <directory name="cceg" title="Core Concepts">

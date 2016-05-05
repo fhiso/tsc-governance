@@ -157,7 +157,7 @@ elements.
 
 Our [Sources & Citations Exploratory Group](/egs/sceg) (S&CEG) spent a
 considerable time looking at [layered
-citations](/egs/lexeg/snapshot#layered citation.md) &mdash; citations of
+citations](/egs/lexeg/snapshot#layered-citation) &mdash; citations of
 sources which are derivatives of another source, for example a
 transcription made from a microfilm of a parish register.  Such
 derivation information is beyond the initial scope of our citation

@@ -432,10 +432,10 @@ the member's return is given to the Chair.  In the case of a sabbatical
 by the Chair, notice shall be given to the Vice-chair.  A Board Member
 on sabbatical shall be deemed absent for purpose of Section 8.2 of these
 Bylaws, and any duties not otherwise reassigned by these Bylaws may be
-reassigned to other members of the Board the duration of the sabbatical
-as the Board sees fit.  A Board Member on sabbatical may participate in
-all Board activities and retains full voting rights during a sabbatical,
-but is not counted when determining the quorum for Board Meetings.  
+reassigned amongst the Board for the duration of the sabbatical as the
+Board sees fit.  A Board Member on sabbatical may participate in all
+Board activities and retains full voting rights, but is not counted when
+determining the quorum for Board Meetings.  
 
 Article 9A: Budget
 ------------------

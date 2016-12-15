@@ -1,6 +1,6 @@
 ---
 title: Bylaws of Family History Information Standards Organisation, Inc.
-date: 19 April 2016
+date: 7 December 2016
 ...
 Bylaws of Family History Information Standards Organisation, Inc.
 =================================================================
@@ -9,7 +9,7 @@ Bylaws of Family History Information Standards Organisation, Inc.
 website](http://fhiso.org/by-laws/).  This unofficial version exists
 so that versions can be produced in other formats.*
 
-*Enacted on 1 September 2013, and last updated on 19 April 2016.*
+*Enacted on 1 September 2013, and last updated on 7 December 2016.*
 
 Article 1: Name
 ---------------
@@ -377,7 +377,7 @@ Directors of the Organisation.
 
 The Board shall hold meetings at least quarterly. Meetings shall be
 called as agreed at previous Board Meetings, or upon the request of the
-Chair or one-third of the Board.
+Chair, Vice-chair or one-third of the Board.
 
 ### 9.9 [Deleted]
 
@@ -392,10 +392,11 @@ Board members in attendance.
 
 ### 9.11 Quorum of the Board
 
-Three-fifths (3/5) of the voting members of the Board shall constitute a
-quorum for transacting business at any meeting, except that if a quorum
-is not present at a meeting, a majority of the voting Board members
-present may adjourn the meeting to another time without notice.
+Three-fifths of those voting members of the Board who are not taking a
+sabbatical shall constitute a quorum for transacting business at any
+meeting, except that if a quorum is not present at a meeting, a majority
+of the voting Board members present may adjourn the meeting to another
+time without notice.
 
 ### 9.12 Majority Vote
 
@@ -406,18 +407,36 @@ at which a quorum exists.
 
 ### 9.13 Board Action by Written Consent Without a Meeting
 
-Unless otherwise restricted by law, the Articles of Incorporation or
-these Bylaws, any action which is required to be or may be taken at a
-meeting of the Board of Directors may be taken without a meeting if
-three-fifths of the voting members of the Board consent to the action in
-writing or by email.
+Any action which may be taken by majority vote at a Board Meeting may be
+taken without a meeting provided that:
+
+a.  a written proposal is made available to all Board members;
+b.  written consent is received from sufficient Board members to
+    constitute a quorum; and
+c.  no request is made under Section 9.8 of these Bylaws to hold a Board
+    Meeting to discuss the proposed action.
 
 ### 9.14 Attendance
 
 Board Members are expected to attend meetings of the Board of Directors.
 Any Officer or Director who is absent from three consecutive regular
-meetings of the Board shall give cause for removal under Section 9.5 of
-these Bylaws.
+meetings of the Board shall be deemed to be on sabbatical unless the
+Board determines otherwise, and may give cause for removal under Section
+9.5 of these Bylaws.
+
+### 9.15  Sabbaticals
+
+A Board Member may take a sabbatical from FHISO at any time by giving
+written notice to the Chair or as provided in §9.14, which shall last
+until written notice of the member's return is given to the Chair.  In
+the case of a sabbatical by the Chair, notice shall be given to the
+Vice-chair.  A Board Member on sabbatical shall be deemed absent for
+purpose of Section 8.2 of these Bylaws, and any duties not otherwise
+reassigned by these Bylaws may be reassigned amongst the Board for the
+duration of the sabbatical as the Board sees fit.  A Board Member on
+sabbatical may participate in all Board activities and retains full
+voting rights, but is not counted when determining the quorum for Board
+Meetings.
 
 Article 9A: Budget
 ------------------

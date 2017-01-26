@@ -10,10 +10,6 @@
         title="Bylaws" />
 
   <page name="by-laws-board" versioned="1"
-        src="tsc-governance/board/by-laws-sabbaticals.md" 
-        title="Bylaws (draft: Sabbaticals)" />
-
-  <page name="by-laws-board" versioned="1"
         src="tsc-governance/board/by-laws-board.md" 
         title="Bylaws (draft: Roles)" />
 </site>

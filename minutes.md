@@ -1,6 +1,17 @@
 Minutes of the Technical Standing Committee
 ===========================================
 
+**2016-04-19** Proposed and had passed
+[a motion](http://fhiso.org/minutes/2016-04-19/#MotionE) at the Board
+Meeting to add by-laws material regarding the ratification of standards
+(which was previously in the O&PM but should not be within the scope of
+the TSC to change).
+
+**2016-04-19** Proposed and had passed
+[a motion](http://fhiso.org/minutes/2016-04-19/#MotionD) at the Board
+Meeting to remove reference to details of technical governance, such as
+the O&PM and Project Teams.
+
 **2016-03-22** Suspended the [S&CEG](/egs#sources) in order to focus on
 our [priorities](/priorities) in a "committee of the whole" per our 
 [interim governance structure](/governance).

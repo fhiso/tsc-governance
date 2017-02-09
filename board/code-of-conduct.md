@@ -10,7 +10,7 @@ This Code of Conduct facilitates Family History Information Standards
 Organisation’s work carried out in an international, multi-stakeholder
 environment. All members of the organisation agree to abide by the Code.
 
-##  We agree to work for the  net benefit of the international community
+##  We agree to work for the net benefit of the international community
 We recognise that the development of standards is for the net benefit of
 the international community, over and above the interests of any
 individual or organisation. We are committed to advancing standards

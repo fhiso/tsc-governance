@@ -1,12 +1,13 @@
 ---
 title: Appeals Process Policy
-date: 9 February 2017
+date: 16 March 2017
 numbersections: true
 ...
 FHISO Appeals Process Policy
 ============================
 
-*This is a **draft** of a new policy.*
+*This is a **final draft** of a new policy incorporating changes from
+the 16 March 2017 Board Meeting.*
 
 FHISO's goal, as stated in Bylaw 3.2, is to "work transparently and
 collaboratively" towards the development of "consensus-based technical
@@ -24,7 +25,7 @@ Instigating an Appeal
 Any person or persons ("the Appellants") who is dissatisified with
 actions or decisions made by individuals, committees, teams or groups
 acting as part of FHISO may instigate a formal appeal.  The appeal shall
-be filed in writing with the Chair who will
+be filed in writing with the Chair of FHISO ("the Chair") who will
 serve as Appeal Coordinator.
 
 The appeal shall identify the specific actions or decisions that are
@@ -34,15 +35,18 @@ decision.  If the Appealed Action came about as an attempt to resolve a
 dispute then the parties to original dispute shall be identified as
 Third Parties to the appeal.
 
-Appeals may alternatively be filed with the Vice-Chair who will serve as
-Appeal Coordinator if:
+Appeals may alternatively be filed with the Vice-Chair of FHISO ("the
+Vice-Chair") who will serve as Appeal Coordinator if:
 
 a.  the Chair is taking a sabbatical per Bylaw 9.15 or is otherwise
     unavailable, or the office of Chair is vacant; 
 b.  the Chair has already summarily dismissed the appeal under
     section 2 of this policy; or
-c.  if the Chair is an Appellee or was otherwise directly involved in
-    the Appealed Action.
+c.  if the Chair is an Appellee, Third Party, or was otherwise directly
+    involved in the Appealed Action.
+
+The Appeal Coordinator may delegate the roll to another member of the
+Board of Directors, subject to a majority vote by the Board.
 
 Summary Dismissal of Appeals
 ----------------------------
@@ -137,8 +141,8 @@ Consideration of the Appeal
 
 The Appeal Committee shall consider the appeal filed by the Appellants
 and the responses received from other Parties to the Appeal.  The Appeal
-Committee may structure their consideration as by majority vote they
-deem fit.  In particular, they may:
+Committee may structure their consideration as they deem fit by majority
+vote.  In particular, they may:
 
 a.  seek clarification or supplementary information from the Parties to
     the Appeal;
@@ -158,7 +162,7 @@ If two similar appeals are being (or would be) considered concurrently,
 they may be considered together by a single combined Appeal Committee if
 both separate Appeal Committees determine by majority vote that this
 would be expedient.  If an Appeal Committee has yet to be constituted,
-this determination is that the sole discretion of the Appeal
+this determination is at the sole discretion of the Appeal
 Coordinator.
 
 The Appeal Committee has no budget unless otherwise provided by the
@@ -193,20 +197,22 @@ c. reverse any technical decision made by the TSC except where it is
    Board policy, the TSC Charter, the Bylaws and Articles of
    Incorporation of FHISO, or applicable law.
 
-If in the circumstances enumerated above it is the decision of the
-Appeal Committee that a technical decision by the TSC or a policy
-decision by the Board needs reversing, the Appeal Committee shall direct
-the TSC or Board to reconsider their decision, and may specify the
-process to be followed or what additional facts or views to take into
-account when reconsidering the decision, but shall not determine the
-result of that reconsideration.
+Except in appeals considered by the full Board, if the Appeal Committee
+find that a technical decision by the TSC or a policy decision by the
+Board needs reversing, the Appeal Committee shall direct the TSC or
+Board to reconsider their decision, and may specify the process to be
+followed or what additional facts or views to take into account when
+reconsidering the decision, but shall not determine the result of that
+reconsideration.  In the case of technical decisions by the TSC, the
+Appeal Committee may alternatively refer the matter to the full Board
+who have the authority to overrule technical decisions made by the TSC.
 
 In extreme circumstances, the Appeal Committee may by two-thirds vote
-apply such sanctions as are deemed apporpriate against a person who is a
+apply such sanctions as are deemed appropriate against a person who is a
 Party to the Appeal.  For the purpose of determining whether a
 two-thirds vote is required, a sanction is defined as any decision that
 restricts a person's future activities or interactions with FHISO; the
-Appeal Coordinator's interpretation in this matter is final.  Available
+Appeal Coordinator's interpretation of this definition is final.  Available
 sactions include restricting the activies they may participate in or the
 manner of their participation, determining them no longer to be "in good
 standing" for the purpose of Bylaw 5.1, or removing their right to

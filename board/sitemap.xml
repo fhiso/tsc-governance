@@ -5,19 +5,19 @@
         src="tsc-governance/board/appeals.md" 
         title="Appeals Process Policy" />
 
-  <page name="articles" versioned="1"
+  <page name="articles" versioned="1" upload="1"
         src="tsc-governance/board/articles.md" 
         title="Articles of Incorporation" />
 
-  <page name="by-laws" versioned="1"
+  <page name="by-laws" versioned="1" upload="1"
         src="tsc-governance/board/by-laws.md" 
         title="Bylaws" />
 
-  <page name="code-of-conduct" versioned="1"
+  <page name="code-of-conduct" versioned="1" upload="1"
         src="tsc-governance/board/code-of-conduct.md" 
         title="Code of Conduct" />
 
-  <page name="appeals" versioned="1"
+  <page name="appeals" versioned="1" upload="1"
         src="tsc-governance/board/appeals.md" 
         title="Appeals Process Policy" />
 </site>

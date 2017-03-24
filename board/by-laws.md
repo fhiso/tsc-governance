@@ -5,15 +5,8 @@ date: 16 March 2017
 Bylaws of Family History Information Standards Organisation, Inc.
 =================================================================
 
-*The official version of FHISO's bylaws are on the [FHISO
-website](http://fhiso.org/by-laws/).  This **unofficial version** exists
- for convenience in those circumstances in which a
-[markdown](https://daringfireball.net/projects/markdown/) version is
-useful.  This is an **old version** of that.*
-
 *Enacted on 1 September 2013, and last updated on [16 March
-2017](http://fhiso.org/minutes/2016-12-07/) from the [7 December 2016
-version](by-laws-20161207).*
+2017](http://fhiso.org/minutes/2016-12-07/).*
 
 Article 1: Name
 ---------------

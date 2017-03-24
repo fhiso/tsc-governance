@@ -1,10 +1,6 @@
 <site title="Board">
   <index src="tsc-governance/board/board.md" />
    
-  <page name="appeals" versioned="1"
-        src="tsc-governance/board/appeals.md" 
-        title="Appeals Process Policy" />
-
   <page name="articles" versioned="1" upload="1"
         src="tsc-governance/board/articles.md" 
         title="Articles of Incorporation" />

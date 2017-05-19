@@ -32,9 +32,13 @@
   <directory name="drafts" title="Drafts">
     <index src="tsc-governance/drafts.md" />
 
-    <page name="citation-gedcomx-bindings" versioned="1"
+    <page name="cev-gedcomx-bindings" versioned="1"
           src="sources-and-citations/gedcomx-bindings.md"
           title="Citations: GEDCOM X" />
+
+    <page name="elf-tag-list" versioned="1"
+          src="legacy-format/tag-list.md"
+          title="ELF: Lineage-Linked Form" />
   </directory>
 
   <directory name="policies" title="Policies">

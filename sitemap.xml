@@ -32,7 +32,7 @@
   <directory name="drafts" title="Drafts">
     <index src="tsc-governance/drafts.md" />
 
-    <page name="cev-gedcomx-bindings"
+    <page name="citation-gedcomx-bindings" versioned="1"
           src="sources-and-citations/gedcomx-bindings.md"
           title="Citations: GEDCOM X" />
   </directory>

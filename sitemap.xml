@@ -29,6 +29,14 @@
         src="tsc-governance/priorities.md" 
         title="Priorities" />
 
+  <directory name="drafts" title="Drafts">
+    <index src="tsc-governance/drafts.md" />
+
+    <page name="cev-gedcomx-bindings"
+          src="sources-and-citations/gedcomx-bindings.md"
+          title="Citations: GEDCOM X" />
+  </directory>
+
   <directory name="policies" title="Policies">
     <index src="tsc-governance/policies.md" />
 

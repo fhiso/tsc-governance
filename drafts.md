@@ -9,7 +9,7 @@ citations and legacy data formats.
 * Citation Elements: Concepts
 * Citation Elements: Vocabulary
 * [Citation Elements: GEDCOM X Bindings](cev-gedcomx-bindings)
+* [Citation Elements: RDFa Bindings](cev-rdfa-bindings)
 * Citation Elements: ELF Bindings
-* Citation Elements: RDFa Bindings
 
 

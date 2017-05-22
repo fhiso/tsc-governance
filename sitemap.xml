@@ -34,7 +34,11 @@
 
     <page name="cev-gedcomx-bindings" versioned="1"
           src="sources-and-citations/gedcomx-bindings.md"
-          title="Citations: GEDCOM X" />
+          title="Citations in GEDCOM X" />
+
+    <page name="cev-rdfa-bindings" versioned="1"
+          src="sources-and-citations/rdfa-bindings.md"
+          title="Citations in RDFa" />
 
     <page name="elf-tag-list" versioned="1"
           src="legacy-format/tag-list.md"

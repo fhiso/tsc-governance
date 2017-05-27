@@ -6,7 +6,7 @@ citations and legacy data formats.
 
 * Extended Legacy Format (ELF): Generic Syntax
 * [Extended Legacy Format (ELF): Lineage-Linked Form](elf-tag-list)
-* Citation Elements: Concepts
+* [Citation Elements: Concepts](cev-concepts)
 * Citation Elements: Vocabulary
 * Citation Elements: GEDCOM X Bindings
 * [Citation Elements: RDFa Bindings](cev-rdfa-bindings)

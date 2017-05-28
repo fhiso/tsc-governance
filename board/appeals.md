@@ -6,7 +6,7 @@ numbersections: true
 FHISO Appeals Process Policy
 ============================
 
-*Approved by the FHISO Board and published on 28 August 2014.*
+*Approved by the FHISO Board and published on 16 March 2017.*
 
 FHISO's goal, as stated in Bylaw 3.2, is to "work transparently and
 collaboratively" towards the development of "consensus-based technical

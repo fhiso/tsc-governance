@@ -1,5 +1,5 @@
-Working Drafts
-==============
+List of Public Drafts
+=====================
 
 FHISO is currently working towards a suite of standards covering
 citations and legacy data formats.

@@ -11,6 +11,10 @@
     <page name="charter" versioned="1"
           src="tsc-governance/charter.md" 
           title="Charter" />
+
+    <page name="charter" versioned="1"
+          src="tsc-governance/tech-pt.md" 
+          title="Technical Project Team" />
   </directory>
 
   <page name="tsc-public" 

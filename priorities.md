@@ -20,7 +20,7 @@ Interest and resources becoming available will generally cause a new topic to be
 The following have been identified by the TSC as the current priorities:
 
 1. Build consensus on the nature of vocabularies within future FHISO
-standards.  A [draft](/policies/vocabulary) of such a policy is
+standards.  A [draft](/policies/vocabularies) of such a policy is
 available.
 
 2. Produce a citation element vocabulary identifying the various

@@ -8,6 +8,7 @@ Charter](/charter).  The page contains an index of all such documents.
 ## [Style Guide](style) 
 Description
 :   An interim style guide covering document format. 
+
 Status
 :   Approved by the TSC on 2014-09-09.
 
@@ -15,6 +16,7 @@ Status
 Description
 :   A general policy on the preferred nature of vocabularies, such as
     the use of URIs.
+
 Status
 :   Draft for public comment.
 

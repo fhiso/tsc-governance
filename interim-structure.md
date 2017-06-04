@@ -13,7 +13,7 @@ The TSC thus proposes that we adopt a much less structured, more volunteer-based
 
 1. The structure of the TSC itself will be subject to changes in the bylaws, which are anticipated; until such time as the bylaws change and/or bylaws-specified votes for officers happen, it will continue as presently constituted.
 
-2. Technical work at FHISO will be dissolved into a [committee of the whole](/governance/tech-pt).  Technical priority and direction will be determined by the TSC, taking into consideration external opportunities, internal interest, and available resources.  Any willing participant may join the conversation and participate in the creation of technical standards.
+2. Technical work at FHISO will be dissolved into a [committee of the whole](/governance/tpt).  Technical priority and direction will be determined by the TSC, taking into consideration external opportunities, internal interest, and available resources.  Any willing participant may join the conversation and participate in the creation of technical standards.
 
 3. Individuals may be given roles within the technical process and will be considered to have ownership of their roles' assigned scope provided they remain active in fulfilling those roles.  Silences or non-participation may be deemed sufficient reason to reassign or bypass roles.
 

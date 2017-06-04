@@ -13,7 +13,7 @@
           title="Charter" />
 
     <page name="tpt" versioned="1"
-          src="tsc-governance/tech-pt.md" 
+          src="tsc-governance/tpt.md" 
           title="Technical Project Team" />
   </directory>
 

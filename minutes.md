@@ -43,7 +43,7 @@ RDFa atributes in HTML as a possible means of doing this.
    translation set to resolve problems in the data model with citation
    elements that were both translatable and multi-valued.
 
-**2016-01-31** Noted that Luther than produced a first exploratory draft
+**2017-01-31** Noted that Luther than produced a first exploratory draft
 of an ELF standard.
 
 **2016-12-27** Identified our current technical priorities to be: 

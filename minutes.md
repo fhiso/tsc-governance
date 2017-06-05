@@ -1,6 +1,79 @@
 Minutes of the Technical Standing Committee
 ===========================================
 
+**2017-05-29** Noted that Luther had produced first exploratory drafts
+of an [ELF: Serialization Format](/drafts/elf-serialization) and [ELF:
+Data Model](/drafts/elf-data-model).  These did not currently include an
+extensibility mechanism.
+
+**2017-05-25** Noted that Richard had produced a first exploratory draft
+of a [Citation Elements: General Concepts and Basic 
+Framework](/drafts/cev-concepts) standard, and had closed the
+`dev-2017-01` branch.  The draft does not currently support layererd
+citations.
+
+**2017-05-22** Noted that Richard had produced a first exploratory draft
+of a [Citation Elements: RDFa bindings](/drafts/cev-rdfa-bindings)
+standard.
+
+**2017-05-19** Noted that Richard had made available a first exploratory
+draft of a [Citation Elements: GEDCOM X
+bindings](/drafts/cev-gedcomx-bindings) standard.  Further work is
+required before becoming a public draft as this draft is based on an
+earlier version of the data model without translation sets.
+
+**2017-05-17** Held a TSC meeting by Google Hangout.  During a
+productive conversation about the serialisation of citation elements it
+was recognised that users may be reluctant to discard formatted citation
+in favour of citation element sets due to the work that goes into
+producing professional formatted citations.  Could we allow elements to
+be tagged in a formatted citation?  It was agreed to explore the use of
+RDFa atributes in HTML as a possible means of doing this.
+
+**2017-02-16** Held a TSC meeting by Google Hangout.  
+
+*  Agreed that the scope of our initial ELF standards should be limited
+   to clarifying ambiguities in GEDCOM, codifying current practice,
+   updating its presentation, and adding an extension mechanism; other
+   extensions and changes would be out of scope.  
+*  Agreed that the ELF spec should be split in two with the abstract
+   syntax and the genealogical tag list being separate standards.  
+*  Noted that Richard had made some progress on citation elements on the
+   `dev-2017-01` branch in Github, and had introduced the concept of a
+   translation set to resolve problems in the data model with citation
+   elements that were both translatable and multi-valued.
+
+**2016-01-31** Noted that Luther than produced a first exploratory draft
+of an ELF standard.
+
+**2016-12-27** Identified our current technical priorities to be: 
+
+1.  a core citation element vocabulary (CEV) standard; 
+2.  a less technical primer or overview to the CEV and its bindings; 
+3.  CEV bindings for GEDCOM X; 
+4.  CEV bindings for ELF; and 
+5.  an ELF extensibility mechanism.
+
+**2016-12-26** Proposed that FHISO develop a serialisation format that
+is backwards compatibility with current GEDCOM, but that supports an
+extensibility mechanism that would prevent different vendors' extensions
+from conflicting.  After informal discussion with the Board, the working
+name ELF (Extended Legacy Format) has been chosen for this work to avoid
+any intellectual property issues that might arise by calling it a
+version of GEDCOM.
+
+**2016-12-15** Instigated discussion with the Board regarding the how
+FHISO's present proposed technical work would fit into the wider
+genealogical ecosystem, and why vendors might choose to adopt our work.
+
+**2016-11-11** Held a phone meeting to try to kick-start development
+again, and to remind ourselves where we had reached.
+
+**2016-05-09**
+[Announced](/pipermail/tsc-public_fhiso.org/2016-May/005022.html)
+a first exploratory draft of the introduction to the Citation Element
+Vocabulary standard, giving details of the data model.
+
 **2016-04-19** Proposed and had passed
 [a motion](http://fhiso.org/minutes/2016-04-19/#MotionE) at the Board
 Meeting to add by-laws material regarding the ratification of standards
@@ -16,7 +89,8 @@ the O&PM and Project Teams.
 our [priorities](/priorities) in a "committee of the whole" per our 
 [interim governance structure](/governance).
 
-**2016-02-17** [Announced](//fhiso.org/pipermail/tsc-public_fhiso.org/2016-February/002113.html) 
+**2016-02-17**
+[Announced](/pipermail/tsc-public_fhiso.org/2016-February/002113.html)
 our [interim governance structure](/governance) which will apply as 
 we work towards our new [priorities](/priorities).
 
@@ -42,12 +116,15 @@ made available in both HTML and PDF formats".
 
 **2015-11-27** Noted that the [27 November Board
 meeting](/aboutfhiso/fhiso-board/minutes/2015-11-27/), in consultation
-with the TSC, recommended: that the TSC should produce a short high-level
-strategy paper; that technical work should focus on narrow citations
-standards covering vocabularies for textual citation elements and, less
-pressingly, describing source derivation; that the TSC should draft
-a general policy on the preferred nature of vocabularies, such as the
-use of URIs; and that these TSC minutes should be made public.
+with the TSC, recommended: 
+
+*  that the TSC should produce a short high-level strategy paper; 
+*  that technical work should focus on narrow citations standards
+   covering vocabularies for textual citation elements and, less
+   pressingly, describing source derivation; 
+*  that the TSC should draft a general policy on the preferred nature of
+   vocabularies, such as the use of URIs; and 
+*  that these TSC minutes should be made public.
 
 **2015-11-22** Deployed the new [technical
 website](http://tech.fhiso.org/).
@@ -93,9 +170,11 @@ Citations EG](/egs#sources).
 work](/pipermail/core-concepts_fhiso.org/2015-January/000254.html).
 
 **2015-01-06** Noted that the Board, in consultation with the TSC, have
-recommended the prioritisation of three areas of technical work: (1)
-further standardisation of GEDCOM and/or GEDCOM-X; (2) a new sources and
-citations standard; (3) a new research transfer format. 
+recommended the prioritisation of three areas of technical work: 
+
+1. further standardisation of GEDCOM and/or GEDCOM-X; 
+2. a new sources and citations standard; 
+3. a new research transfer format. 
 
 **2014-11-26** Noted a commitment from Nick Hall to work on the [Sources
 & Citations EG](/egs#sources).

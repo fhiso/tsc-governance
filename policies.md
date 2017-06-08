@@ -18,7 +18,7 @@ Description
     the use of URIs.
 
 Status
-:   Draft for public comment.
+:   Approved by the TSC on 2017-06-08.
 
 The TSC normally publish policies in draft form on the [tsc-public
 mailing list](/tsc-public) before approving them to get feedback from

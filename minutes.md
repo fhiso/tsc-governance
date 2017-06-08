@@ -1,6 +1,14 @@
 Minutes of the Technical Standing Committee
 ===========================================
 
+**2017-06-08** Approved [vocabularies policy](/policies/vocabularies) as
+a FHISO technical policy, and an updated [priorities](/priorities)
+document as a non-binding indication of the TSC's current direction.
+Also approved the creation of a [Technical Project
+Team](/governance/tpt) as a formal means of allowing the current
+exploratory work to continue into the project development phase in a
+"committee of the whole".
+
 **2017-05-29** Noted that Luther had produced first exploratory drafts
 of an [ELF: Serialization Format](/drafts/elf-serialization) and [ELF:
 Data Model](/drafts/elf-data-model).  These did not currently include an

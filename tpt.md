@@ -18,7 +18,7 @@ governance](/governance), technical work will be dissolved into a
 *committee of the whole* under the leadership of the TSC.  For the
 purpose of the [Operations and Policy Manual (O&PM)](/governance/opm)
 and [Charter](/governance/charter), this committee of the whole is a
-Project Team caled the Technical Project Team (TPT).  It is tasked with
+Project Team called the Technical Project Team (TPT).  It is tasked with
 carrying out project development work, as defined in §1.3 of the O&PM,
 into such areas as the TSC shall from time to time determine.
 

@@ -12,6 +12,8 @@ expanded.
 
 *Approved by the TSC on 9 September 2014, and amended 7 December 2015.*
 
+***This file contains unapproved changes.***
+
 Document Format
 ---------------
 
@@ -36,3 +38,12 @@ transfer correctly between platforms.
 
 FHISO standards will normally be made available in both HTML and PDF
 formats.
+
+Spelling
+--------
+
+FHISO standards and other formal documents should be written in British
+English.  This to reinforce that although FHISO is domiciled in the
+United States, its ethos is not US-centric.  Words like "organise" and
+"serialise" which may be spelt with either an 's' or 'z' in British
+English should be spelt with an 's'.

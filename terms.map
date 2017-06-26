@@ -1,22 +1,30 @@
+# ** Warning: This is updated automatically from Github every 20 mins. **
+# ** The master copy lives in the fhiso/tsc-governance repository.   **
+
 # This file is a map from terms on http://terms.fhiso.org/ to 
 # documentation URLs on http://tech.fhiso.org/. 
-
+#
+# The relevant bit of Apache config that reads it is this:
+#
+#       Header always set Cache-Control "max-age=3600" env=limitcache
+#       Header always set Vary          "Accept"
+#
+#       RewriteEngine on
+#       RewriteMap table "txt:/home/techsite/terms.map"
+#       RewriteCond "${table:%{REQUEST_URI}|NF}" "!=NF"
+#       RewriteRule .* \
+#               "%{REQUEST_SCHEME}://tech.fhiso.org${table:%{REQUEST_URI}}" \
+#               [NE,L,R=303,E=limitcache:1]
+#
 # It's processed by mod_write's RewriteMap directive, 
-# so the format is pair of paths per line.
+# so the format is pair of paths per line.  
 
-# ** Warning: It is updated automatically from Github every 20 mins. **
-
-# Defined in /drafts/cev-concepts
 
 /sources/derivedFrom          /drafts/cev-concepts#layer-derivation
 /sources/translatedElement    /drafts/cev-concepts#list-flattening
 
-# Defined in /drafts/cev-rdfa-bindings
-
 /sources/Source               /drafts/cev-rdfa-bindings#source-type-elts
 /sources/CitedSource          /drafts/cev-rdfa-bindings#head-layer
-
-# Defined in /egs/sceg/creators-name
 
 /type/CreatorsNameList	/egs/sceg/creators-name#CreatorsNameList
 /type/CreatorsName	/egs/sceg/creators-name#CreatorsName

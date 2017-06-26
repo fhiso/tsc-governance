@@ -17,6 +17,7 @@ Established exploratory groups {#established}
 Status
 :   Proposed by the TSC on 2014-08-15 and created on 2015-04-10
     **Suspended** as of 2016-03-22.
+
 Mission
 :   To cary out exploratory work regarding data representation of
     information about and information contained within individual
@@ -27,6 +28,7 @@ Mission
 
 Status
 :   Proposed by Tony Proctor on 2014-08-26 and created on 2014-10-02.
+
 Mission
 :   To produce a lexicon of common usage and best practices for
     genealogical terminology in the English language. [[See
@@ -37,6 +39,7 @@ Mission
 Status
 :   Proposed by the TSC on 2014-08-15 and created on 2014-09-23.
     **Suspended** as of 2015-06-19.
+
 Mission
 :   To carry out exploratory work into the core genealogical concepts
     pertaining to persons, their intrinsic and extrinsic properties, the
@@ -50,6 +53,7 @@ Proposed exploratory groups {#proposed}
 
 Status
 :   Proposed by the TSC on 2014-08-15
+
 Focus
 :   It will be necessary to have separate project teams working on
     different aspects of the proposed standard, but is it best to
@@ -66,6 +70,7 @@ Focus
 
 Status
 :   Proposed by the TSC on 2014-08-15
+
 Focus
 :   We will need a way of describing our data model: what should it be?
     Should we think about objects with a list of properties as in a SQL

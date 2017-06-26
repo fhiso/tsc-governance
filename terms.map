@@ -4,7 +4,19 @@
 # It's processed by mod_write's RewriteMap directive, 
 # so the format is pair of paths per line.
 
-# ** Warning: It is updated automatically from Github hourly. **
+# ** Warning: It is updated automatically from Github every 20 mins. **
+
+# Defined in /drafts/cev-concepts
+
+/sources/derivedFrom          /drafts/cev-concepts#layer-derivation
+/sources/translatedElement    /drafts/cev-concepts#list-flattening
+
+# Defined in /drafts/cev-rdfa-bindings
+
+/sources/Source               /drafts/cev-rdfa-bindings#source-type-elts
+/sources/CitedSource          /drafts/cev-rdfa-bindings#head-layer
+
+# Defined in /egs/sceg/creators-name
 
 /type/CreatorsNameList	/egs/sceg/creators-name#CreatorsNameList
 /type/CreatorsName	/egs/sceg/creators-name#CreatorsName

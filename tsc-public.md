@@ -6,7 +6,8 @@ technical work of the FHISO.   Comments on [paper submissions](cfps/papers),
 the work of the [Technical Standing Committee](/) (TSC), and the creation of
 future [exploratory groups](egs) (EGs) are all appropriate for this list, as
 are comments of a more general nature.  Previous posts to tsc-public can be
-read in the [list archives](http://fhiso.org/pipermail/tsc-public_fhiso.org/).
+read in the 
+[**list archives**](http://fhiso.org/pipermail/tsc-public_fhiso.org/).
 
 You do not have to be a member of FHISO to 
 [**subscribe**](http://fhiso.org/mailman/listinfo/tsc-public_fhiso.org).

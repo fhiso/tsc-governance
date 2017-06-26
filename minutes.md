@@ -1,6 +1,15 @@
 Minutes of the Technical Standing Committee
 ===========================================
 
+**2017-06-13** Noted from the 
+[13 June Board meeting](/fhiso-board/minutes/2017-06-13/):
+
+*  that the Board agrees it is not necessary to announce formally the creation
+   of the [Technical Project Team](/governance/tpt);
+*  that the TSC should release first drafts of standards for public
+   comment as and when they became ready, rather than waiting and
+   releasing a large batch all together.
+
 **2017-06-08** Approved [vocabularies policy](/policies/vocabularies) as
 a FHISO technical policy, and an updated [priorities](/priorities)
 document as a non-binding indication of the TSC's current direction.
@@ -83,13 +92,13 @@ a first exploratory draft of the introduction to the Citation Element
 Vocabulary standard, giving details of the data model.
 
 **2016-04-19** Proposed and had passed
-[a motion](http://fhiso.org/minutes/2016-04-19/#MotionE) at the Board
+[a motion](/fhiso-board/minutes/2016-04-19/#MotionE) at the Board
 Meeting to add by-laws material regarding the ratification of standards
 (which was previously in the O&PM but should not be within the scope of
 the TSC to change).
 
 **2016-04-19** Proposed and had passed
-[a motion](http://fhiso.org/minutes/2016-04-19/#MotionD) at the Board
+[a motion](/fhiso-board/minutes/2016-04-19/#MotionD) at the Board
 Meeting to remove reference to details of technical governance, such as
 the O&PM and Project Teams.
 
@@ -123,7 +132,7 @@ guide](/policies/style) to say that "FHISO standards will normally be
 made available in both HTML and PDF formats".
 
 **2015-11-27** Noted that the [27 November Board
-meeting](/aboutfhiso/fhiso-board/minutes/2015-11-27/), in consultation
+meeting](/fhiso-board/minutes/2015-11-27/), in consultation
 with the TSC, recommended: 
 
 *  that the TSC should produce a short high-level strategy paper; 

@@ -1,6 +1,27 @@
 Minutes of the Technical Standing Committee
 ===========================================
 
+**2017-06-26** Agreed that the 
+[Citation Elements: General Concepts](/drafts/cev-concepts) and 
+[Citation Elements: RDFa bindings](/drafts/cev-rdfa-bindings) drafts
+were ready for public review.
+
+**2017-06-13** Held a TSC meeting by Google Hangout.  Discussion focused
+on certain details of the [ELF Serialization](/drafts/elf-serialization)
+draft, which now includes an extensibility mechanism.  It was agreed:
+
+*  that the order of tags should not be significant except where GEDCOM
+   attaches significance to them so that a GEDCOM parser can read, edit
+   and write ELF;
+*  that we should have a consistent definition of a string throughout
+   our standards;
+*  that applications must be flexible about whitespace when reading ELF,
+   but strict when writing it;
+*  that there should be a general escape mechanism for escaping
+   characters in ELF; and
+*  that payloads must not be whitespace normalised at the serialisation
+   layer.
+
 **2017-06-13** Noted from the 
 [13 June Board meeting](/fhiso-board/minutes/2017-06-13/):
 

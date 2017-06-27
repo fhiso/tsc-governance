@@ -38,15 +38,15 @@
 
     <page name="cev-concepts" versioned="1"
           src="sources-and-citations/citation-elements.md"
-          title="Citations: Concepts" />
+          title="Citation Elements: Concepts" />
 
     <page name="cev-gedcomx-bindings" versioned="1" unlinked="1"
           src="sources-and-citations/gedcomx-bindings.md"
-          title="Citations in GEDCOM X" />
+          title="Citation Elements: GEDCOM X" />
 
     <page name="cev-rdfa-bindings" versioned="1"
           src="sources-and-citations/rdfa-bindings.md"
-          title="Citations in RDFa" />
+          title="Citation Elements: RDFa" />
 
     <page name="elf-serialization" versioned="1" unlinked="1"
           src="legacy-format/serialization.md"

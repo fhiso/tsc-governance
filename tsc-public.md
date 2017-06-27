@@ -2,17 +2,21 @@ tsc-public mailing list
 =======================
 
 The **tsc-public** mailing list is a place for general discussion on the
-technical work of the FHISO.   Comments on [paper submissions](cfps/papers),
-the work of the [Technical Standing Committee](/) (TSC), and the creation of
-future [exploratory groups](egs) (EGs) are all appropriate for this list, as
-are comments of a more general nature.  Previous posts to tsc-public can be
-read in the 
-[**list archives**](http://fhiso.org/pipermail/tsc-public_fhiso.org/).
+technical work of the FHISO.   At the moment, we particularly welcome 
+comments or feedback on our current [draft standards](/drafts).
 
-You do not have to be a member of FHISO to 
-[**subscribe**](http://fhiso.org/mailman/listinfo/tsc-public_fhiso.org).
-We ask only that everyone obeys FHISO's 
-[code of conduct](http://fhiso.org/aboutfhiso/code-of-conduct/).
+You do not have to be a member of FHISO to
+[**subscribe**](http://fhiso.org/mailman/listinfo/tsc-public_fhiso.org).  We
+ask only that everyone obeys FHISO's [code of
+conduct](http://fhiso.org/aboutfhiso/code-of-conduct/).
+Previous posts to tsc-public can be read in the [**list
+archives**](http://fhiso.org/pipermail/tsc-public_fhiso.org/).
+
+Discussion of [paper submissions](cfps/papers), our
+[priorities](/priorities), and the creation of future [exploratory
+groups](egs) (EGs) are all appropriate for this list, as are comments of
+a more general nature.  
+
 
 Guidelines on list usage 	{#guidelines}
 ------------------------

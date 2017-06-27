@@ -1,22 +1,26 @@
 Technical Work
 ==============
 
-FHISO's mission is to develop **open** and **international** standards
-to benefit the genealogical community.
+The mission of the [Family History Information Standards
+Organisation](//fhiso.org) (FHISO) is to develop **open** and
+**international standards** to benefit the genealogical community.
 
-The FHISO Technical Standing Committee (TSC) is responsible for
-coordinating the organisation's technical work through an open,
-consensus-based, collaborative standards process.
+Our current focus is a suite of standards on [**Citation
+Elements**](/drafts#cev) to provide an extensible framework and
+vocabulary for encoding information about genealogical sources that
+normally appears in formatted citations.  These standards will include
+bindings for both GEDCOM and [GEDCOM-X](http://www.gedcomx.org/).
+Because GEDCOM is unmaintained and has only an *ad hoc* extension
+mechanism, we are developing a [**Extended Legacy Format
+(ELF)**](/drafts#elf) that is fully compatible with GEDCOM, but
+with the addition of a structured extensibility mechanism.
 
-With the consent of the Board, work is proceeding under a [simplified
-governance structure](/governance), with much of the structure described
-in the [TSC charter](/charter/) and [operations & policy manual](/opm/)
-having been suspended.  Technical work is proceeding as a committee of
-the whole supervised by the TSC.
+The Technical Standing Committee (TSC) is responsible for coordinating
+the organisation's technical work which is currently proceeding in a
+under a [simplified governance structure](/governance).  At present the
+TSC has two members: Luther Tychonievich and Richard Smith.  We can be
+contacted by email at [tsc@fhiso.org](mailto:tsc@fhiso.org).
 
-At present the TSC has two members: Luther Tychonievich is the TSC
-Coordinator, and Richard Smith is TSC Co-Coordinator.
-We can be contacted by email at [tsc@fhiso.org](mailto:tsc@fhiso.org).
 
 Get involved {#involve}
 ------------
@@ -35,17 +39,17 @@ by the TSC.
 
 ### Join the work
 
-Current priorities for technical work are outlined in [the priorities document](/priorities) 
-and discussed in detail in [the strategy document](/strategy).  Both
-documents are subject to change as opportunities, resources, and member interest change.
+Over the last year, the TSC have been hammering out the technical
+details needed of our Citation Elements and ELF standards.  We are happy
+to announce that several [drafts](/drafts) have reached the point where
+we would like to encourage comment and feedback from interested parties.
+The [**tsc-public** mailing list](tsc-public) is the preferred place for
+discussing this work.
 
-Per our [interim structure](/governance/), technical work is proceeding 
-as a committee of the whole.  The [**tsc-public** mailing list](tsc-public) 
-is the primary means for communicating in this work.
-
-Comments on [paper submissions](cfps/papers), the work of the TSC, and the
-creation of future technical groups are also all welcome on the
-[**tsc-public** mailing list](tsc-public).
+Current priorities for technical work are outlined in [the priorities
+document](/priorities) and discussed in detail in [the strategy
+document](/strategy).  These documents will be updated as opportunities,
+resources, and member interest change.
 
 ### Submit papers
 

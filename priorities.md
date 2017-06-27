@@ -20,7 +20,7 @@ Interest and resources becoming available will generally cause a new topic to be
 
 The following have been identified by the TSC as the current priorities:
 
-1. Produce a framework and conceptual model for citation element, and a
+1. Produce a framework and conceptual model for citation elements, and a
    vocabulary identifying the various descriptive elements that might
    reasonably be needed in the algorithmic construction of citations to
    family history or genealogical sources.

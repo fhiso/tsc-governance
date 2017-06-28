@@ -48,8 +48,8 @@ Citation Elements: Bindings for ELF
 
 :  This standard defines how citation elements should be represented in
    FHISO's Extensible Legacy Format (ELF), a format based on and
-   compatible with GEDCOM 5.5, but with the addition of a new
-   extensibility mechanism. 
+   compatible with GEDCOM, but with the addition of a new extensibility
+   mechanism. 
 
 Citation Elements: Bindings for GEDCOM X
 

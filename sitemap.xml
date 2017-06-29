@@ -36,25 +36,11 @@
   <directory name="drafts" title="Drafts">
     <index src="tsc-governance/drafts.md" />
 
-    <page name="cev-concepts" versioned="1"
-          src="sources-and-citations/citation-elements.md"
+    <link name="cev-concepts" dest="/TR/cev-concepts"
           title="Citation Elements: Concepts" />
 
-    <page name="cev-gedcomx-bindings" versioned="1" unlinked="1"
-          src="sources-and-citations/gedcomx-bindings.md"
-          title="Citation Elements: GEDCOM X" />
-
-    <page name="cev-rdfa-bindings" versioned="1"
-          src="sources-and-citations/rdfa-bindings.md"
+    <link name="cev-rdfa-bindings" dest="/TR/cev-rdfa-bindings"
           title="Citation Elements: RDFa" />
-
-    <page name="elf-serialization" versioned="1" unlinked="1"
-          src="legacy-format/serialization.md"
-          title="ELF: Serialization" />
-
-    <page name="elf-data-model" versioned="1" unlinked="1"
-          src="legacy-format/data-model.md"
-          title="ELF: Data Model" />
   </directory>
 
   <directory name="policies" title="Policies">
@@ -83,12 +69,10 @@
             src="sources-and-citations/EG/Useful_Links.md"
             title="Useful Links" />
 
-      <page name="creators-name" versioned="1"
-            src="sources-and-citations/creators-name.md"
+      <link name="creators-name" dest="/TR/creators-name"
             title="Creator's Names" />
 
-      <page name="citation-elements" versioned="1"
-            src="sources-and-citations/citation-elements-vocabulary.md"
+      <link name="citation-elements" dest="/TR/cev-vocabulary"
             title="Citation Elements" />
     </directory>
 
@@ -139,5 +123,38 @@
     <page name="submit"
           src="website/cfps_processor/submit.md"
           title="Submit paper" />
+  </directory>
+
+  <directory name="TR" title="Docs" unlinked="1">
+    <!-- This index is hidden by mod_rewrite -->
+    <index src="tsc-governance/drafts.md" />
+  
+    <page name="cev-concepts" versioned="1"
+          src="sources-and-citations/citation-elements.md"
+          title="Citation Elements: Concepts" />
+
+    <page name="cev-rdfa-bindings" versioned="1"
+          src="sources-and-citations/rdfa-bindings.md"
+          title="Citation Elements: RDFa" />
+
+    <page name="cev-gedcomx-bindings" versioned="1" unlinked="1"
+          src="sources-and-citations/gedcomx-bindings.md"
+          title="Citation Elements: GEDCOM X" />
+
+    <page name="cev-vocabulary" versioned="1" unlinked="1"
+          src="sources-and-citations/citation-elements-vocabulary.md"
+          title="Citation Elements: Vocabulary" />
+
+    <page name="creators-name" versioned="1" unlinked="1"
+          src="sources-and-citations/creators-name.md"
+          title="Creator's Names" />
+
+    <page name="elf-serialization" versioned="1" unlinked="1"
+          src="legacy-format/serialization.md"
+          title="ELF: Serialization" />
+
+    <page name="elf-data-model" versioned="1" unlinked="1"
+          src="legacy-format/data-model.md"
+          title="ELF: Data Model" />
   </directory>
 </site>

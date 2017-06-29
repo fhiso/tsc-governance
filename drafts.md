@@ -62,3 +62,10 @@ Citation Elements: Vocabulary
 :  This standard defines a collection of citation elements allowing the
    representation of information normally found in formatted citations
    to diverse types of source.
+
+---
+<div class="cc-img"><a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a></div>
+
+All FHISO standards and draft standards are licensed under a <a rel="license"
+href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution
+4.0 International License</a>.

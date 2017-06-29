@@ -68,6 +68,12 @@ producing professional formatted citations.  Could we allow elements to
 be tagged in a formatted citation?  It was agreed to explore the use of
 RDFa atributes in HTML as a possible means of doing this.
 
+**2017-03-16** Noted from the 
+[16 March Board meeting](/fhiso-board/minutes/2017-03-16/) that it was
+agreed that standards produced by FHISO would be licensed under the
+[Creative Commons Attribution
+Licence](https://creativecommons.org/licenses/by/4.0/). 
+
 **2017-02-16** Held a TSC meeting by Google Hangout.  
 
 *  Agreed that the scope of our initial ELF standards should be limited

@@ -13,18 +13,18 @@
 #       RewriteMap table "txt:/home/techsite/terms.map"
 #       RewriteCond "${table:%{REQUEST_URI}|NF}" "!=NF"
 #       RewriteRule .* \
-#               "%{REQUEST_SCHEME}://tech.fhiso.org${table:%{REQUEST_URI}}" \
+#               "%{REQUEST_SCHEME}://fhiso.org/TR/${table:%{REQUEST_URI}}" \
 #               [NE,L,R=303,E=limitcache:1]
 #
 # It's processed by mod_write's RewriteMap directive, 
 # so the format is pair of paths per line.  
 
 
-/sources/derivedFrom          /drafts/cev-concepts#layer-derivation
-/sources/translatedElement    /drafts/cev-concepts#list-flattening
+/sources/derivedFrom          cev-concepts#layer-derivation
+/sources/translatedElement    cev-concepts#list-flattening
 
-/sources/Source               /drafts/cev-rdfa-bindings#source-type-elts
-/sources/CitedSource          /drafts/cev-rdfa-bindings#head-layer
+/sources/Source               cev-rdfa-bindings#source-type-elts
+/sources/CitedSource          cev-rdfa-bindings#head-layer
 
-/type/CreatorsNameList	/egs/sceg/creators-name#CreatorsNameList
-/type/CreatorsName	/egs/sceg/creators-name#CreatorsName
+/type/CreatorsNameList	      creators-name#CreatorsNameList
+/type/CreatorsName	      creators-name#CreatorsName

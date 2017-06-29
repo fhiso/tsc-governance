@@ -36,10 +36,10 @@
   <directory name="drafts" title="Drafts">
     <index src="tsc-governance/drafts.md" />
 
-    <link name="cev-concepts" dest="//fhiso.org/TR/cev-concepts"
+    <link name="cev-concepts" dest="http://fhiso.org/TR/cev-concepts"
           title="Citation Elements: Concepts" />
 
-    <link name="cev-rdfa-bindings" dest="//fhiso.org/TR/cev-rdfa-bindings"
+    <link name="cev-rdfa-bindings" dest="http://fhiso.org/TR/cev-rdfa-bindings"
           title="Citation Elements: RDFa" />
   </directory>
 
@@ -69,10 +69,10 @@
             src="sources-and-citations/EG/Useful_Links.md"
             title="Useful Links" />
 
-      <link name="creators-name" dest="//fhiso.org/TR/creators-name"
+      <link name="creators-name" dest="http://fhiso.org/TR/creators-name"
             title="Creator's Names" />
 
-      <link name="citation-elements" dest="//fhiso.org/TR/cev-vocabulary"
+      <link name="citation-elements" dest="http://fhiso.org/TR/cev-vocabulary"
             title="Citation Elements" />
     </directory>
 

@@ -1,10 +1,20 @@
 Minutes of the Technical Standing Committee
 ===========================================
 
-**2017-06-26** Agreed that the 
-[Citation Elements: General Concepts](/drafts/cev-concepts) and 
-[Citation Elements: RDFa bindings](/drafts/cev-rdfa-bindings) drafts
-were ready for public review.
+**2017-07-04** Agreed that we would not continuously edit the drafts on
+the website, but will batch up changes and issue revised drafts from
+time to time.
+
+**2017-06-29** 
+[Announced](/pipermail/tsc-public_fhiso.org/2017-June/005065.html)
+first pulic drafts of the 
+[Citation Elements: General Concepts](/TR/cev-concepts) and 
+[Citation Elements: RDFa bindings](/TR/cev-rdfa-bindings) standard
+for public review.
+
+**2017-06-29** Agreed in discussion with the Board that standards and
+draft standards will have stable URLs beginning `http://fhiso.org/TR/`,
+and configured the webservers accordingly.
 
 **2017-06-13** Held a TSC meeting by Google Hangout.  Discussion focused
 on certain details of the [ELF Serialization](/drafts/elf-serialization)

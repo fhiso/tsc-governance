@@ -11,7 +11,7 @@ work.
 Extended Legacy Format (ELF)                                      {#elf}
 ----------------------------
 
-Extended Legacy Format (ELF): Serialization Format
+Extended Legacy Format (ELF): Serialisation Format
 
 :  This standard defines a file format that is fully compatible with
    GEDCOM, but with the addition of a structured, IRI-based

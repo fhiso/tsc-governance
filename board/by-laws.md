@@ -283,7 +283,7 @@ Terms of office shall be two-year, staggered terms, as follows:
 
 a.  The Chair, Treasurer, Technical Co-coordinator, and Membership
     Coordinator serve as Class A Board Members. Class A Directors terms
-    expire in odd-numbered years.  
+    expire in odd-numbered years.
 b.  The Vice-chair. Secretary, Technical Coordinator, and Membership
     Co-coordinator serve as Class B Board Members. Class B Directors
     terms expire in even-numbered years.

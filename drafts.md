@@ -32,8 +32,8 @@ Citation Elements: General Concepts
 :  This standard defines the general concepts used in FHISO's suite of
    Citation Elements standards, and the basic framework and data model
    underpinning them.
-:  Read the [latest public draft](cev-concepts) or 
-   [download as a PDF](cev-concepts.pdf).
+:  Read the [latest public draft](//fhiso.org/TR/cev-concepts) or 
+   [download as a PDF](//fhiso.org/TR/cev-concepts.pdf).
 
 Citation Elements: Bindings for RDFa
 
@@ -41,8 +41,8 @@ Citation Elements: Bindings for RDFa
    identified and tagged using RDFa attributes within HTML and XML
    formatted citations, allowing an application to extract them in a
    systematic manner.
-:  Read the [latest public draft](cev-rdfa-bindings) or 
-   [download as a PDF](cev-rdfa-bindings.pdf).
+:  Read the [latest public draft](//fhiso.org/TR/cev-rdfa-bindings) or 
+   [download as a PDF](//fhiso.org/TR/cev-rdfa-bindings.pdf).
 
 Citation Elements: Bindings for ELF
 

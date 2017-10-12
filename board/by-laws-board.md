@@ -281,8 +281,7 @@ two-year term by the general membership in accordance with Article 15:
 the Chair and Treasurer as Class A Directors, the Vice-chair and
 Secretary as Class B Directors.
 
-An Assistant Secretary may be appointed by the Board under Section
-999999999.6
+An Assistant Secretary may be appointed by the Board under Section 9.6
 of these Bylaws.  He or she has no fixed term of office and may be
 removed by majority vote of the Board at any time without cause.
 

@@ -150,7 +150,7 @@
           title="Creator's Names" />
 
     <page name="elf-serialisation" versioned="1" unlinked="1"
-          src="legacy-format/serialization.md"
+          src="legacy-format/serialisation.md"
           title="ELF: Serialization" />
 
     <page name="elf-data-model" versioned="1" unlinked="1"

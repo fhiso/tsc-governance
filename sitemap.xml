@@ -156,5 +156,9 @@
     <page name="elf-data-model" versioned="1" unlinked="1"
           src="legacy-format/data-model.md"
           title="ELF: Data Model" />
+
+    <page name="basic-concepts" versioned="1" unlinked="1"
+          src="basic-concepts/basic-concepts.md"
+          title="Basic Concepts" />
   </directory>
 </site>

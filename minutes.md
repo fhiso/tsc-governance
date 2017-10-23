@@ -1,16 +1,51 @@
 Minutes of the Technical Standing Committee
 ===========================================
 
+**2017-09-12**  Held a TSC meeting by Google Hangout to discuss our next
+priorities.  It was agreed:
+
+*  that we would prioritise ELF over GEDCOM X, with
+   the aim of including first public drafts of 
+   [ELF Serialisation](/drafts/elf-serialisation) and
+   [ELF Data Model](/drafts/elf-data-model) in the next batch of
+   standards to be released;
+*  that we would produce a low-level standard refactoring material on
+   strings, characters and terms from
+   [Citation Elements: General Concepts](/TR/cev-concepts-20170911), and
+   including further material from our 
+   [vocabularies policy](/policies/vocabularies);
+*  that we would explore the possibility of a lightweight discovery
+   mechanism using 
+   [Canonical N-Triples](https://www.w3.org/TR/n-triples/#canonical-ntriples)
+   accessed over HTTP; and 
+*  that we define a regular expression dialect for use in datatype
+   patterns.
+
+**2017-09-11** 
+[Announced](/pipermail/tsc-announce_fhiso.org/2017-September/000011.html)
+second public drafts of the 
+[Citation Elements: General Concepts](/TR/cev-concepts-20170911) and 
+[Citation Elements: RDFa bindings](/TR/cev-rdfa-bindings-20170911) 
+standards for public review.  Major changes included
+
+*  removing the notion of a layer identifier and defer consideration of
+   metadata support for the time being;
+*  changing all our `http:` IRIs to `https:` due to security and privacy 
+   concerns; and
+*  expanding the notion of a translation set into a more general 
+   localisation set to allow a combination of structured and
+   unstructured values.
+
 **2017-07-04** Agreed that we would not continuously edit the drafts on
 the website, but will batch up changes and issue revised drafts from
 time to time.
 
 **2017-06-29** 
-[Announced](/pipermail/tsc-public_fhiso.org/2017-June/005065.html)
-first pulic drafts of the 
-[Citation Elements: General Concepts](/TR/cev-concepts) and 
-[Citation Elements: RDFa bindings](/TR/cev-rdfa-bindings) standard
-for public review.
+[Announced](/pipermail/tsc-announce_fhiso.org/2017-June/000010.html)
+first public drafts of the 
+[Citation Elements: General Concepts](/TR/cev-concepts-20170626) and 
+[Citation Elements: RDFa bindings](/TR/cev-rdfa-bindings-20170626) 
+standards for public review.
 
 **2017-06-29** Agreed in discussion with the Board that standards and
 draft standards will have stable URLs beginning `http://fhiso.org/TR/`,
@@ -57,7 +92,7 @@ extensibility mechanism.
 **2017-05-25** Noted that Richard had produced a first exploratory draft
 of a [Citation Elements: General Concepts and Basic 
 Framework](/drafts/cev-concepts) standard, and had closed the
-`dev-2017-01` branch.  The draft does not currently support layererd
+`dev-2017-01` branch.  The draft does not currently support layered
 citations.
 
 **2017-05-22** Noted that Richard had produced a first exploratory draft
@@ -76,7 +111,7 @@ was recognised that users may be reluctant to discard formatted citation
 in favour of citation element sets due to the work that goes into
 producing professional formatted citations.  Could we allow elements to
 be tagged in a formatted citation?  It was agreed to explore the use of
-RDFa atributes in HTML as a possible means of doing this.
+RDFa attributes in HTML as a possible means of doing this.
 
 **2017-03-16** Noted from the 
 [16 March Board meeting](/fhiso-board/minutes/2017-03-16/) that it was

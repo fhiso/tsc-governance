@@ -36,6 +36,19 @@ standards for public review.  Major changes included
    localisation set to allow a combination of structured and
    unstructured values.
 
+**2017-07-10** Approved the folowing classes of document as suitable 
+to be referenced normatively by FHISO standards:
+
+*  any other FHISO standard;
+*  any ISO standard;
+*  any IETF RFC that is categorised as Standards Track or Best Current
+   Practice;
+*  any W3C recommendation;
+*  the Unicode Standard, including any Unicode Standard Annex;
+*  the US ASCII standard (ANSI X3.4-1986);
+*  the withdrawn ANSEL standard (ANSI/NISO Z39.47-1993), for the
+   purposes of our ELF standards only.
+
 **2017-07-04** Agreed that we would not continuously edit the drafts on
 the website, but will batch up changes and issue revised drafts from
 time to time.

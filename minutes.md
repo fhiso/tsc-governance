@@ -45,7 +45,7 @@ to be referenced normatively by FHISO standards:
    Practice;
 *  any W3C recommendation;
 *  the Unicode Standard, including any Unicode Standard Annex;
-*  the US ASCII standard (ANSI X3.4-1986);
+*  the US ASCII standard (ANSI X3.4-1986); and
 *  the withdrawn ANSEL standard (ANSI/NISO Z39.47-1993), for the
    purposes of our ELF standards only.
 

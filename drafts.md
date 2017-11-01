@@ -8,16 +8,6 @@ comment and feedback from interested parties.  The [**tsc-public**
 mailing list](tsc-public) is the preferred place for discussing this
 work.
 
-Low-Level Utility Standards
----------------------------
-
-Basic Concepts for Genealogical Standards
-
-:  This standard defines various low-level concepts, including those to
-   relating to FHISO's use of strings and IRIs, that will be used in
-   many FHISO standards and whose definitions do not logically belong in
-   any one particular higher-level standard.
-
 Extended Legacy Format (ELF)                                      {#elf}
 ----------------------------
 
@@ -72,6 +62,16 @@ Citation Elements: Vocabulary
 :  This standard defines a collection of citation elements allowing the
    representation of information normally found in formatted citations
    to diverse types of source.
+
+General Utility Standards                                        {#util}
+-------------------------
+
+Basic Concepts for Genealogical Standards
+
+:  This standard defines various low-level concepts, including those to
+   relating to FHISO's use of strings and IRIs, that will be used in
+   many FHISO standards and whose definitions do not logically belong in
+   any one particular higher-level standard.
 
 ---
 <div class="cc-img"><a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a></div>

@@ -567,7 +567,7 @@ Directors are elected in even-numbered years.
 ### 15.1 Call for Nominations
 
 The Nominating Committee shall secure proposals for nominations for
-elected Directors by preparing a call for nominations distributed to all
+elected Officers by preparing a call for nominations distributed to all
 FHISO voting members. The request shall clearly indicate, describe, and
 present requirements of the positions for which nominations are being
 requested, in accordance with the FHISO Manual. The request shall

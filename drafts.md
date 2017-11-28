@@ -73,6 +73,13 @@ Basic Concepts for Genealogical Standards
    many FHISO standards and whose definitions do not logically belong in
    any one particular higher-level standard.
 
+Simple Triples Discovery Mechanism
+
+:  This standard defines a simple, general-purpose discovery mechansim
+   which provides a means for internet-connected applications to access
+   information on any unfamiliar third-party extensions which they may
+   encounter.
+
 ---
 <div class="cc-img"><a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a></div>
 

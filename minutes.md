@@ -1,6 +1,22 @@
 Minutes of the Technical Standing Committee
 ===========================================
 
+**2017-12-12**  The TSC reported to the Board that the next batch of public
+drafts was still some way off due to unforeseen complexities with the
+ELF Serialisation extensibility mechanism.  It was agreed that the TSC
+should aim to release public drafts in late January of the 
+[Basic Concepts](/TR/basic-concepts),
+[Triples Discovery](/TR/triples-discovery),
+[CEV Concepts](/TR/cev-concepts) and (if there are enough changes to
+warrant its inclusion) [CEV RDFa Bindings](/TR/cev-rdfa-bindings)
+standards which have seen significant development since the last round
+of public drafts in September.
+
+**2017-10-31**  Held a TSC meeting by Google Hangout during which we
+discussed details of the extensibility mechanism for 
+[ELF Serialisation](/TR/elf-serialisation) and the patterns used for
+datatypes in [Basic Concepts](/TR/basic-concepts).
+
 **2017-09-12**  Held a TSC meeting by Google Hangout to discuss our next
 priorities.  It was agreed:
 

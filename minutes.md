@@ -1,6 +1,11 @@
 Minutes of the Technical Standing Committee
 ===========================================
 
+**2018-01-30**  Held a TSC meeting by Google Hangour at which we
+identified the outstanding issues which need fixing in the four current
+drafts before we release them publicly.  There was also a productive
+discussion on how the CEV ELF bindings might work.
+
 **2017-12-12**  The TSC reported to the Board that the next batch of public
 drafts was still some way off due to unforeseen complexities with the
 ELF Serialisation extensibility mechanism.  It was agreed that the TSC

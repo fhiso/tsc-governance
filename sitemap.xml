@@ -135,7 +135,7 @@
           title="Citation Elements: Concepts" />
 
     <page name="cev-rdfa-bindings" versioned="1"
-          releases="20170626 20170911"
+          releases="20170626 20170911 dev-2017-09"
           src="sources-and-citations/rdfa-bindings.md"
           title="Citation Elements: RDFa" />
 

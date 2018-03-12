@@ -75,7 +75,7 @@ Basic Concepts for Genealogical Standards
 
 Simple Triples Discovery Mechanism
 
-:  This standard defines a simple, general-purpose discovery mechansim
+:  This standard defines a simple, general-purpose discovery mechanism
    which provides a means for internet-connected applications to access
    information on any unfamiliar third-party extensions which they may
    encounter.

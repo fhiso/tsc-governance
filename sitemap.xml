@@ -159,15 +159,15 @@
           src="legacy-format/data-model.md"
           title="ELF: Data Model" />
 
-    <page name="basic-concepts" versioned="1" unlinked="1"
+    <page name="basic-concepts" versioned="1"
           src="basic-concepts/basic-concepts.md"
           title="Basic Concepts" />
 
-    <page name="patterns" versioned="1" unlinked="1"
+    <page name="patterns" versioned="1"
           src="basic-concepts/patterns.md"
           title="The Pattern Datatype" />
 
-    <page name="triples-discovery" versioned="1" unlinked="1"
+    <page name="triples-discovery" versioned="1"
           src="basic-concepts/triples-discovery.md"
           title="Triples Discovery" />
   </directory>

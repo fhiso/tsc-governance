@@ -69,9 +69,20 @@ General Utility Standards                                        {#util}
 Basic Concepts for Genealogical Standards
 
 :  This standard defines various low-level concepts, including those to
-   relating to FHISO's use of strings and IRIs, that will be used in
-   many FHISO standards and whose definitions do not logically belong in
+   relating to our use of strings and IRIs.  It also defines the
+   abstract foundations of our data model.  This is content which will
+   be used in many FHISO standards and so does not logically belong in
    any one particular higher-level standard.
+:  Read the [latest public draft](//fhiso.org/TR/basic-concepts) or 
+   [download as a PDF](//fhiso.org/TR/basic-concepts.pdf).
+
+The Pattern Datatype
+
+:  This standard defines a dialect of regular expressions that is
+   readily handled by many different regular expression engines,
+   suitable for use in discovery and basic datatype validation.
+:  Read the [latest public draft](//fhiso.org/TR/patterns) or 
+   [download as a PDF](//fhiso.org/TR/patterns.pdf).
 
 Simple Triples Discovery Mechanism
 
@@ -79,6 +90,8 @@ Simple Triples Discovery Mechanism
    which provides a means for internet-connected applications to access
    information on any unfamiliar third-party extensions which they may
    encounter.
+:  Read the [latest public draft](//fhiso.org/TR/triples-discovery) or 
+   [download as a PDF](//fhiso.org/TR/triples-discovery.pdf).
 
 ---
 <div class="cc-img"><a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a></div>

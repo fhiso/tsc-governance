@@ -161,7 +161,7 @@
 
     <page name="elf-draft-schema" versioned="1" unlinked="1"
           src="legacy-format/draft-schema.md"
-          title="ELF: Schema (rough draft)" />
+          title="ELF: Schema" />
 
     <page name="basic-concepts" versioned="1"
           releases="20180316"

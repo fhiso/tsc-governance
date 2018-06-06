@@ -32,6 +32,9 @@ In particular, it was agreed:
    insurmountable difficulties in Triples Discovery, but that this did
    not need addressing during the work on the first ELF drafts.
 
+**2018-06-01**  Noted with interest Tamura Jones' [Annotated Edition of GEDCOM
+5.5.1](https://www.tamurajones.net/DownloadGEDCOM551AnnotatedEdition.xhtml).
+
 **2018-04-24**  Agreed with the Board that ELF was our next technical
 priority; it will largely take precedence over work on the CEV GEDCOM X
 bindings and further development of the CEV Vocabulary.  Noted that

@@ -1,7 +1,46 @@
 Minutes of the Technical Standing Committee
 ===========================================
 
-**2018-01-30**  Held a TSC meeting by Google Hangour at which we
+**2018-06-05**  Held a very productive TSC meeting by Google Hangout to
+discuss the details of the [ELF Serialisation](/TR/elf-serialisation).
+
+**2018-04-24**  Agreed with the Board that ELF was our next technical
+priority; it will largely take precedence over work on the CEV GEDCOM X
+bindings and further development of the CEV Vocabulary.  Noted that
+recent discussion favoured replacing the extensibility mechanism in the
+current [ELF Serialisation](/TR/elf-serialisation) draft (which was
+based on [CFPS 37](/cfps/files/cfps37.pdf) with an idea we're calling
+schemas (which is loosely based on the now-defunct GEDCOM 5.3 feature).
+This continues to map ELF tags to IRIs, but allows the mapping to depend
+on the context in which the tag is used.
+
+**2018-03-16**  
+[Announced](/pipermail/tsc-announce_fhiso.org/2018-March/000012.html)
+first public drafts of [Basic Concepts](/TR/basic-concepts),
+[Triples Discovery](/TR/triples-discovery) and [Patterns](/TR/patterns);
+and third public drafts of [CEV Concepts](/TR/cev-concepts) and 
+the [CEV RDFa Bindings](/TR/cev-rdfa-bindings).  These new CEV drafts
+included no major changes to the data model.
+
+**2018-03-15**  Following a major rework of the [Patterns](/TR/patterns)
+draft, agreed to include it in the current batch of drafts.
+
+**2018-03-13**  Held a TSC meeting by Google Hangout during which we
+ran through the remaining list of issues with our working drafts.
+Agreed to move our regular expression dialect to a separate draft called
+[Patterns](/TR/patterns) as it was a large, logically separate component
+that risked delaying the of release our other drafts.  We hoped to
+release public drafts of the other four standards later in the week.
+
+**2018-02-07**  Held a useful discussion session on how the CEV GEDCOM X
+bindings might work which resulted in a broad consensus, however we will
+not be including these in our next batch of public drafts.
+
+**2018-02-04**  Implemented our proposed Triples Discovery mechanism for
+terms currently defined in the draft standards on the
+<tt>terms.fhiso.org</tt> webserver.
+
+**2018-01-30**  Held a TSC meeting by Google Hangout at which we
 identified the outstanding issues which need fixing in the four current
 drafts before we release them publicly.  There was also a productive
 discussion on how the CEV ELF bindings might work.
@@ -30,8 +69,8 @@ priorities.  It was agreed:
    [ELF Serialisation](/drafts/elf-serialisation) and
    [ELF Data Model](/drafts/elf-data-model) in the next batch of
    standards to be released;
-*  that we would produce a low-level standard refactoring material on
-   strings, characters and terms from
+*  that we would produce a low-level standard called Basic Concepts
+   refactoring material on strings, characters and terms from
    [Citation Elements: General Concepts](/TR/cev-concepts-20170911), and
    including further material from our 
    [vocabularies policy](/policies/vocabularies);
@@ -47,7 +86,7 @@ priorities.  It was agreed:
 second public drafts of the 
 [Citation Elements: General Concepts](/TR/cev-concepts-20170911) and 
 [Citation Elements: RDFa bindings](/TR/cev-rdfa-bindings-20170911) 
-standards for public review.  Major changes included
+standards for public review.  Major changes included:
 
 *  removing the notion of a layer identifier and defer consideration of
    metadata support for the time being;

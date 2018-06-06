@@ -63,8 +63,8 @@ Citation Elements: Vocabulary
    representation of information normally found in formatted citations
    to diverse types of source.
 
-General Utility Standards                                        {#util}
--------------------------
+General Utility Components                                       {#util}
+--------------------------
 
 Basic Concepts for Genealogical Standards
 

@@ -3,13 +3,41 @@ Minutes of the Technical Standing Committee
 
 **2018-06-05**  Held a very productive TSC meeting by Google Hangout to
 discuss the details of the [ELF Serialisation](/TR/elf-serialisation).
+In particular, it was agreed:
+
+*  to replace the previous namespace-based extensibility mechanism with
+   one based on schemas, allowing context-specific tag to IRI mappings,
+   and also allowing basic validation of the structure of an ELF file;
+*  that discovery information of the sort that can be found via 
+   [Triples Discovery](/TR/triples-discovery) should be allowed in an
+   ELF schema;
+*  to extend the use of the `LANG` tag to allow any data to be
+   language-tagged using either an RFC 4646 language tag or a legacy
+   GEDCOM language string which will be inherited by child ELF 
+   structures; 
+*  for future compatibility, we would add a piece of discovery metadata
+   to allow a vocabulary author to indicate that a tag changes the
+   meaning of its enclosing structure sufficiently that the application
+   should discard structure if it does not fully understand the tag;
+*  that it would likely be necessary to allow external schemas, but that
+   this feature would not be included in the first public draft, nor
+   would the related issues of inter-document pointers and container
+   formats;
+*  that ELF bindings (such as those for CEV) might need a selector
+   syntax for defining a property (e.g. a citation element) in terms of
+   non-local content, but that this would be deferred until after the
+   first public draft of ELF; and
+*  that increasing there were indications that list-valued properties
+   would be needed in Basic Concepts which would cause major and maybe
+   insurmountable difficulties in Triples Discovery, but that this did
+   not need addressing during the work on the first ELF drafts.
 
 **2018-04-24**  Agreed with the Board that ELF was our next technical
 priority; it will largely take precedence over work on the CEV GEDCOM X
 bindings and further development of the CEV Vocabulary.  Noted that
 recent discussion favoured replacing the extensibility mechanism in the
 current [ELF Serialisation](/TR/elf-serialisation) draft (which was
-based on [CFPS 37](/cfps/files/cfps37.pdf) with an idea we're calling
+based on [CFPS 37](/cfps/files/cfps37.pdf)) with an idea we're calling
 schemas (which is loosely based on the now-defunct GEDCOM 5.3 feature).
 This continues to map ELF tags to IRIs, but allows the mapping to depend
 on the context in which the tag is used.

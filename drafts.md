@@ -13,14 +13,14 @@ Extended Legacy Format (ELF)                                      {#elf}
 
 Extended Legacy Format (ELF): Serialisation Format
 
-:  This standard defines a file format that is fully compatible with
+:  This document defines a file format that is fully compatible with
    GEDCOM, but with the addition of a structured, IRI-based
    extensibility mechanism which will be used in other FHISO
    specifications.
 
 Extended Legacy Format (ELF): Data Model
 
-:  This standard reformulates the tags of the lineage-linked GEDCOM form
+:  This document reformulates the tags of the lineage-linked GEDCOM form
    as an ELF data model, in the process clarifying its ambiguities and
    documenting best current practice.
 
@@ -29,7 +29,7 @@ Citation Elements                                                 {#cev}
 
 Citation Elements: General Concepts
 
-:  This standard defines the general concepts used in FHISO's suite of
+:  This document defines the general concepts used in FHISO's suite of
    Citation Elements standards, and the basic framework and data model
    underpinning them.
 :  Read the [latest public draft](//fhiso.org/TR/cev-concepts) or 
@@ -37,7 +37,7 @@ Citation Elements: General Concepts
 
 Citation Elements: Bindings for RDFa
 
-:  This standard defines a means by which citation elements may be
+:  This document defines a means by which citation elements may be
    identified and tagged using RDFa attributes within HTML and XML
    formatted citations, allowing an application to extract them in a
    systematic manner.
@@ -46,20 +46,20 @@ Citation Elements: Bindings for RDFa
 
 Citation Elements: Bindings for ELF
 
-:  This standard defines how citation elements should be represented in
+:  This document defines how citation elements should be represented in
    FHISO's Extensible Legacy Format (ELF), a format based on and
    compatible with GEDCOM, but with the addition of a new extensibility
    mechanism. 
 
 Citation Elements: Bindings for GEDCOM X
 
-:  This standard defines extensions to the GEDCOM X data model and its
+:  This document defines extensions to the GEDCOM X data model and its
    JSON and XML serialisations to allow citation elements to be
    represented in GEDCOM X.
 
 Citation Elements: Vocabulary
 
-:  This standard defines a collection of citation elements allowing the
+:  This document defines a collection of citation elements allowing the
    representation of information normally found in formatted citations
    to diverse types of source.
 
@@ -68,7 +68,7 @@ General Utility Components                                       {#util}
 
 Basic Concepts for Genealogical Standards
 
-:  This standard defines various low-level concepts, including those to
+:  This document defines various low-level concepts, including those to
    relating to our use of strings and IRIs.  It also defines the
    abstract foundations of our data model.  This is content which will
    be used in many FHISO standards and so does not logically belong in
@@ -78,7 +78,7 @@ Basic Concepts for Genealogical Standards
 
 The Pattern Datatype
 
-:  This standard defines a dialect of regular expressions that is
+:  This document defines a dialect of regular expressions that is
    readily handled by many different regular expression engines,
    suitable for use in discovery and basic datatype validation.
 :  Read the [latest public draft](//fhiso.org/TR/patterns) or 
@@ -86,7 +86,7 @@ The Pattern Datatype
 
 Simple Triples Discovery Mechanism
 
-:  This standard defines a simple, general-purpose discovery mechanism
+:  This document defines a simple, general-purpose discovery mechanism
    which provides a means for internet-connected applications to access
    information on any unfamiliar third-party extensions which they may
    encounter.

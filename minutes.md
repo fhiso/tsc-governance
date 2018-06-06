@@ -12,8 +12,9 @@ In particular, it was agreed:
    [Triples Discovery](/TR/triples-discovery) should be allowed in an
    ELF schema;
 *  to extend the use of the `LANG` tag to allow any data to be
-   language-tagged using either an RFC 4646 language tag or a legacy
-   GEDCOM language string which will be inherited by child ELF 
+   language-tagged using either an 
+   [RFC 4646](https://tools.ietf.org/html/rfc4646) language tag or a
+   legacy GEDCOM language string which will be inherited by child ELF
    structures; 
 *  for future compatibility, we would add a piece of discovery metadata
    to allow a vocabulary author to indicate that a tag changes the

@@ -9,9 +9,13 @@
         src="tsc-governance/board/by-laws.md" 
         title="Bylaws" />
 
-  <page name="by-laws"
+  <page name="by-laws-members"
         src="tsc-governance/board/by-laws-members.md" 
-        title="Bylaws (membership proposal)" />
+        title="Bylaws (proposal tidying up membership)" />
+
+  <page name="by-laws-notice"
+        src="tsc-governance/board/by-laws-notice.md" 
+        title="Bylaws (proposal on notice of board meetings)" />
 
   <page name="code-of-conduct" versioned="1" upload="1"
         src="tsc-governance/board/code-of-conduct.md" 

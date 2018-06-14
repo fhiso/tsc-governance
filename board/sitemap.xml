@@ -9,11 +9,11 @@
         src="tsc-governance/board/by-laws.md" 
         title="Bylaws" />
 
-  <page name="by-laws-members"
+  <page name="by-laws-members" versioned="1"
         src="tsc-governance/board/by-laws-members.md" 
         title="Bylaws (proposal tidying up membership)" />
 
-  <page name="by-laws-notice"
+  <page name="by-laws-notice" versioned="1"
         src="tsc-governance/board/by-laws-notice.md" 
         title="Bylaws (proposal on notice of board meetings)" />
 

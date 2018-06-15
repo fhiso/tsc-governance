@@ -17,6 +17,10 @@
         src="tsc-governance/board/by-laws-notice.md" 
         title="Bylaws (proposal on notice of board meetings)" />
 
+  <page name="by-laws-elections" versioned="1"
+        src="tsc-governance/board/by-laws-elections.md" 
+        title="Bylaws (proposal on eligibility for office)" />
+
   <page name="code-of-conduct" versioned="1" upload="1"
         src="tsc-governance/board/code-of-conduct.md" 
         title="Code of Conduct" />

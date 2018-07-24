@@ -159,9 +159,9 @@
           src="legacy-format/data-model.md"
           title="ELF: Data Model" />
 
-    <page name="elf-draft-schema" versioned="1" unlinked="1"
-          src="legacy-format/draft-schema.md"
-          title="ELF: Schema" />
+    <page name="elf-serialisation-iri" versioned="1" unlinked="1"
+          src="legacy-format/serialisation-iri.md"
+          title="ELF: Serialization (draft)" />
 
     <page name="basic-concepts" versioned="1"
           releases="20180316"

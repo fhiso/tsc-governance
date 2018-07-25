@@ -161,7 +161,7 @@
 
     <page name="elf-serialisation-iri" versioned="1" unlinked="1"
           src="legacy-format/serialisation-iri.md"
-          title="ELF: Serialization (draft)" />
+          title="ELF: Serialization (IRI draft)" />
 
     <page name="basic-concepts" versioned="1"
           releases="20180316"

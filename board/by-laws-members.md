@@ -1,6 +1,6 @@
 ---
 title: Bylaws of Family History Information Standards Organisation, Inc.
-date: 14 June 2018 (Draft)
+date: 18 September 2018 (Draft)
 ...
 Bylaws of Family History Information Standards Organisation, Inc.
 =================================================================
@@ -9,7 +9,7 @@ Bylaws of Family History Information Standards Organisation, Inc.
 membership.  It has no official status.*
 
 *Based on the bylaws enacted on 1 September 2013, and last updated on 
-[31 October 2017](http://fhiso.org/minutes/2017-10-31/).*
+[18 September 2018](http://fhiso.org/minutes/2018-09-18/).*
 
 Article 1: Name
 ---------------
@@ -83,9 +83,9 @@ Article 4: Membership
 
 Membership shall be voluntary and open to all who are active, interested
 in or materially affected by technology standards for genealogy and
-family history. Membership of FHISO shall not be conditional on
-membership of any other organisation, or unreasonably restricted on the
-basis of technical qualifications or other such requirements.
+family history.  FHISO membership shall not be conditional on any other
+memberships or associations, nor unreasonably restricted on the basis of
+technical qualifications or other such requirements.
 
 ### 4.1 Code of Conduct
 
@@ -95,7 +95,7 @@ be amended from time to time by the Board of Directors.
 ### 4.2 Membership Categories
 
 Members shall be classified as Individual Members or Organisational
-Members. 
+Members.
 
 #### 4.2.1 Individual Members
 
@@ -106,15 +106,17 @@ single vote.
 
 An Organisational Member shall be a corporation or other organisation,
 and is entitled to appoint one or more Organisational Member
-Representative each of whom is entitled to a single vote.
+Representative each of whom is entitled to a single vote.  An Individual
+Member may be appointed as an Organisational Member Representative but
+only gets a single vote.
 
 The Board may establish different classes of Organisational Member,
 which may have differing Membership Fees and be entitled to appoint
-different numbers of Organisational Member Representatives.  Any
-change to the number of Organisational Member Representatives which
-an Organisational Member is entitled to appoint shall only take effect
-when their annual Membership Fee next becomes due.
- 
+different numbers of Organisational Member Representatives.  Any change
+to the number of Organisational Member Representatives which an
+Organisational Member is entitled to appoint shall only take effect when
+their annual Membership Fee next becomes due.
+
 Organisational Members shall identify in writing those individuals
 designated as Organisational Member Representatives with confirmation
 that each has agreed to abide by the Code of Conduct.  FHISO must
@@ -221,24 +223,28 @@ a.  Chair. The Chair is the chief officer of the Corporation and, under
     one or more members of any Committee.
 b.  Vice-chair. The Vice-chair shall, in the absence of the Chair,
     preside over meetings and temporarily assume the responsibilities of
-    the Chair.
+    the Chair.  In the absence or temporary vacancy of both the Chair
+    and Vice-chair, another member of the Board shall be appointed to
+    assume these duties by majority vote of the Board.
 c.  Treasurer.  The Treasurer shall assist in the development of the annual
     budget and the financial plan and shall assist in raising funds for
     the Corporation's operation.  The Treasurer is responsible for
     developing and reviewing fiscal procedures, and shall assist any
     committee in the preparation and administration of committee or
     project budgets.  In the absence or temporary vacancy of the
-    Treasurer, the Secretary shall serve as Treasurer.
+    Treasurer, the Secretary shall serve as Treasurer.  In the absence
+    or temporary vacancy of both the Treasurer and Secretary, another
+    member of the Board shall be appointed to assume these duties by
+    majority vote of the Board.
 d.  Secretary.  The Secretary is also the Chief Transparency Officer of
     the Organisation.  The Secretary shall maintain the FHISO Manual,
     agendas and minutes of Board and Member meetings, and such other
     records of the Corporation as required by Arizona Law, these bylaws,
     the Articles of Incorporation or FHISO Manual. In the absence or
     temporary vacancy of the Secretary, the Vice-chair shall serve as
-    Secretary.  In the absence of both these officers, another member of
-    the Board shall be appointed to assume these duties; such appointment
-    made by a vote of the Board members present, irrespective of whether
-    a quorum is met. 
+    Secretary.  In the absence or temporary vacancy of both the
+    Secretary and Vice-chair, another member of the Board shall be
+    appointed to assume these duties by majority vote of the Board.
 e.  Technical Coordinator. The duties of the Technical Coordinator are
     listed in Section 10.2.1 of these Bylaws.
 f.  Technical Co-coordinator. The duties of the Technical Co-coordinator
@@ -350,11 +356,13 @@ Directors of the Organisation.
 
 ### 9.8 Regular Board Meetings
 
-The Board shall hold meetings at least quarterly. Meetings shall be
-called as agreed at previous Board Meetings, or upon the request of the
-Chair, Vice-chair or one-third of the Board.
+The Board shall hold regular meetings at least quarterly, to be called
+as agreed at previous Board Meetings.
 
-### 9.9 [Deleted]
+### 9.9 Special Board Meetings
+
+The Chair, Vice-chair or one-third of the Board may call a special
+meeting of Board.  At least two days' notice shall be given.
 
 ### 9.10 Conduct of Meetings
 
@@ -464,8 +472,8 @@ d.  defining of technical processes and policies;
 e.  overseeing all technical work;
 f.  assigning technical leadership roles to FHISO members as
     appropriate;
-g.  defining which roles provide membership of the Technical Standing
-    Committee beyond those outlined in these by-laws; and 
+g.  defining which roles provide Technical Standing Committee membership
+    beyond those outlined in these by-laws; and
 h.  recommending proposed standards for ratification under Article 10A.
 
 The Technical Standing Committee Charter is subject to approval by the
@@ -547,63 +555,82 @@ B Directors in odd-numbered years.
 Article 15: Nomination and Election of Directors
 ------------------------------------------------
 
-Members eligible to vote shall annually elect a Board of Directors.
-Class A Directors are elected in odd-numbered years, and Class B
-Directors are elected in even-numbered years.
+Voting Members shall annually elect Officers to serve on a Board of
+Directors.  Class A Directors are elected in odd-numbered years, and
+Class B Directors are elected in even-numbered years.
 
 ### 15.1 Call for Nominations
 
 The Nominating Committee shall secure proposals for nominations for
-elected Officers by preparing a call for nominations distributed to all
-Voting Members. The request shall clearly indicate, describe, and
-present requirements of the positions for which nominations are being
-requested, in accordance with the FHISO Manual. The request shall
-contain all information necessary for Voting Members to propose
-nominations.  Nominations may also be proposed by Directors.  The
-Nominating Committee may make a second call for nominations to all or
-parts of the FHISO membership in order to certify a properly identified
-roster of eligible candidates.
+elected Officers by preparing a call for nominations and distributing it
+to all Voting Members.  The request shall contain all information
+necessary for Voting Members to nominate candidates, and shall state
+when the call for nominations closes which shall be no less than 14 days
+after the distribution of the call for nominations.
+
+The Nominating Committee may make additional calls for nominations if in
+their judgement this is necessary to get a full roster of eligible
+candidates.  Additional calls for nominations shall also state when they
+close, but need not run for 14 days.
 
 ### 15.2 Qualifications for Officers
 
 Members being nominated to serve as an elected Officer of the
-Corporation should (a) fully meet the requirements set forth by the
-Nominating Committee, (b) have consented to their name being entered
-into candidacy; and (c) commit to both time and resources demands
-required for the duration of the term. Nominations must be submitted in
-a timely fashion and accompanied by necessary biographical information.
+Corporation should (a) be a Voting Member of FHISO; (b) have consented
+to their name being entered into candidacy; and (c) commit to both time
+and resources demands required for the duration of the term. 
+
+Nominations must be submitted in a timely fashion and should be
+accompanied by brief biographical information on the candidate to be
+included in the ballot.  Nominations shall only be made by Voting
+Members.  A person may nominate themself.  A person may not be a
+candidate for more than one elected Office in any given election.
 
 ### 15.3 [Deleted]
 
 ### 15.4 Designation of Nominees and Preparation of Ballots
 
-Working from the proposals submitted and in accordance with the FHISO
-Manual, the Nominating Committee shall work to certify a properly
-identified roster of eligible candidates for the election of Directors.
+The Nominating Committee shall produce a ballot for each Office
+being elected.  All candidate who have been properly nominated
+and who are eligible per Section 15.2 of these Bylaws shall be
+included on the ballot.  
+
 The ballot shall also include a statement encouraging members to
 consider both individual qualifications for the position and increasing
 the diversity of the Board.
 
+### 15.4A Permitted Voting Systems
+
+The Nominating Committee shall determine which of the Permitted Voting
+Systems will be used in the election, and shall include this information
+clearly on the ballot.
+
+Permitted Voting Systems include the "first past the post" and "instant
+runoff" systems, together with any other voting systems that have been
+proposed by the Board and approved a majority vote of the membership
+prior to the ballot being distributed.
+
 ### 15.5 Election Schedule
 
 The Nominating Committee shall deliver a ballot to every FHISO Voting
-Member at least thirty (30) days prior to the date set for the election.
-The nominating committee shall also provide for and oversee whatever
+Member at least 14 days prior to the date set for the election.  The
+Nominating Committee shall also provide for and oversee whatever
 electronic balloting procedures are required for the voting.
 
 ### 15.6 Election to Office
 
-For each elected office, the nominee receiving the largest number of
-votes shall be elected. The Secretary shall tabulate the votes,
-determine the results and promptly notify the nominees of the election
-results. The election results shall be announced at the Annual Business
-Meeting and notice shall be made to all Voting Members.
+For each elected office, the nominee receiving the winning vote under
+the specified voting system shall be elected.  There is no minimum
+number of votes which needs to be cast for the election to be valid.
+The Nominating Committee shall tabulate the votes, determine the results
+and promptly notify the nominees of the election results. The election
+results shall be announced at the Annual Business Meeting and notice
+shall be made to all Voting Members.
 
 ### 15.7 Tie Vote
 
 In the case of a tie vote, the FHISO Board shall break the tie by
-majority vote at a meeting at which a quorum is present or by unanimous
-written consent.
+majority vote.
 
 Article 16: General Membership Meetings
 ---------------------------------------
@@ -635,8 +662,8 @@ shall make arrangement for members to attend by electronic connection.
 
 #### 16.1.2 Quorum for Business Meeting
 
-At any Business Meeting, those Voting Members in attendance, whether
-gathered electronically or otherwise, shall constitute a quorum.
+Five Voting Members or 5% of the FHISO's Voting Members, whichever is
+greater, shall constitute a quorum for a Business Meeting.
 
 #### 16.1.3 Majority Vote
 
@@ -738,7 +765,7 @@ Article 22: Revising the Bylaws and/or Articles of Incorporation
 
 a.  A proposal to amend may be made either by:
     i.  Petition by a minimum of twenty percent (20%) of the Voting
-        Membership of FHISO, in writing, filed with the Chair.
+        Members of FHISO, in writing, filed with the Chair.
     ii. Petition by a minimum of fifty-one percent (51%) of the Board of
         Directors of FHISO, in writing, filed with the Chair.
 b.  All proposals will be referred to a Bylaws Review Committee, chaired
@@ -768,7 +795,7 @@ without recourse to a ballot of the membership.
 
 a.  A proposal to amend may be made either by:
     i.  Petition by a minimum of twenty percent (20%) of the Voting
-        Membership of FHISO, in writing, filed with the Chair.
+        Members of FHISO, in writing, filed with the Chair.
     ii. Petition by a minimum of fifty-one percent (51%) of the Board of
         Directors of FHISO, in writing, filed with the Chair.
 b.  All proposals will be referred to an Articles of Incorporation

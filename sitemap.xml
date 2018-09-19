@@ -164,7 +164,7 @@
           title="ELF: Serialization (IRI draft)" />
 
     <page name="elf-dates" versioned="1" unlinked="1"
-          src="legacy-format/dates-iri.md"
+          src="legacy-format/dates.md"
           title="ELF: Date and Age Microformats" />
 
     <page name="basic-concepts" versioned="1"

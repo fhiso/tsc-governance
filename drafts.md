@@ -18,6 +18,12 @@ Extended Legacy Format (ELF): Serialisation Format
    extensibility mechanism which will be used in other FHISO
    specifications.
 
+Extended Legacy Format (ELF): Date and Age Microformats
+
+:  This document defines microformats for representing dates and ages in
+   arbitrary calendars together how they apply to the Gregorian, Julian,
+   French Republican and Hebrew calendars in a GEDCOM-compatible manner.
+
 Extended Legacy Format (ELF): Data Model
 
 :  This document reformulates the tags of the lineage-linked GEDCOM form

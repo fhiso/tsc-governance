@@ -21,8 +21,9 @@ Extended Legacy Format (ELF): Serialisation Format
 Extended Legacy Format (ELF): Date and Age Microformats
 
 :  This document defines microformats for representing dates and ages in
-   arbitrary calendars together how they apply to the Gregorian, Julian,
-   French Republican and Hebrew calendars in a GEDCOM-compatible manner.
+   arbitrary calendars together with how they are applied to the
+   Gregorian, Julian, French Republican and Hebrew calendars in a
+   GEDCOM-compatible manner.
 
 Extended Legacy Format (ELF): Data Model
 

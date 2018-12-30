@@ -24,6 +24,8 @@ Extended Legacy Format (ELF): Date, Age and Time Microformats
    times in arbitrary calendars together with how they are applied to
    the Gregorian, Julian, French Republican and Hebrew calendars in a
    GEDCOM-compatible manner.
+:  Read the [latest public draft](//fhiso.org/TR/elf-dates) or 
+   [download as a PDF](//fhiso.org/TR/elf-dates.pdf).
 
 Extended Legacy Format (ELF): Data Model
 

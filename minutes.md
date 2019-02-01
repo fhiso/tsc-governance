@@ -1,6 +1,27 @@
 Minutes of the Technical Standing Committee
 ===========================================
 
+**2018-12-30**
+[Announced](/pipermail/tsc-announce_fhiso.org/2018-December/000013.html)
+the first public draft of the [ELF Dates](/TR/elf-dates) standard for
+public review.
+
+**2018-12-13**  Held a long TSC meeting by Google Hangout during which
+we reviewed the entire [ELF Dates](/TR/elf-dates) document and resolved
+all the outstanding issues.  We will aim to release this as a first
+public draft over the Christmas period.
+
+**2018-08-26**  Decided to move the definitions of the date and age
+microformat from [ELF Serialisation](/TR/elf-serialisation) to a new
+[ELF Date Microformats](/TR/elf-dates) document.  This is consistent
+with what we've done with complex microformats elsewhere, for example
+the [pattern datatype](/TR/patterns) and the [creator's name
+microformat](/TR/creators-name).
+
+**2018-07-25**  Completed a major rewrite of the [ELF
+Serialisation](/TR/elf-serialisation) and 
+[ELF Data Model](/drafts/elf-data-model) drafts.
+
 **2018-06-05**  Held a very productive TSC meeting by Google Hangout to
 discuss the details of the [ELF Serialisation](/TR/elf-serialisation).
 In particular, it was agreed:

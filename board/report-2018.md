@@ -9,7 +9,7 @@ Annual Report to Members
 The FHISO Board of Directors would like to take this opportunity to
 update you, our members and other interested parties, on our activities
 over the last year, and our plans, as well as our concerns, for the
-future.  This is first time we have prepared a report of this nature,
+future.  This is the first time we have prepared a report of this nature,
 covering all aspects of the organisation, but we plan to do this
 annually in the future.
 
@@ -67,7 +67,7 @@ interoperability between our standards and third-party standards,
 whether open or proprietary; it also helps future-proof our work.
 
 Development of a suite of citation elements standards began in 2016 and
-we released first [public drafts](https://fhiso.org/TR/) of two
+we released the first [public drafts](https://fhiso.org/TR/) of two
 standards in June 2017.  As a result of the useful feedback we received,
 we issued updated drafts of both later that year.  We currently expect
 there to be three more citation elements standards: one will define a
@@ -77,7 +77,7 @@ important test of ELF's extensibility mechanism, and developing that
 mechanism was the major focus of our technical work in 2018 and will
 continue to be in 2019.
 
-When began work on ELF, it rapidly became clear that, even though ELF
+When we began work on ELF, it rapidly became clear that, even though ELF
 was not to depend on citation elements nor vice versa, there were many
 low-level facilities in common between them.  We also felt it necessary
 to have a clear theoretical foundation to the ELF extensibility

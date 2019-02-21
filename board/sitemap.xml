@@ -16,5 +16,9 @@
   <page name="appeals" versioned="1" upload="1"
         src="tsc-governance/board/appeals.md" 
         title="Appeals Process Policy" />
+
+  <page name="report-2018" upload="1"
+        src="tsc-governance/board/report-2018.md" 
+        title="Annual Report for 2018" />
 </site>
 

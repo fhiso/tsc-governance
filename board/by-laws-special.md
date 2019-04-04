@@ -725,7 +725,7 @@ both a corporation and a natural person.
 Article 20A: Special Resolutions
 --------------------------------
 
-Certain Major changes to FHISO's governance, as specified in these
+Certain major changes to FHISO's governance, as specified in these
 Bylaws, are made by means of a Special Resolution in the following
 manner.  A Special Resolution may be proposed by a majority vote of the
 Board, or by a petition of twenty percent of the Voting Members

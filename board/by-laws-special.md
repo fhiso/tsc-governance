@@ -756,8 +756,10 @@ the proposal; otherwise it shall circulated alongside the Governance
 Review Committee's statement within seven days of the Governance Review
 Committee dispanding.
 
-The Special Resolution shall pass if at least two-thirds of the votes
-cast are in favour of the Special Resolution.
+Voting on the Special Resolution shall be by electronic ballot which
+shall remain open for at least 14 days.  The Special Resolution shall
+pass if at least two-thirds of the votes cast are in favour of the
+Special Resolution.
 
 
 Article 21: Dissolution
@@ -840,7 +842,7 @@ election per Article 15.
 
 During the Extended Organisational Period, the Board may, as necessary,
 amend the Bylaws to fully support organisational requirements by
-majority vote of the Board and without a Special Resolution.  The
+majority vote of the Board without requiring a Special Resolution.  The
 requirement to hold an Annual General Meeting is waived during the
 Extended Organisational Period.
 

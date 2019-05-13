@@ -192,7 +192,7 @@ Any changes in the registered office or the registered agent of the
 Organisation shall be accomplished in compliance with the Arizona
 Nonprofit Corporation Act and as provided by these Bylaws.
 
-Article 8: Officers, Coordinators and Co-coorindators
+Article 8: Officers, Coordinators and Co-coordinators
 -----------------------------------------------------
 
 ### 8.1 Officers
@@ -262,7 +262,7 @@ f.  Technical Co-coordinator.  The Technical Co-coordinator serves as
     Technical Coordinator, and is responsible for ensuring records are
     maintained reporting the activities of the Technical Standing
     Committee and other technical work.  In the temporary absence of the
-    Technical Coordinator, the Technical Co-coordinatorr shall chair
+    Technical Coordinator, the Technical Co-coordinator shall chair
     meetings of the Technical Standing Committee and temporarily assume
     the responsibilities of the Technical Coordinator.
 
@@ -547,7 +547,7 @@ Manual.
 Article 10A: Standards
 ----------------------
 
-At the recommendation of the Technical Standing Committee, each
+At the recommendation of the Technical Standing Commitee, each
 recommended standard shall be made available to the general public and
 its recommended status shall be announced to the FHISO membership and
 the general public.
@@ -949,17 +949,17 @@ they will publicly announce that decision; said public announcement
 shall be deemed to terminate the Extended Organisational Period and
 Article 24 shall be stricken from the bylaws.
 
-During the Extended Organisational Period, the Board may, as necessary,
-amend the Bylaws to fully support organisational requirements by
-majority vote of the Board without requiring a Special Resolution.  The
-requirement to hold an Annual General Meeting is waived during the
-Extended Organisational Period.
-
 The limit on the proportion of appointed Directors on the Board is
 waived before the first Annual General Meeting, but not for the
 remainder of the Extended Organisational Period.  All Directors must
 either retire or stand for re-election at the first Annual Board
 Election.
+
+During the Extended Organisational Period, the Board may, as necessary,
+amend the Bylaws to fully support organisational requirements by
+majority vote of the Board without requiring a Special Resolution.  The
+requirement to hold an Annual General Meeting is waived during the
+Extended Organisational Period.
 
 Proposed standards shall not be ratified as official FHISO standards
 during the Extended Organisational Period.

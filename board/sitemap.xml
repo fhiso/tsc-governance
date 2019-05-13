@@ -8,6 +8,10 @@
   <page name="by-laws" versioned="1" upload="1"
         src="tsc-governance/board/by-laws.md" 
         title="Bylaws" />
+
+  <page name="by-laws-board" versioned="1" upload="1"
+        src="tsc-governance/board/by-laws-board.md" 
+        title="Proposed Bylaws" />
  
   <page name="code-of-conduct" versioned="1" upload="1"
         src="tsc-governance/board/code-of-conduct.md" 

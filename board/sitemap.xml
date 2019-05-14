@@ -11,7 +11,11 @@
 
   <page name="by-laws-board" versioned="1" upload="1"
         src="tsc-governance/board/by-laws-board.md" 
-        title="Bylaws (Proposed)" />
+        title="Bylaws (new board structure)" />
+
+   <page name="by-laws-trivial" versioned="1" upload="1"
+        src="tsc-governance/board/by-laws-trivial.md" 
+        title="Bylaws (trivial amendments)" />
  
   <page name="code-of-conduct" versioned="1" upload="1"
         src="tsc-governance/board/code-of-conduct.md" 

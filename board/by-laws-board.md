@@ -633,7 +633,8 @@ Nominating Committee is formed to oversee the process and ensure it is
 conducted in an unbiased manner in accordance with these Bylaws.  The
 Nominating Committee consists of those Directors who are continuing on
 the Board without needing to be re-elected, together with those
-Directors who have decided not to seek re-election.  Members of the
+Directors who have decided not to seek re-election, and any Voting Members
+appointed under Section 13A.2 of these Bylaws.  Members of the
 Nominating Committee are not permitted to stand in any election they are
 overseeing, but may vote in them.
 
@@ -683,7 +684,7 @@ Director at Large.
 
 The Nominating Committee shall produce a ballot for each Directly
 Elected Office being elected, and a single ballot for all Directors at
-Large.  All candidate who have been properly nominated and who are
+Large.  All candidates who have been properly nominated and who are
 eligible per Section 15.2 of these Bylaws shall be included on the
 ballot.
 

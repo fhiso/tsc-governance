@@ -16,6 +16,10 @@
    <page name="by-laws-trivial" versioned="1" upload="1"
         src="tsc-governance/board/by-laws-trivial.md" 
         title="Bylaws (trivial amendments)" />
+
+   <page name="by-laws-notice" versioned="1" upload="1"
+        src="tsc-governance/board/by-laws-notice.md" 
+        title="Bylaws (notice of business meetings)" />
  
   <page name="code-of-conduct" versioned="1" upload="1"
         src="tsc-governance/board/code-of-conduct.md" 

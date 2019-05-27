@@ -594,12 +594,16 @@ re-elected.
 
 Additionally, the minimum number of places of the Board being elected at
 any Annual Board Election shall be one less than half the maximum size
-of the Board at that time.  If as a result it is necessary to find
-Directors to stand for early re-election, they will be selected randomly 
-from among the remaining Directors at Large, and if that fails to
-produce sufficient places, then from among all other Directors.  An
-alternative selection criteria may be used only by unanimous consent of
-the Board.
+of the Board at that time. This may necessitate putting the place of one
+or more Directors whose terms have not expired on the ballot, causing
+those Directors to stand for early re-election. Directors to stand for
+early re-election shall be determined by first seeking volunteers from
+among the Directors. If more Directors volunteer than are needed, the
+Board shall select from among the volunteers. If fewer Directors
+volunteer than are needed, additional Directors shall be selected
+randomly from among those of the remaining Directors at Large, and if
+that fails to produce sufficient places, then from among all other
+Directors. 
 
 The results of an Annual Board Election shall be announced to Voting
 Members at the Annual General Meeting.  If an Annual Board Election

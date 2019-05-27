@@ -9,19 +9,19 @@
         src="tsc-governance/board/by-laws.md" 
         title="Bylaws" />
 
-  <page name="by-laws-board"
+  <page name="by-laws-board" versioned="1"
         src="tsc-governance/board/by-laws-board.md" 
         title="Bylaws (new board structure)" />
 
-  <page name="by-laws-trivial"
+  <page name="by-laws-trivial" versioned="1"
         src="tsc-governance/board/by-laws-trivial.md" 
         title="Bylaws (trivial amendments)" />
 
-  <page name="by-laws-notice"
+  <page name="by-laws-notice" versioned="1"
         src="tsc-governance/board/by-laws-notice.md" 
         title="Bylaws (notice of business meetings)" />
 
-  <page name="by-laws-special"
+  <page name="by-laws-special" versioned="1"
         src="tsc-governance/board/by-laws-special.md" 
         title="Bylaws (calling special board meeting)" />
  

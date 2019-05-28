@@ -641,9 +641,10 @@ re-elected or has decided not to seek re-election.  In addition, any
 Voting Members appointed under Section 13A.2 of these Bylaws shall serve
 on the Nominating Committee.  If this would result in a Nominating
 Committee with fewer than two members, the Board shall appoint further
-Voting Members to the Nominating Committee to bring its membership up to
-two.  Members of the Nominating Committee are not permitted to stand in
-any election they are overseeing, but may vote in them.
+consenting Voting Members to the Nominating Committee to bring its
+membership up to two.  Members of the Nominating Committee are not
+permitted to stand in any election they are overseeing, but may vote in
+them.
 
 Article 15: Nomination and Election of Directors
 ------------------------------------------------

@@ -753,7 +753,7 @@ The Secretary shall produce a ballot containing the text of the Special
 Resolution, together with any explanatory material provided by the
 proposers.  If no Governance Review Committee was convened, the ballot
 shall be circulated to all Voting Members within 14 days of receiving
-the proposal; otherwise it shall circulated alongside the Governance
+the proposal; otherwise it shall be circulated alongside the Governance
 Review Committee's statement within seven days of the Governance Review
 Committee dispanding.
 

@@ -1,6 +1,6 @@
 ---
 title: Bylaws of Family History Information Standards Organisation, Inc.
-date: 5 April 2019
+date: 28 May 2019 (Draft)
 ...
 Bylaws of Family History Information Standards Organisation, Inc.
 =================================================================
@@ -8,8 +8,7 @@ Bylaws of Family History Information Standards Organisation, Inc.
 *This is **draft** version of FHISO's bylaws to clarify how the AGM
 is held.  It has no official status yet.*
 
-*Based on the bylaws as modified on 5 April 2019.*
-*Enacted on 21 September 2013, and last updated on 
+*Based on the bylaws as modified on 28 May 2019.*
 
 Article 1: Name
 ---------------
@@ -70,7 +69,7 @@ and firing of staff, and provision of services.
 Article 4: Membership
 ---------------------
 
-Membership shall be voluntary and open to all who are active, interested
+Membership shall be voluntary and open to all who are active in, interested
 in or materially affected by technology standards for genealogy and
 family history.  FHISO membership shall not be conditional on any other
 memberships or associations, nor unreasonably restricted on the basis of
@@ -193,116 +192,138 @@ Any changes in the registered office or the registered agent of the
 Organisation shall be accomplished in compliance with the Arizona
 Nonprofit Corporation Act and as provided by these Bylaws.
 
-Article 8: Officers
--------------------
+Article 8: Officers, Coordinators and Co-coordinators
+-----------------------------------------------------
 
 ### 8.1 Officers
 
 The Officers of the Corporation shall be the Chair, Vice-chair,
-Treasurer, Secretary, Technical Coordinator, Technical Co-coordinator,
-Membership Coordinator, Membership Co-coordinator and optionally, at the
-discretion of the Board, an Assistant Secretary.
+Treasurer, Secretary and optionally, at the discretion of the Board, an
+Assistant Secretary.
+
+### 8.1A Coordinators and Co-coordinators
+
+Coordinators and Co-coordinators are Directors who are tasked with
+overseeing specific aspects of FHISO's work, and regularly reporting
+back to the Board on their remit.  There shall be a Technical
+Coordinator and a Technical Co-coordinator, together with such other
+Coordinators and Co-coordinators that the Board may establish by
+majority vote.
+
+The Board may abolish any Coordinator or Co-coordinator position except
+the positions of Technical Coordinator and Technical Co-coordinator.  If
+the incumbent Coordinator or Co-coordinator was elected to that position
+as a Directly Elected Office, then a two-thirds vote of the Board is
+required to abolish the position, and the Director holding that position
+remains on the Board as a Director at Large.  Otherwise a simple
+majority vote is required.
 
 ### 8.2 Duties
 
-a.  Chair. The Chair is the chief officer of the Corporation and, under
-    the jurisdiction and supervision of the Board of Directors, directs
-    the Corporation. The Chair serves as chair of the Board of
-    Directors and presides over meetings. The Chair may also serve as an
-    ex officio member without right to vote on all Board committees. The
-    Chair, with the approval of the Board of Directors, may discharge
-    one or more members of any Committee.
-b.  Vice-chair. The Vice-chair shall, in the absence of the Chair,
-    preside over meetings and temporarily assume the responsibilities of
-    the Chair.  In the absence or temporary vacancy of both the Chair
-    and Vice-chair, another member of the Board shall be appointed to
-    assume these duties by majority vote of the Board.
+a.  Chair. The Chair is the head of FHISO and has overall responsibility
+    for the smooth running of the Organisation. The Chair should
+    normally serve as the public face of the Organisation and be active
+    in promoting FHISO's activities to the genealogical community. The
+    Chair is the chief officer of the Corporation and, under the
+    jurisdiction and supervision of the Board of Directors, directs the
+    Corporation. The Chair serves as chair of the Board of Directors and
+    presides over meetings. The Chair may also serve as an ex officio
+    member without right to vote on all Board committees. The Chair,
+    with the approval of the Board of Directors, may discharge one or
+    more members of any Committee.
+
+b.  Vice-chair. The Vice-chair shares with the Chair responsibility for
+    the smooth running of the Organisation, and has a responsibility to
+    bring to the attention of the Board of Directors any problems with
+    the running of the Organisation.  In the temporary absence of the
+    Chair, the Vice-chair shall preside over meetings and temporarily
+    assume the responsibilities of the Chair.
+
 c.  Treasurer.  The Treasurer shall assist in the development of the annual
     budget and the financial plan and shall assist in raising funds for
     the Corporation's operation.  The Treasurer is responsible for
     developing and reviewing fiscal procedures, and shall assist any
     committee in the preparation and administration of committee or
-    project budgets.  In the absence or temporary vacancy of the
-    Treasurer, the Secretary shall serve as Treasurer.  In the absence
-    or temporary vacancy of both the Treasurer and Secretary, another
-    member of the Board shall be appointed to assume these duties by
-    majority vote of the Board.
+    project budgets.
+
 d.  Secretary.  The Secretary is also the Chief Transparency Officer of
     the Organisation.  The Secretary shall maintain the FHISO Manual,
     agendas and minutes of Board and Member meetings, and such other
     records of the Corporation as required by Arizona Law, these bylaws,
-    the Articles of Incorporation or FHISO Manual. In the absence or
-    temporary vacancy of the Secretary, the Vice-chair shall serve as
-    Secretary.  In the absence or temporary vacancy of both the
-    Secretary and Vice-chair, another member of the Board shall be
-    appointed to assume these duties by majority vote of the Board.
-e.  Technical Coordinator. The duties of the Technical Coordinator are
-    listed in Section 10.2.1 of these Bylaws.
-f.  Technical Co-coordinator. The duties of the Technical Co-coordinator
-    are listed in Section 10.2.2 of these Bylaws.
-g.  Membership Coordinator. The Membership Coordinator is responsible
-    for working to ensure, to the extent possible, the membership of
-    FHISO represents all international stakeholders, provides a full
-    range of standardisation and technical expertise, and works to
-    achieve FHISO's other substantial membership goals as expressed by
-    the Board.  The Membership Coordinator shall maintain the FHISO
-    membership list, and administer the FHISO Code of Conduct.  The
-    Membership Coordinator also assists the Technical Standing Committee
-    in selecting members for technical work, and in monitoring
-    and, as practical, arranging support for the implementation of FHISO
-    standards.
-h.  Membership Co-coordinator. The Membership Co-coordinator shall
-    assist the Membership Coordinator in the latter's duties and
-    responsibilities.
+    the Articles of Incorporation or FHISO Manual. 
+
+e.  Technical Coordinator.  The Technical Coordinator serves as chair of
+    the Technical Standing Committee, and has overall responsibility for
+    FHISO's standardisation and specification work, and any other
+    technical work being undertaken.
+
+f.  Technical Co-coordinator.  The Technical Co-coordinator serves as
+    Vice-chair of the Technical Standing Committee, assists the
+    Technical Coordinator, and is responsible for ensuring records are
+    maintained reporting the activities of the Technical Standing
+    Committee and other technical work.  In the temporary absence of the
+    Technical Coordinator, the Technical Co-coordinator shall chair
+    meetings of the Technical Standing Committee and temporarily assume
+    the responsibilities of the Technical Coordinator.
+
+g.  [Deleted]
+
+h.  [Deleted]
+
 i.  Assistant Secretary.  The Assistant Secretary shall assist the
     Secretary and Treasurer in the execution of their duties, as
     directed by the Board of Directors.
 
 ### 8.3 Terms of Office
 
-Officers other than the Assistant Secretary shall be elected for a
-two-year term by FHISO's Voting Members in accordance with Article 15.
+A Directly Elected Office is any Officer, Coordinator or Co-coordinator
+position whose holder is elected to that specific position for a
+two-year term by the Voting Members of FHISO in accordance with Article
+15.  The Chair and Technical Coordinator are Directly Elected Offices.
+The Board may designate any other Officer, Coordinator or Co-coordinator
+position except that of Assistant Secretary as a Directly Elected
+Office.
 
-a.  The Chair, Treasurer, Technical Co-coordinator, and Membership
-    Coordinator serve as Class A Directors.
-b.  The Vice-chair. Secretary, Technical Coordinator, and Membership
-    Co-coordinator serve as Class B Directors.
+Except for the position of Assistant Secretary, any Officer, Coordinator
+or Co-coordinator position which is a Directly Elected Office shall be
+filled in accordance with Section 8.6 of these Bylaws.
 
-An Assistant Secretary may be appointed by the Board under Section 8.3
-of these Bylaws.  The Assistant Secretary has no fixed term of office
-and may be removed by majority vote of the Board at any time without
-cause.  The office of Assistant Secretary may be left vacant at the
-direction of the Board.
+An Assistant Secretary may be appointed by the Board.  The Assistant
+Secretary is not required to be a Voting Member and does not become a
+Director by virtue of being appointed Assistant Secretary.  The
+Assistant Secretary has no fixed term of office and may be removed by
+majority vote of the Board at any time without cause.  The position of
+Assistant Secretary may be left vacant at the direction of the Board.
 
 ### 8.4 [Deleted]
 
-### 8.5 Officer Succession and Term Limits
+### 8.5 Succession
 
-#### 8.5.1 Succession
+If the position of Chair becomes vacant, the Vice-chair shall become
+Chair and serve until the next Annual Board Election.  In the event that
+the position of Vice-chair is also vacant, both positions shall be
+filled according to Section 8.6 of these Bylaws.
 
-a.  In the event of a vacancy in the position of the Chair, the
-    Vice-chair shall succeed to the position of Chair and so serve for
-    the duration of the unexpired term of the vacated office. 
-b.  In the event of a vacancy in the position of Technical Coordinator,
-    the Technical Co-coordinator shall succeed to the position of
-    Technical Coordinator and so serve for the duration of the unexpired
-    term of the vacated office.
-c.  In the event of a vacancy in the position of Membership Coordinator,
-    the Membership Co-coordinator shall succeed to the position of
-    Membership Coordinator and so serve for the duration of the
-    unexpired term of the vacated office.
+If the position of Technical Coordinator becomes vacant, the Technical
+Co-coordinator shall become Technical Coordinator and serve until the
+next Annual Board Election.  In the event that the position of Technical
+Co-coordinator is also vacant, both positions shall be filled according
+to Section 8.6 of these Bylaws.
+
+### 8.5.1 [Deleted]
 
 ### 8.6 Officer Vacancy
 
-When a vacancy exists among the Officers listed in Section 8.3, the
-Secretary, or acting Secretary, shall compile a list of qualified
-candidates by soliciting nominations from the remaining Board members.
-The Board will meet in executive session to deliberate and vote about
-the qualified nominees until a majority vote of the board elects the new
-officer, who shall serve out the unexpired term of the vacated office.
-If reasonable notice has been provided in accordance with the FHISO
-Manual, then for the purpose of meeting to fill officer vacancies, a
-quorum of the Board is preferred, but not required. 
+If the position of any Officer, Coordinator or Co-coordinator other than
+the Assistant Secretary becomes vacant, and these Bylaws provide no
+successor to the position, the vacancy shall be filled by the Board of
+Directors from their number by majority vote.  Any person so elected has
+no fixed term of office and may be removed by majority vote of the Board
+at any time without cause.
+
+A Director may hold more than one position, except that the positions of
+Chair and Vice-Chair must be held by different people, as must the
+positions of Technical Coordinator and Technical Co-Coordinator.
 
 Article 9: Board of Directors
 -----------------------------
@@ -327,16 +348,32 @@ technical, standardisation and project management expertise.
 
 ### 9.3 Size and Constituency
 
-The Board consists of the Officers of FHISO, who shall be no fewer than
-three in number.  All members of the Board shall have an equal vote.
+The Board shall consist of no fewer than three Directors.  The maximum
+number of Directors shall be determined by a two-thirds vote of the Board
+or by a majority vote of Voting Members at a Business Meeting.  
+A vote to reduce the size of the Board shall not have the effect of
+removing any Director from the Board, and Board may exceed its
+determined size until the number of Directors is reduced by elections,
+resignations or removals.
+
+A person elected to a Directly Elected Office shall be a Director by
+virtue being elected to a Directly Elected Office.  A Director who
+was not elected to a Directly Elected Office is called a Director at
+Large.  Directors at Large are elected to a position on the Board by the
+Voting Members, and may be assigned a specific position by majority vote
+of the Board.
 
 ### 9.4 [Deleted]
 
-### 9.5 Resignation; Removal
+### 9.5 Resignation and Removal
 
 A Director may resign at any time by giving written notice to the Chair.
-A member of the Board may be removed for cause by a two-thirds vote of
-the Board.
+A Director may be removed for cause by a two-thirds vote of the Board,
+or by a majority vote of Voting Members at a Business Meeting.
+
+Any Officer, Coordinator or Co-coordinator who resigns or is removed
+from the Board of Director immediately ceases being an Officer,
+Coordinator or Co-coordinator.
 
 ### 9.6 [Deleted]
 
@@ -352,8 +389,10 @@ as agreed at previous Board Meetings.
 
 ### 9.9 Special Board Meetings
 
-The Chair, Vice-chair or one-third of the Board may call a special
-meeting of Board.  At least two days' notice shall be given.
+A special meeting of the Board may be called by the Chair, the
+Vice-chair, or a number of directors, which may include directors on
+sabbatical, equal to half the quorum needed for board business.  At
+least two days' notice shall be given.
 
 ### 9.10 Conduct of Meetings
 
@@ -377,7 +416,7 @@ time without notice.
 Except as otherwise provided by law, the Articles of Incorporation or
 these Bylaws, all matters before the Board of Directors shall be decided
 by a majority vote of the Board members present and voting at a meeting
-at which a quorum exists.
+at which a quorum exists.  All Directors shall have an equal vote.
 
 ### 9.13 Board Action by Written Consent Without a Meeting
 
@@ -387,7 +426,7 @@ taken without a meeting provided that:
 a.  a written proposal is made available to all Board members;
 b.  written consent is received from sufficient Board members to
     constitute a quorum; and
-c.  no request is made under Section 9.8 of these Bylaws to hold a Board
+c.  no request is made under Section 9.9 of these Bylaws to hold a Board
     Meeting to discuss the proposed action.
 
 ### 9.14 Attendance
@@ -398,19 +437,36 @@ the Board shall be deemed to be on sabbatical unless the Board
 determines otherwise, and may give cause for removal under Section 9.5
 of these Bylaws.
 
-### 9.15  Sabbaticals
+### 9.15 Sabbaticals
 
-A Board Member may take a sabbatical from FHISO at any time by giving
-written notice to the Chair or as provided in §9.14, which shall last
-until written notice of the member's return is given to the Chair.  In
-the case of a sabbatical by the Chair, notice shall be given to the
-Vice-chair.  A Board Member on sabbatical shall be deemed absent for
-purpose of Section 8.2 of these Bylaws, and any duties not otherwise
-reassigned by these Bylaws may be reassigned amongst the Board for the
-duration of the sabbatical as the Board sees fit.  A Board Member on
-sabbatical may participate in all Board activities and retains full
-voting rights, but is not counted when determining the quorum for Board
-Meetings.
+A Director wishing to take a break from FHISO may ask the Board for
+permission to take a sabbatical.  Sabbaticals must be approved by
+majority vote of the Board and may be subject to a time limit.  If
+approved or as provided in Section 9.14 of these Bylaws, the Director
+shall be considered on sabbatical until the expiry of any time limit
+applied to the sabbatical or until written notice of the Director's
+return is given to the Chair.  
+
+A Director on sabbatical shall be deemed temporarily absent for purpose
+of Section 8.2 of these Bylaws, and any duties not otherwise reassigned
+by these Bylaws may be reassigned amongst the Board for the duration of
+the sabbatical as the Board sees fit.  A Director on sabbatical may
+participate in all Board activities and retains full voting rights, but
+is not counted when determining the quorum for Board Meetings.
+
+### 9.16 Appointed Directors
+
+If the Board is smaller than the maximum size as determined in Section
+9.3 of these Bylaws, the Board may appoint a new Director to the Board,
+providing that by doing so the number of appointed Directors on the
+Board does not equal or exceed the number elected by the Voting Members
+in accordance with Article 15.  This limit on the proportion of
+appointed Directors on the Board is waived if the Board drops below the
+minimum size specified in Section 9.3 of these Bylaws.
+
+Any person appointed to the Board must meet the qualifications in
+Section 15.2 of these Bylaws, and must either retire or stand for
+re-election at the next Annual Board Election.
 
 Article 9A: Budget
 ------------------
@@ -476,25 +532,7 @@ appoint and/or remove additional members to the TSC in order to ensure
 sufficient expertise or regional diversity. These are known as TSC
 Special Members. The Technical Standing Committee reports to the Board.
 
-#### 10.2.1 Technical Coordinator
-
-a.  Chair meetings of the Technical Standing Committee;
-b.  Oversee and report regularly to the Board about all standardisation
-    and specification work, and other technical activities.  As directed
-    by the Chair, report about such activities to the membership;
-c.  Administer the Technical Standing Committee Charter;
-d.  Work with the Membership Coordinator to ensure a full range of
-    global standardisation and technical competency is available to
-    FHISO.
-
-#### 10.2.2 Technical Co-coordinator
-
-a.  Chairs Technical Standing Committee meetings in the absence of the
-    Coordinator;
-b.  Ensures records are maintained reporting the activities of the
-    Technical Standing Committee and other technical activities.  These
-    duties may be delegated to a Technical Standing Committee Recorder,
-    under the direction or management of the co-coordinator.
+#### 10.2.1–2 [Deleted]
 
 ### 10.3–4 [Deleted]
 
@@ -511,7 +549,7 @@ Manual.
 Article 10A: Standards
 ----------------------
 
-At the recommendation of the Technical Standing Commitee, each
+At the recommendation of the Technical Standing Committee, each
 recommended standard shall be made available to the general public and
 its recommended status shall be announced to the FHISO membership and
 the general public.
@@ -539,89 +577,171 @@ standards for any purpose, without royalty or license fees.
 Articles 11–13: [Deleted]
 -------------------------
 
+Article 13A: Annual and Special Board Elections
+-----------------------------------------------
+
+### 13A.1 Annual Board Elections
+
+FHISO shall hold an Annual Board Election before each Annual General
+Meeting so that Voting Members may elect Directors to serve on the
+Board.  Any Director who was not elected at the previous Annual Board
+Election or at a subsequent Special Board Meeting must either retire
+or stand for re-election.
+
+The total number of Directors to be elected at an Annual Board Election
+shall be the maximum size of the Board at that time, as determined in
+accordance with Section 9.3 of these Bylaws, less the number of
+Directors who are continuing on the Board without needing to be
+re-elected.
+
+Additionally, the minimum number of places of the Board being elected at
+any Annual Board Election shall be one less than half the maximum size
+of the Board at that time. This may necessitate putting the place of one
+or more Directors whose terms have not expired on the ballot, causing
+those Directors to stand for early re-election. Directors to stand for
+early re-election shall be determined by first seeking volunteers from
+among the Directors. If more Directors volunteer than are needed, the
+Board shall select from among the volunteers. If fewer Directors
+volunteer than are needed, additional Directors shall be selected
+randomly from among those of the remaining Directors at Large, and if
+that fails to produce sufficient places, then from among all other
+Directors. 
+
+The results of an Annual Board Election shall be announced to Voting
+Members at the Annual General Meeting.  If an Annual Board Election
+results in a new Chair being elected, the incoming and outgoing Chairs
+may by mutual agreement allow the outgoing Chair to continue presiding
+over the Annual General Meeting.
+
+### 13A.2 Special Board Elections
+
+A Special Board Election to fill the vacancies on the Board may be
+called by a two-thirds vote of the Board, or by a majority vote of
+Voting Members at a Business Meeting.
+
+A motion by Voting Members to call a Special Board Election may nominate
+up to two Voting Members who will, subject to them consenting, serve on
+the Nominating Committee alongside those eligible Directors.  If the
+motion passes, the Board shall constitute a Nominating Committee which
+shall instigate a Call for Nominations within 7 days of the motion
+passing.
+
+The total number of Directors to be elected at a Special Board Election
+shall be the maximum size of the Board at that time, as determined in
+accordance with Section 9.3 of these Bylaws, less the number of
+Directors at the time of the election.
+
 Article 14: Nominating Committee
 --------------------------------
 
-When the Board sets a date for the election of Directors, a Nominating
-Committee is formed to oversee the process.  The Nominating Committee's
-members are the Class A Directors in even-numbered years, and the Class
-B Directors in odd-numbered years.
+When the Board sets a date for an Annual or Special Board Election, a
+Nominating Committee is formed to oversee the process and ensure it is
+conducted in an unbiased manner in accordance with these Bylaws.  The
+Nominating Committee consists of those Directors who are continuing on
+the Board without needing to be re-elected, together with those
+Directors who have decided not to seek re-election, and any Voting Members
+appointed under Section 13A.2 of these Bylaws.  Members of the
+Nominating Committee are not permitted to stand in any election they are
+overseeing, but may vote in them.
 
 Article 15: Nomination and Election of Directors
 ------------------------------------------------
 
-Voting Members shall annually elect Officers to serve on a Board of
-Directors.  Class A Directors are elected in odd-numbered years, and
-Class B Directors are elected in even-numbered years.
-
 ### 15.1 Call for Nominations
 
 The Nominating Committee shall secure proposals for nominations for
-elected Officers by preparing a call for nominations and distributing it
-to all Voting Members.  The request shall contain all information
-necessary for Voting Members to nominate candidates, and shall state
-when the call for nominations closes which shall be no less than 14 days
-after the distribution of the call for nominations.
+the Board by preparing a Call for Nominations and distributing it
+to all Voting Members.  The Call for Nomination shall identify each
+Directly Elected Office being elected and the duties of the position.
+It shall also identify the number of Directors at Large being elected,
+which shall be the total number of Directors being elected less the
+number being elected to Directly Elected Offices.  The Call for
+Nominations shall contain all information necessary for Voting Members
+to nominate candidates, and shall state when the Call for Nominations
+closes which shall be no less than 14 days after the distribution of the
+Call for Nominations.
 
-The Nominating Committee may make additional calls for nominations if in
+The Nominating Committee may make additional Calls for Nominations if in
 their judgement this is necessary to get a full roster of eligible
-candidates.  Additional calls for nominations shall also state when they
+candidates.  Additional Calls for Nominations shall also state when they
 close, but need not run for 14 days.
 
-### 15.2 Qualifications for Officers
+Any vote to change the maximum size of the Board shall not affect an
+election once the initial Call for Nominations has been issued.
 
-Members being nominated to serve as an elected Officer of the
-Corporation should (a) be a Voting Member of FHISO; (b) have consented
-to their name being entered into candidacy; and (c) commit to both time
-and resources demands required for the duration of the term. 
+### 15.2 Qualifications for Directors
+
+Members being nominated to serve on the Board of Directors shall (a) be
+a Voting Member of FHISO; (b) have consented to their name being entered
+into candidacy; and (c) commit to both time and resources demands
+required for the duration of the term. 
 
 Nominations must be submitted in a timely fashion and should be
 accompanied by brief biographical information on the candidate to be
 included in the ballot.  Nominations shall only be made by Voting
-Members.  A person may nominate themself.  A person may not be a
-candidate for more than one elected Office in any given election.
+Members.  A person may nominate themself.  A person may not
+simultaneously stand for election to more than one Directly Elected
+Office, but may stand for election to a Directly Elected Office and as a
+Director at Large.
 
 ### 15.3 [Deleted]
 
 ### 15.4 Designation of Nominees and Preparation of Ballots
 
-The Nominating Committee shall produce a ballot for each Office
-being elected.  All candidate who have been properly nominated
-and who are eligible per Section 15.2 of these Bylaws shall be
-included on the ballot.  
+The Nominating Committee shall produce a ballot for each Directly
+Elected Office being elected, and a single ballot for all Directors at
+Large.  All candidates who have been properly nominated and who are
+eligible per Section 15.2 of these Bylaws shall be included on the
+ballot.
 
-The ballot shall also include a statement encouraging members to
+Each ballot shall indicate the number of Directors being elected from
+that ballot.  If the number of candidates on a ballot is less than or
+equal to the number of Directors being elected from that ballot, the
+Nominating Committee shall declare those candidates elected without
+holding an election for that ballot.
+
+The ballots shall also include a statement encouraging members to
 consider both individual qualifications for the position and increasing
 the diversity of the Board.
 
 ### 15.4A Permitted Voting Systems
 
 The Nominating Committee shall determine which of the Permitted Voting
-Systems will be used in the election, and shall include this information
+Systems will be used in each election, and shall include this information
 clearly on the ballot.
 
-Permitted Voting Systems include the "first past the post" and "instant
-runoff" systems, together with any other voting systems that have been
-proposed by the Board and approved a majority vote of the membership
-prior to the ballot being distributed.
+The "instant runoff" system is a Permitted Voting Systems for the
+election to a Directly Elected Office, or for election as a Director at
+Large when only a single Director at Large is being elected.  The
+"single transferable vote" system is a Permitted Voting System for the
+election of multiple Directors at Large.  Other Permitted Voting Systems
+may be approved by majority vote of the Voting Members prior to the
+ballot being distributed.
 
 ### 15.5 Election Schedule
 
-The Nominating Committee shall deliver a ballot to every FHISO Voting
-Member at least 14 days prior to the close of voting.  Voting shall
-remain open for 14 day.  The Nominating Committee shall also
+The Nominating Committee shall deliver ballots to every FHISO Voting
+Member 14 days prior to the close of voting.  Voting shall
+remain open for at least 14 day.  The Nominating Committee shall also
 provide for and oversee whatever electronic balloting procedures are
 required for the voting.
 
 ### 15.6 Election to Office
 
-For each elected office, the nominee receiving the winning vote under
-the specified voting system shall be elected. There is no minimum number
-of votes which needs to be cast for the election to be valid.  The
-Nominating Committee shall tabulate the votes, determine the results and
-promptly notify the nominees of the election results. The election
-results shall be announced at the Annual Business Meeting and notice
-shall be made to all Voting Members.
+For each Directly Elected Office, the winning candidate under the
+specified voting system shall be elected.  If the winning candidate was
+also a candidate as a Directors at Large, they shall be disqualified
+from the ballot for Directors at Large.  Once all the ballots for
+Directly Elected Offices have been counted, the ballots for Directors at
+Large shall be counted, and the appropriate number of winning candidates
+under the specified voting system shall be elected.
+
+There is no minimum number of votes which needs to be cast for the
+election to be valid.  The Nominating Committee shall tabulate the
+votes, determine the results and promptly notify the nominees of the
+election results.  The results of the election shall then be announced
+to Voting Members, and shall take effect immediately after being
+announced.
 
 ### 15.7 Tie Vote
 
@@ -643,12 +763,12 @@ Board.
 #### 16.1.1 Notice of Business Meetings
 
 Written notice of any Business Meetings, including the Annual General
-Meeting, shall be provided to Voting Members at least sixty (60) days
+Meeting, shall be provided to Voting Members at least 42 days
 prior to such a meeting.
 
 The Secretary shall make all agendas, proposals, exhibits and any
 prepared remarks (collectively, the "Business Meeting Materials")
-available to members at least thirty (30) days prior to the meeting and
+available to members at least 14 days prior to the meeting and
 shall make arrangement for members to attend by electronic connection.
 
 #### 16.1.2 Quorum for Business Meeting
@@ -678,14 +798,12 @@ the motion shall come into effect when the Secretary announces it has
 passed.  A vote conducted in this manner is deemed to have occurred at a
 Business Meeting.
 
-Except as otherwise provided by law, the Articles of Incorporation, or
-these Bylaws, all matters before the Voting Members shall be decided by
-a majority vote in which a quorum of Voting Members participate.  The
-vote shall be conducted in a manner that allows abstentions to recorded,
-as well as votes in favour or against the motion.  The motion shall pass
-if there are more there are more votes in favour of the motion than
-against, and the total number of votes cast, including abstentions, is
-sufficient to constitute a quorum for a Business Meeting.
+The vote shall be conducted in a manner that allows abstentions to
+recorded, as well as votes in favour or against the motion.  The motion
+shall pass if there are more there are more votes in favour of the
+motion than against, and the total number of votes cast, including
+abstentions, is sufficient to constitute a quorum for a Business
+Meeting.
 
 ### 16.2 Special Membership Meetings
 
@@ -764,6 +882,7 @@ responsible for ensuring that all participants adhere to the FHISO Code
 of Conduct during the meeting, and if necessary may have participants
 removed from the meeting for violation thereof.
 
+
 Article 18: Appeals of Decisions
 --------------------------------
 
@@ -815,7 +934,7 @@ The Secretary shall produce a ballot containing the text of the Special
 Resolution, together with any explanatory material provided by the
 proposers.  If no Governance Review Committee was convened, the ballot
 shall be circulated to all Voting Members within 14 days of receiving
-the proposal; otherwise it shall circulated alongside the Governance
+the proposal; otherwise it shall be circulated alongside the Governance
 Review Committee's statement within seven days of the Governance Review
 Committee dispanding.
 
@@ -899,11 +1018,11 @@ they will publicly announce that decision; said public announcement
 shall be deemed to terminate the Extended Organisational Period and
 Article 24 shall be stricken from the bylaws.
 
-During the Extended Organisational Period, the Board shall have the
-authority to create positions, delegate authority and fill vacancies.
-The term of office of all elected Officers may be extended until the
-Extended Organisational Period ends, after which they shall come up for
-election per Article 15.
+The limit on the proportion of appointed Directors on the Board is
+waived before the first Annual General Meeting, but not for the
+remainder of the Extended Organisational Period.  All Directors must
+either retire or stand for re-election at the first Annual Board
+Election.
 
 During the Extended Organisational Period, the Board may, as necessary,
 amend the Bylaws to fully support organisational requirements by

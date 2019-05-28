@@ -24,6 +24,10 @@
   <page name="by-laws-special" versioned="1"
         src="tsc-governance/board/by-laws-special.md" 
         title="Bylaws (calling special board meeting)" />
+
+  <page name="by-laws-agm" versioned="1"
+        src="tsc-governance/board/by-laws-agm.md" 
+        title="Bylaws (AGM procedure)" />
  
   <page name="code-of-conduct" versioned="1" upload="1"
         src="tsc-governance/board/code-of-conduct.md" 

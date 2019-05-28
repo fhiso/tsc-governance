@@ -9,10 +9,6 @@
         src="tsc-governance/board/by-laws.md" 
         title="Bylaws" />
 
-  <page name="by-laws-trivial" versioned="1"
-        src="tsc-governance/board/by-laws-trivial.md" 
-        title="Bylaws (trivial amendments)" />
-
   <page name="by-laws-agm" versioned="1"
         src="tsc-governance/board/by-laws-agm.md" 
         title="Bylaws (AGM procedure)" />

@@ -873,15 +873,21 @@ and shall be made accessible to the general membership.
 ### 17.5 Chairing Meetings
 
 The person chairing the meeting (the "Meeting Chair") shall be
-responsible for managing the use of time, for making a reasonable effort
-to ensure that any agenda is followed, and for ensuring that all
-participants in the meeting have an equal opportunity to share their
-views, which may include encouraging some participants to be more
-succinct in their remarks. The Meeting Chair is also primarily
-responsible for ensuring that all participants adhere to the FHISO Code
-of Conduct during the meeting, and if necessary may have participants
-removed from the meeting for violation thereof.
+responsible for:
 
+a.  managing the use of time during the meeting;
+b.  making a reasonable effort to ensure that any agenda is followed;
+c.  providing all participants in the meeting have an equal opportunity
+    to share their views to the degree the meeting schedule permits; and
+d.  ensuring that all participants adhere to the Code of Conduct.
+
+In balancing these objectives, the Meeting Chair may encourage some
+participants to be more succinct in their remarks, impose time limits on
+comments, or limit the number of people called on to speak.  In doing
+so, the Meeting Chair must ensure that no particular point of view is
+unfairly favoured or disadvantaged.  If necessary, the Meeting Chair may
+have participants who violate the Code of Conduct removed from the
+meeting.
 
 Article 18: Appeals of Decisions
 --------------------------------

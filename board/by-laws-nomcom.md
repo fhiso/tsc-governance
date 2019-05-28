@@ -1,12 +1,14 @@
 ---
 title: Bylaws of Family History Information Standards Organisation, Inc.
-date: 28 May 2019
+date: 28 May 2019 (Draft)
 ...
 Bylaws of Family History Information Standards Organisation, Inc.
 =================================================================
 
-*Enacted on 21 September 2013, and last updated on 
-[28 May 2019](http://fhiso.org/minutes/2019-05-28/).*
+*This is **draft** version of FHISO's bylaws to ensure the Nominating
+Committee consists of more than one person. It has no official status yet.*
+
+*Based on the bylaws as modified on 28 May 2019.*
 
 Article 1: Name
 ---------------

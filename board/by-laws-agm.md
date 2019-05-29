@@ -947,10 +947,10 @@ Committee dispanding.
 
 Voting on the Special Resolution shall be by electronic ballot which
 shall remain open for 14 days.  The Special Resolution shall pass if
-either (i) at least two-thirds of the votes cast are in favour of the
+either (a) at least two-thirds of the votes cast are in favour of the
 Special Resolution, and the total number of votes cast is sufficient to
 constitute a quorum for a Business Meeting per Section 16.1.2 of these
-Bylaws; or (ii) if more than half of all Voting Members vote in favour
+Bylaws; or (b) if more than half of all Voting Members vote in favour
 of it.
 
 Article 21: Dissolution

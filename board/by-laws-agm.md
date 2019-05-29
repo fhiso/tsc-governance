@@ -799,7 +799,7 @@ the motion shall come into effect when the Secretary announces it has
 passed.  A vote conducted in this manner is deemed to have occurred at a
 Business Meeting.
 
-The vote shall be conducted in a manner that allows abstentions to
+The vote shall be conducted in a manner that allows abstentions to be
 recorded, as well as votes in favour or against the motion.  The motion
 shall pass if there are more votes in favour of the motion than against,
 and the total number of votes cast, including abstentions, is sufficient

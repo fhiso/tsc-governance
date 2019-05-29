@@ -721,8 +721,8 @@ ballot being distributed.
 ### 15.5 Election Schedule
 
 The Nominating Committee shall deliver ballots to every FHISO Voting
-Member 14 days prior to the close of voting.  Voting shall
-remain open for at least 14 day.  The Nominating Committee shall also
+Member at least 14 days prior to the close of voting.  Voting shall
+remain open for 14 day.  The Nominating Committee shall also
 provide for and oversee whatever electronic balloting procedures are
 required for the voting.
 

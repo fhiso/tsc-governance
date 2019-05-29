@@ -801,10 +801,9 @@ Business Meeting.
 
 The vote shall be conducted in a manner that allows abstentions to
 recorded, as well as votes in favour or against the motion.  The motion
-shall pass if there are more there are more votes in favour of the
-motion than against, and the total number of votes cast, including
-abstentions, is sufficient to constitute a quorum for a Business
-Meeting.
+shall pass if there are more votes in favour of the motion than against,
+and the total number of votes cast, including abstentions, is sufficient
+to constitute a quorum for a Business Meeting.
 
 ### 16.2 Special Membership Meetings
 

@@ -762,9 +762,10 @@ Board.
 
 #### 16.1.1 Notice of Business Meetings
 
-Written notice of any Business Meetings, including the Annual General
-Meeting, shall be provided to Voting Members at least 42 days
-prior to such a meeting.
+Written notice of the Annual General Meeting shall be provided to Voting
+Members at least 42 days prior to the meeting.   Written notice of all
+other Business Meetings shall be provided to Voting Members at least 30
+days prior to the meeting.
 
 The Secretary shall make all agendas, proposals, exhibits and any
 prepared remarks (collectively, the "Business Meeting Materials")

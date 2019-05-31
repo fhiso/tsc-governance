@@ -245,7 +245,7 @@ over the organisation.
 Most of our members joined in 2013 in the months after we first invited
 people to become members of the organisation.  The $20 membership fee
 has always been described as an annual fee, but we felt it inappropriate
-to charge of membership renewals while FHISO established itself and
+to charge membership renewals while FHISO established itself and
 started technical work in earnest.  We believe FHISO is now well
 established, notwithstanding the further changes we wish to make to our
 governance structure, and with 

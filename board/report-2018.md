@@ -239,8 +239,8 @@ exceed membership dues by a large margin.  A large majority of the
 donations received have been from a small number of our members, often
 given to cover specific costs.  However, relying on donations from a
 small number of members is ultimately unsustainable, and risks being
-undemocratic if it gives those members having greater influence over the
-organisation.  
+undemocratic if it results in those members having greater influence
+over the organisation.  
 
 Most of our members joined in 2013 in the months after we first invited
 people to become members of the organisation.  The $20 membership fee

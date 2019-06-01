@@ -1,1 +1,1 @@
-by-laws-20190528.md
+by-laws-20190529.md

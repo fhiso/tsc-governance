@@ -18,8 +18,8 @@ with the addition of a structured extensibility mechanism.
 The Technical Standing Committee (TSC) is responsible for coordinating
 the organisation's technical work which is currently proceeding in a
 under a [simplified governance structure](/governance).  At present the
-TSC has two members: Luther Tychonievich and Richard Smith.  We can be
-contacted by email at [tsc@fhiso.org](mailto:tsc@fhiso.org).
+TSC has three members: Richard Smith, Seth Taplin and Luther Tychonievich.  We
+can be contacted by email at [tsc@fhiso.org](mailto:tsc@fhiso.org).
 
 
 Get involved {#involve}

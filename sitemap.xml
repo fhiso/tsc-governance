@@ -155,10 +155,6 @@
           src="legacy-format/serialisation.md"
           title="ELF: Serialization" />
 
-    <page name="elf-data-model" versioned="1" unlinked="1"
-          src="legacy-format/data-model.md"
-          title="ELF: Data Model" />
-
     <page name="elf-dates" versioned="1" unlinked="1"
           releases="20181230"
           src="legacy-format/dates.md"

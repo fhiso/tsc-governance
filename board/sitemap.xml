@@ -20,5 +20,9 @@
   <page name="report-2018" upload="1"
         src="tsc-governance/board/report-2018.md" 
         title="Annual Report for 2018" />
+
+  <page name="report-2019" upload="1"
+        src="tsc-governance/board/report-2019.md" 
+        title="Annual Report for 2019" />
 </site>
 

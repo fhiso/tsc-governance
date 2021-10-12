@@ -177,6 +177,6 @@
 
     <page name="gedcom-mediatype" versioned="1" unlinked="1"
           src="legacy-format/media-type-spec.md"
-          title="GEDCOM File Format" />
+          title="The GEDC Serialisation Format" />
   </directory>
 </site>

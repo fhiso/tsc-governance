@@ -178,5 +178,9 @@
     <page name="gedcom-mediatype" versioned="1" unlinked="1"
           src="legacy-format/media-type-spec.md"
           title="The GEDC Serialisation Format" />
+
+    <page name="citation-goals" versioned="1" unlinked="1"
+          src="sources-and-citations/citation-outline.md"
+          title="Citations: Goals and Considerations" />
   </directory>
 </site>

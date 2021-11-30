@@ -179,10 +179,8 @@
           src="legacy-format/media-type-spec.md"
           title="The GEDC Serialisation Format" />
 
-    <!-- This file is not currently on the release branch.  Make sure
-         sure it's merged across before uncommenting.  2021-11-20 -->
-    <!-- page name="citation-goals" versioned="1" unlinked="1"
+    <page name="citation-goals" versioned="1" unlinked="1"
           src="sources-and-citations/citation-outline.md"
-          title="Citations: Goals and Considerations" /-->
+          title="Citations: Goals and Considerations" />
   </directory>
 </site>

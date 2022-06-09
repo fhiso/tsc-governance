@@ -25,15 +25,13 @@ The following have been identified by the TSC as the current priorities:
    reasonably be needed in the algorithmic construction of citations to
    family history or genealogical sources.
 
-2. Develop a new "extended legacy format" (or ELF for short) which will
-   be fully compatible with current uses of GEDCOM 5.5.1, but fewer
-   ambiguities, a cleaner presentation, and the addition of an extension
-   mechanism suitable for anticipated FHISO extensions.
-
-3. Define serialisations for citation elements in ELF and in GEDCOM X,
+2. Define serialisations for citation elements in ELF and in GEDCOM X,
    and a means of tagging citation elements in HTML.
 
-4. Produce a source derivation vocabulary.
+3. Produce a source derivation vocabulary.
+
+4. Remain engaged in the GEDCOM steering committee and represent the interests
+   of open standards there.
 
 Want to know more?  Read our [technical strategy document](/strategy).
 

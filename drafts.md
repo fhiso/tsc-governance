@@ -8,31 +8,6 @@ comment and feedback from interested parties.  The [**tsc-public**
 mailing list](tsc-public) is the preferred place for discussing this
 work.
 
-Extended Legacy Format (ELF)                                      {#elf}
-----------------------------
-
-Extended Legacy Format (ELF): Serialisation Format
-
-:  This document defines a file format that is fully compatible with
-   GEDCOM, but with the addition of a structured, IRI-based
-   extensibility mechanism which will be used in other FHISO
-   specifications.
-
-Extended Legacy Format (ELF): Date, Age and Time Microformats
-
-:  This document defines microformats for representing dates, ages and
-   times in arbitrary calendars together with how they are applied to
-   the Gregorian, Julian, French Republican and Hebrew calendars in a
-   GEDCOM-compatible manner.
-:  Read the [latest public draft](//fhiso.org/TR/elf-dates) or 
-   [download as a PDF](//fhiso.org/TR/elf-dates.pdf).
-
-Extended Legacy Format (ELF): Data Model
-
-:  This document reformulates the tags of the lineage-linked GEDCOM form
-   as an ELF data model, in the process clarifying its ambiguities and
-   documenting best current practice.
-
 Citation Elements                                                 {#cev}
 -----------------
 
@@ -50,27 +25,36 @@ Citation Elements: Bindings for RDFa
    identified and tagged using RDFa attributes within HTML and XML
    formatted citations, allowing an application to extract them in a
    systematic manner.
-:  Read the [latest public draft](//fhiso.org/TR/cev-rdfa-bindings) or 
+:  Read the [latest public draft](//fhiso.org/TR/cev-rdfa-bindings) or
    [download as a PDF](//fhiso.org/TR/cev-rdfa-bindings.pdf).
 
-Citation Elements: Bindings for ELF
+Citations: Goals and Considerations
+
+:  This document surveys requirements that have been expressed for
+   a citations standard; high-level designs that have been proposed;
+   and which requirements each design is suited to handle.
+:  Read the [latest public draft](//fhiso.org/TR/citation-goals) or
+   [download as a PDF](//fhiso.org/TR/citation-goals.pdf).
+
+Citation Elements: Bindings for GEDCOM
 
 :  This document defines how citation elements should be represented in
-   FHISO's Extensible Legacy Format (ELF), a format based on and
-   compatible with GEDCOM, but with the addition of a new extensibility
-   mechanism. 
+   FamilySearch GEDCOM 7.0.
+:  No draft of this document has yet been released.
 
 Citation Elements: Bindings for GEDCOM X
 
 :  This document defines extensions to the GEDCOM X data model and its
    JSON and XML serialisations to allow citation elements to be
    represented in GEDCOM X.
+:  No draft of this document has yet been released.
 
 Citation Elements: Vocabulary
 
 :  This document defines a collection of citation elements allowing the
    representation of information normally found in formatted citations
    to diverse types of source.
+:  No draft of this document has yet been released.
 
 General Utility Components                                       {#util}
 --------------------------
@@ -99,8 +83,36 @@ Simple Triples Discovery Mechanism
    which provides a means for internet-connected applications to access
    information on any unfamiliar third-party extensions which they may
    encounter.
-:  Read the [latest public draft](//fhiso.org/TR/triples-discovery) or 
+:  Read the [latest public draft](//fhiso.org/TR/triples-discovery) or
    [download as a PDF](//fhiso.org/TR/triples-discovery.pdf).
+
+
+Concluded or suspended efforts
+----------------------------
+
+Extended Legacy Format (ELF)
+
+:  Prior to the release of FamilySearch GEDCOM 7.0 FHISO engaged in
+   defining an Extended Legacy Format (ELF) that was backwards-compatible
+   with GEDCOM 5.5.1 but clearer and with added extensibility
+   features needed to bind the same citation standard to GEDCOM and GEDCOM-X.
+   FHISO's work on ELF helped prompt the creation of the GEDCOM 7.0 project,
+   which included FHISO members who included those extensibility features
+   in the 7.0 specification. As such, the ELF project was suspended.
+
+   One public draft was produced as part of the ELF project:
+
+   Extended Legacy Format (ELF): Date, Age and Time Microformats
+
+   :  This document defines microformats for representing dates, ages and
+      times in arbitrary calendars together with how they are applied to
+      the Gregorian, Julian, French Republican and Hebrew calendars in a
+      GEDCOM-compatible manner.
+   :  Read the [latest public draft](//fhiso.org/TR/elf-dates) or
+      [download as a PDF](//fhiso.org/TR/elf-dates.pdf).
+
+
+
 
 ---
 <div class="cc-img"><a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a></div>

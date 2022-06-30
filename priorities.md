@@ -25,7 +25,7 @@ The following have been identified by the TSC as the current priorities:
    reasonably be needed in the algorithmic construction of citations to
    family history or genealogical sources.
 
-2. Define serialisations for citation elements in ELF and in GEDCOM X,
+2. Define serialisations for citation elements in GEDCOM 7 and in GEDCOM X,
    and a means of tagging citation elements in HTML.
 
 3. Produce a source derivation vocabulary.
